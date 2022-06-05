@@ -28,7 +28,7 @@ twitter_username: metadaddy
 github_username:  metadaddy
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
