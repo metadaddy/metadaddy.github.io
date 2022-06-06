@@ -13,7 +13,7 @@ categories:
 
 **You asked, we listened... the next OpenSSO Community Day is in Europe!**
 
-After I announced the [NYC OpenSSO Community Day](http://blog.superpat.com/2009/01/27/opensso-community-day-nyc-march-17-2009/), one of the most frequently asked questions was "Can we do an OpenSSO community day near me?", with many requests coming from the other side of the Atlantic. So... we got together with our friends at [Kuppinger Cole](http://www.kuppingercole.com/) and are pleased to announce... **OpenSSO Community Day 2.0**!!!
+After I announced the [NYC OpenSSO Community Day](opensso-community-day-nyc-march-17-2009), one of the most frequently asked questions was "Can we do an OpenSSO community day near me?", with many requests coming from the other side of the Atlantic. So... we got together with our friends at [Kuppinger Cole](http://www.kuppingercole.com/) and are pleased to announce... **OpenSSO Community Day 2.0**!!!
 
 Hosted by the [European Identity Conference 2009](https://www.id-conf.com/eic2009) at the [Deutsches Museum](http://www.nfadm.de/) in Munich, Germany, and sponsored by [Sun Microsystems](http://www.sun.com/), this is another opportunity for [OpenSSO](http://opensso.org/) contributors, deployers and users to come together in an informal '[unconference](http://en.wikipedia.org/wiki/Unconference)' setting.
 

@@ -11,7 +11,7 @@ categories:
 
 <span style="margin: 5px; float: right;">[![](images/Microsoft.png)](http://identity-des.com/2008/10/28/microsoft-geneva-server-supports-saml-20/)</span>
 
-This is a blog entry I've been wanting to write for [a LONG time](http://blog.superpat.com/2005/12/08/update-on-ws-federation-saml-2-0/)... At the Professional Developers Conference today, Microsoft announced that 'Geneva', their forthcoming identity platform (part of which is the successor to Active Directory Federation Services), will not only support [SAML 2.0](http://www.oasis-open.org/committees/security/) as a token format, but also as a single sign-on protocol. The Federation Wars are over!!!
+This is a blog entry I've been wanting to write for [a LONG time](update-on-ws-federation-saml-2-0)... At the Professional Developers Conference today, Microsoft announced that 'Geneva', their forthcoming identity platform (part of which is the successor to Active Directory Federation Services), will not only support [SAML 2.0](http://www.oasis-open.org/committees/security/) as a token format, but also as a single sign-on protocol. The Federation Wars are over!!!
 
 Lots more to read on the subject:
 

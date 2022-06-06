@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">![](images/200px-Flag_of_Brazil.svg_.png)</span> [As I blogged the other day](http://blog.superpat.com/2009/06/18/opensso-br-javali-and-fisl-10-0-next-week/), I'm in Brazil this week, speaking at the [Javali](http://javali.org.br/) and [FISL](http://fisl.softwarelivre.org/10/www/) conferences in [Porto Alegre](http://en.wikipedia.org/wiki/Porto_Alegre). I'm all done with my sessions now, and, as promised, here are the slides:
+<span style="margin: 5px; float: right;">![](images/200px-Flag_of_Brazil.svg_.png)</span> [As I blogged the other day](opensso-br-javali-and-fisl-10-0-next-week), I'm in Brazil this week, speaking at the [Javali](http://javali.org.br/) and [FISL](http://fisl.softwarelivre.org/10/www/) conferences in [Porto Alegre](http://en.wikipedia.org/wiki/Porto_Alegre). I'm all done with my sessions now, and, as promised, here are the slides:
 
 *   [Secure RESTful Web Services with OpenSSO](http://mediacast.sun.com/users/metadaddy/media/OpenSSO_IdentityServices_Javali_2009.pdf) (Javali)
 *   [Open Source Identity Services with OpenSSO](http://mediacast.sun.com/users/metadaddy/media/OpenSSO_IdentityServices_FISL_2009.pdf) (FISL)

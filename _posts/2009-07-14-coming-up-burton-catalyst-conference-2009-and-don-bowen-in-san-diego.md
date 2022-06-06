@@ -23,4 +23,4 @@ If you know Don at all, you'll be aware that he's been fighting brain cancer sin
 
 _UPDATE_ [Eve also covers the Project Concordia workshop being held on the Monday](http://www.xmlgrrl.com/blog/archives/2009/07/14/consumerizing-it-at-catalyst/): [Use Cases Driving Identity in Enterprise 2.0: The Consumerization of IT](http://projectconcordia.org/index.php/Catalyst_pre-conference_workshop_agenda) and the [Cloud SSO Interop Demo](http://identityblog.burtongroup.com/bgidps/2009/07/cloud-sso-interop-demonstration.html), in which Sun is participating with [OpenSSO](http://opensso.org/). Two more reasons to be in San Diego the last week of July!
 
-_UPDATE 2_ [Get into the Sun hospitality suite FREE!](http://blog.superpat.com/2009/07/19/shhhh-get-into-the-sun-hospitality-suite-at-burton-catalyst-2009-free/)
+_UPDATE 2_ [Get into the Sun hospitality suite FREE!](shhhh-get-into-the-sun-hospitality-suite-at-burton-catalyst-2009-free)

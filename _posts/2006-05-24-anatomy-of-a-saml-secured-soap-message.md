@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-As promised, here is a dissection of the SOAP message from [yesterday's post on the AM 7.1 Beta Secure Web Services Tutorial](http://blog.superpat.com/2006/05/23/access-manager-7-1-beta-in-java-ee-toolsnetbeans-5-5-enterprise-pack/).
+As promised, here is a dissection of the SOAP message from [yesterday's post on the AM 7.1 Beta Secure Web Services Tutorial](access-manager-7-1-beta-in-java-ee-toolsnetbeans-5-5-enterprise-pack).
 
 First, let's take another look at the secured message in its entirety:
 

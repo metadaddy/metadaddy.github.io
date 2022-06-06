@@ -11,4 +11,4 @@ categories:
 
 <span style="margin: 5px; float: right;">[![](images/OpenSSO_BrightTALK200901.png)](http://www.brighttalk.com/webcasts/2241/attend)</span>
 
-I'll be reprising my [OpenSSO in the Clouds](http://blog.superpat.com/2008/12/08/opensso-in-the-clouds/) presentation as part of [BrightTALK](http://www.brighttalk.com/)'s [Cloud Computing Summit](http://www.brighttalk.com/webcasts/search/Cloud%2520Computing%2520Summit/status/upcoming) at 2pm next Thursday, January 29th 2009\. [Click here to attend](http://www.brighttalk.com/webcasts/2241/attend) and discover how [OpenSSO](http://opensso.org/) fits into the cloud computing model.
+I'll be reprising my [OpenSSO in the Clouds](opensso-in-the-clouds) presentation as part of [BrightTALK](http://www.brighttalk.com/)'s [Cloud Computing Summit](http://www.brighttalk.com/webcasts/search/Cloud%2520Computing%2520Summit/status/upcoming) at 2pm next Thursday, January 29th 2009\. [Click here to attend](http://www.brighttalk.com/webcasts/2241/attend) and discover how [OpenSSO](http://opensso.org/) fits into the cloud computing model.

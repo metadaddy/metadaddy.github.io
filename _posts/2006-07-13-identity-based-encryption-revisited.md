@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-After my [earlier post on Identity-Based Encryption](http://blog.superpat.com/2006/07/10/identity-based-encryption/), I [promised James McGovern](http://blog.superpat.com/2006/07/10/identity-based-encryption/#comment-336) that I'd ping our security folks for their take on IBE. I did so and [Radia Perlman](http://research.sun.com/people/mybio.php?uid=28941) was kind enough to reply and gave me permission to quote her in full:
+After my [earlier post on Identity-Based Encryption](identity-based-encryption), I [promised James McGovern](http://blog.superpat.com/2006/07/10/identity-based-encryption/#comment-336) that I'd ping our security folks for their take on IBE. I did so and [Radia Perlman](http://research.sun.com/people/mybio.php?uid=28941) was kind enough to reply and gave me permission to quote her in full:
 
 > Identity based encryption.  
 > Sigh.

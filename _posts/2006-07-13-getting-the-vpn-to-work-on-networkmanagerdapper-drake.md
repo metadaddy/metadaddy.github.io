@@ -15,7 +15,7 @@ _UPDATE - September 15 - thanks to 'Ed', I have it all working. Please see the [
 
 _UPDATE - August 14 - the VPN package linked below doesn't seem to update resolv.conf, so I stopped using it and went back to vpnc from the command line. Please do leave a comment if you're able to get all this working properly!_
 
-As [I've previously mentioned](http://blog.superpat.com/2006/05/22/i-see-your-breezy-badger-and-raise-you-a-dapper-drake/), I'm running Ubuntu Dapper Drake on my laptop. Everything has been working just dandy since I recovered from my [hard disk crash](http://blog.superpat.com/2006/06/05/hard-drive-recovery-ubuntu-style/), except for one minor annoyance: the version of [NetworkManager](http://www.gnome.org/projects/NetworkManager/) in Dapper Drake doesn't do VPN.
+As [I've previously mentioned](i-see-your-breezy-badger-and-raise-you-a-dapper-drake), I'm running Ubuntu Dapper Drake on my laptop. Everything has been working just dandy since I recovered from my [hard disk crash](hard-drive-recovery-ubuntu-style), except for one minor annoyance: the version of [NetworkManager](http://www.gnome.org/projects/NetworkManager/) in Dapper Drake doesn't do VPN.
 
 I've been using the command line vpnc to connect, which works ok, except that, when the DHCP lease expires, NetworkManager overwrites the VPN's version of /etc/resolv.conf, so I have to either keep a backup /etc/resolv.conf to copy back, or just restart the vpn.
 

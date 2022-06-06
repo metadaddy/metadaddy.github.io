@@ -17,4 +17,4 @@ My session this year, 'Open Source Identity Services with OpenSSO', on Friday Ju
 
 So - probably not enough notice for anyone to book a trip to Brazil, but, if you're going to be there anyway, drop in one one or both sessions and say "Hi"! And bring the [cachaça](http://en.wikipedia.org/wiki/Cacha%C3%A7a)! :-)
 
-_UPDATE_ - [slides posted](http://blog.superpat.com/2009/06/26/slides-from-javali-and-fisl-2009/).
+_UPDATE_ - [slides posted](slides-from-javali-and-fisl-2009).

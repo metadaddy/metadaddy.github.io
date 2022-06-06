@@ -11,7 +11,7 @@ categories:
 
 <span style="margin: 5px; float: right;">[![](images/express8.png)](https://opensso.dev.java.net/public/use/index.html)</span>
 
-[A few weeks ago, I blogged about the impending release of OpenSSO Express Build 8](http://blog.superpat.com/2009/07/27/opensso-express-build-8-and-opends-se-2-0/); well, the [OpenSSO](http://opensso.org/) engineers have been hard at work since then, and [Express 8 was officially released yesterday](https://opensso.dev.java.net/servlets/ReadMsg?list=announce&msgNo=9).
+[A few weeks ago, I blogged about the impending release of OpenSSO Express Build 8](opensso-express-build-8-and-opends-se-2-0); well, the [OpenSSO](http://opensso.org/) engineers have been hard at work since then, and [Express 8 was officially released yesterday](https://opensso.dev.java.net/servlets/ReadMsg?list=announce&msgNo=9).
 
 Among the new features:
 

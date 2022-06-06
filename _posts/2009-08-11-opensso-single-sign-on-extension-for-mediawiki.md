@@ -13,7 +13,7 @@ tags:
 
 <span style="margin: 5px; float: right;">[![](images/Wiki.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
 
-Following the recent trio of [OpenSSO](http://opensso.org/) Extensions targeting PHP CMS applications (see my previous entries covering the extensions for [Drupal](http://blog.superpat.com/2009/07/25/opensso-single-sign-on-module-for-drupal/), [WordPress](http://blog.superpat.com/2009/07/27/opensso-single-sign-on-plugin-for-wordpress/) and [Joomla](http://blog.superpat.com/2009/08/01/opensso-single-sign-on-plugin-for-joomla/)), I decided to look at [MediaWiki](http://www.mediawiki.org/), the PHP application powering [Wikipedia](http://en.wikipedia.org/) and many other wikis across the web.
+Following the recent trio of [OpenSSO](http://opensso.org/) Extensions targeting PHP CMS applications (see my previous entries covering the extensions for [Drupal](opensso-single-sign-on-module-for-drupal), [WordPress](opensso-single-sign-on-plugin-for-wordpress) and [Joomla](opensso-single-sign-on-plugin-for-joomla)), I decided to look at [MediaWiki](http://www.mediawiki.org/), the PHP application powering [Wikipedia](http://en.wikipedia.org/) and many other wikis across the web.
 
 In common with the CMS apps, MediaWiki has a very pluggable architecture, making implementation of a single sign-on extension very straightforward, and I was able to get an initial implementation done in a few hours. The user interface is very like the WordPress plugin: just click on the regular 'log in' link to be sent to OpenSSO to authenticate; on returning to MediaWiki, the extension validates the OpenSSO cookie and uses it to retrieve the username from OpenSSO, setting up the MediaWiki session.
 
