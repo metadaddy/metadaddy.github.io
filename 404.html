@@ -23,3 +23,13 @@ layout: default
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+
+<script>
+  // Automatically redirect requests containing /yyyy/MM/dd/ to the new location
+  const re = "/\\d\\d\\d\\d/\\d\\d/\\d\\d/(.+)"
+  const matches = document.location.href.match(re);
+  console.log(matches);
+  if (matches && matches.length > 0) {
+    document.location = '/' + matches[1];
+  }
+</script>
