@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/swekey_s.png)](https://opensso.dev.java.net/public/extensions/#authnmodules)</div>
+<div style="margin: 5px; float: right;">[![](images/swekey_s.png)](https://opensso.dev.java.net/public/extensions/#authnmodules)</div>
 
 I just finished another [OpenSSO Extension](https://opensso.dev.java.net/public/extensions) - this time, an authentication module for the [Swekey](http://www.swekey.com/) authentication key ([README](https://opensso.dev.java.net/source/browse/opensso/extensions/authnswekey/README.txt?view=markup), [source](https://opensso.dev.java.net/source/browse/opensso/extensions/authnswekey/src/)). The authentication module prompts the user for their username and uses the Swekey to generate a one-time password, which is validated against the Swekey authentication server.
 

@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/cpqd.png)](http://www.cpqd.com.br/)</span>
+<span style="float: right;">[![](images/cpqd.png)](http://www.cpqd.com.br/)</span>
 
 [CPqD](http://www.cpqd.com.br/) provides Operations Support and Business Support systems, training and consulting services to the telecommunications industry. [Mário Celso Teixeira](http://marioct.blogspot.com/), of CPqD's Brazilian facility, describes their [OpenSSO](http://opensso.org/) deployment in an email today to the users@opensso.dev.java.net mailing list:
 

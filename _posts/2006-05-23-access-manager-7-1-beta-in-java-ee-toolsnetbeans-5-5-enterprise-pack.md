@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin:40px;float:right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/ThumbsUp.jpg)</span>
+<span style="margin:40px;float:right;">![](images/ThumbsUp.jpg)</span>
 
 If you've been following [Eric Leach's blog](http://blogs.sun.com/roller/page/cericleach), you'll know that, just before JavaOne, [we released a beta version of Sun Java System Access Manager 7.1](http://blogs.sun.com/roller/page/cericleach?entry=java_one_blog_number_10) via a couple of bundles:
 
@@ -25,12 +25,12 @@ Here are my notes from installing the [Java EE 5 Tools Bundle Beta](http://java.
 *   Let's get started. I downloaded the [Java EE 5 Tools Bundle Beta](http://java.sun.com/javaee/downloads/index.jsp), `chmod +x netbeans-5_5-ide-entpack-sdk-jbi-am-linux.sh; ./netbeans-5_5-ide-entpack-sdk-jbi-am-linux.sh` and I'm into the installer. I need to tell the installer where I've put Java - it doesn't seem to know. Fair enough - this is not a standard system - I have at least three versions of Java floating around.
 *   The installer prompts me for ports, passwords and trundles away for a while. On completion it reports that there were some warnings. I check `/tmp/netbeans-5_5-installation-20060523143837.41310.log` and it looks like the installer was not able to get to Access Manager (AM) at `http://_myhostname_:8080/amserver/configurator.jsp`. Ah - that's probably because it likes your system to have a fully qualified domain name (FQDN), e.g. _myhostname.mydomain.com_ and I don't have a domain set. This is documented in the [release notes](http://java.sun.com/javaee/sdk/tools/sdkentpack_relnotes.jsp) - it doesn't seem to be a big deal, and I can get to that URL in Firefox, so we'll just carry on.
 *   OK - surf to `http://_myhostname_:8080/amserver/configurator.jsp` and I get a nice configuration page:  
-    [![](http://blog.superpat.com/wp-content/uploads/2009/09/AMConfigurator.png)](http://blog.superpat.com/wp-content/uploads/2009/09/AMConfigurator.png)  
+    [![](images/AMConfigurator.png)](images/AMConfigurator.png)  
     Those are the 5 parameters you need to set to configure AM. I left everything as default and (as expected from the release notes) got a server error. Putting a dummy domain on the end of the hostname did the trick and I'm at an Access Manager login screen.  
-    [![](http://blog.superpat.com/wp-content/uploads/2009/09/AMLogin.png)](http://blog.superpat.com/wp-content/uploads/2009/09/AMLogin.png)  
+    [![](images/AMLogin.png)](images/AMLogin.png)  
     Cool! The simplest ever AM install/config ![](http://blogs.sun.com/roller/images/smileys/smile.gif)
 *   Login with the default amadmin/admin123 (we'll have to change that - I _hate_ default passwords. We should add 'amadmin password' to the 5 configuration parameters) and I'm in the now familiar AM 7.x admin UI:  
-    [![](http://blog.superpat.com/wp-content/uploads/2009/09/AMAdmin.png)](http://blog.superpat.com/wp-content/uploads/2009/09/AMAdmin.png)
+    [![](images/AMAdmin.png)](images/AMAdmin.png)
 *   Ok - install and config done. On to the [Securing Web Services tutorial](http://www.netbeans.org/kb/55/amsecurity.html). The tutorial notes are a little sketchy - I'll fill in the gaps here as I go along.
 *   Grab the [stockapp.zip](http://www.netbeans.org/download/samples/amsecurity/stockapp.zip) sample source and put it somewhere sensible, as suggested in the tutorial. I get two directories, `stockclient` and `stockservice`. Cool.
 *   Tutorial step 2 is missing an initial steplet - you need to go to the App Server admin console at `http://_myhostname_:4848/` and login as admin with whatever AS password you selected at install. Hmm - I don't see a 'Runtime' tab, but I can see a running App Server (in fact, I already checked that it was running by browsing `http://_myhostname_:8080/` and, of course, I wouldn't have been able to configure AM if it wasn't running. So, according to step 2c, I can safely skip forward to step 5 in the tutorial. Except that it seems like the next thing I have to do is in step 3\.

@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/idmbuzz.png)](http://channelsun.sun.com/video/programs/idm+buzz+tv/1631239600)</span>
+<span style="margin: 5px; float: right;">[![](images/idmbuzz.png)](http://channelsun.sun.com/video/programs/idm+buzz+tv/1631239600)</span>
 
 At [DIDW 2008](http://public.cxo.com/conferences/index.html?conferenceID=24) last September, [Daniel Raskin](http://blogs.sun.com/raskin/), [Nick Wooler](http://blogs.sun.com/nickwooler/) and I, among others, recorded a series of videos covering various aspects of identity management. I just went and watched the first in the series - a fascinating discussion between Daniel and [Felix Gaehtgens](http://blogs.kuppingercole.com/gaehtgens/) of [Kuppinger Cole](http://www.kuppingercole.com/) - 'Open Source in Identity'.
 

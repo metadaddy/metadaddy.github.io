@@ -11,7 +11,7 @@ categories:
 
 We have a hallway poster campaign at Sun, highlighting Sun employees for their unique contributions to the company. The latest set of posters include one featuring [Wizard of IdM](http://blogs.sun.com/roller/page/wizidm), Don Bowen:  
 
-<center>![](http://blog.superpat.com/wp-content/uploads/2009/09/DonPoster.jpg)   ![](http://blog.superpat.com/wp-content/uploads/2009/09/adjusted-don.jpg)</center>
+<center>![](images/DonPoster.jpg)   ![](images/adjusted-don.jpg)</center>
 
 As you can see, there have been some, ah, customizations, to the poster on the right.  
 Here is Don's quote from the poster:

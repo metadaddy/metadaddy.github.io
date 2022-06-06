@@ -12,7 +12,7 @@ categories:
   - Federation
 ---
 
-<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/padlock.jpg)</span>
+<span style="margin: 5px; float: right;">![](images/padlock.jpg)</span>
 
 [James McGovern](http://duckdown.blogspot.com/) asks the rhetorical question ["Did you know that many federated identity deployments are insecure?"](http://duckdown.blogspot.com/2009/01/did-you-know-that-many-federated.html). I'll leave James' criticisms of OpenID and Cardspace to the respective experts, as I'm really only on the periphery of those communities, but let's have a look at the insecurities he perceives in SAML-based federation...
 

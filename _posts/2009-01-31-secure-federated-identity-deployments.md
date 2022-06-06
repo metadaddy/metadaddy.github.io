@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/padlock.jpg)</span>
+<span style="margin: 5px; float: right;">![](images/padlock.jpg)</span>
 
 Nothing if not provocative, [James McGovern](http://duckdown.blogspot.com/) continues our discussion on security and federation with [Insecure Federated Identity Deployments](http://duckdown.blogspot.com/2009/01/insecure-federated-identity-deployments.html). As always, James raises a number of good questions; I'll see how may I can get through here...
 

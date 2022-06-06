@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/l2_2009_J1.gif)](http://java.sun.com/javaone/2009/articles/wrapup.jsp)</span>
+<span style="margin: 5px; float: right;">[![](images/l2_2009_J1.gif)](http://java.sun.com/javaone/2009/articles/wrapup.jsp)</span>
 
 Wow - is it really _over a month_ since [my last blog entry](http://blog.superpat.com/2009/05/07/the-fedlet-best-innovation-award-winner-at-the-european-identity-conference/)? I guess that's what happens when you get your head down into a project - in this case, building a demo for [CommunityOne West](http://developers.sun.com/events/communityone/2009/west/) and [JavaOne](http://java.sun.com/javaone/) 2009 to show off the latest [OpenSSO](http://opensso.org/) features.
 

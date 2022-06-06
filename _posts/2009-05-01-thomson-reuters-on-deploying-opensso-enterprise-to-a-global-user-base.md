@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/tr-logo.jpg)](http://channelsun.sun.com/video/identity+management+at+verizon+wireless/10633172001)</span>
+<span style="margin: 5px; float: right;">[![](images/tr-logo.jpg)](http://channelsun.sun.com/video/identity+management+at+verizon+wireless/10633172001)</span>
 
 About a month ago, [Nick](http://blogs.sun.com/nickwooler/) [mentioned](http://blogs.sun.com/nickwooler/entry/opends_open_source_identity_architecture) a presentation that Chris Lucock, head of Enterprise Architecture desktop products for [Thomson Reuters](http://thomsonreuters.com/), had given at March's [Gartner Identity & Access Management Summit](http://www.gartner.com/it/page.jsp?id=749726) in London. The [video for this presentation has just gone online](http://channelsun.sun.com/video/programs/idm+buzz+tv/1631239600) and, like [the last Gartner video I blogged, by Damo Bashyam of Verizon Wireless](http://blog.superpat.com/2009/02/18/verizon-wireless-on-improving-security-and-user-experience-with-sun-access-manager/), it's got some great information on a large scale real world deployment of [OpenSSO Enterprise](http://www.sun.com/software/products/opensso_enterprise/index.xml).
 

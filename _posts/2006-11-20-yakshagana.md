@@ -17,9 +17,9 @@ These pictures are so fantastic I just had to post them:
 
 <tr>
 
-<td>[![](http://blog.superpat.com/wp-content/uploads/2009/09/Yak1_small.jpg)](http://blog.superpat.com/wp-content/uploads/2009/09/Yak1_big.jpg)</td>
+<td>[![](images/Yak1_small.jpg)](images/Yak1_big.jpg)</td>
 
-<td>[![](http://blog.superpat.com/wp-content/uploads/2009/09/Yak2_small.jpg)](http://blog.superpat.com/wp-content/uploads/2009/09/Yak2_big.jpg)</td>
+<td>[![](images/Yak2_small.jpg)](images/Yak2_big.jpg)</td>
 
 </tr>
 

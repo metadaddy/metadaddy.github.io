@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSOSecondLife250x167.png)](http://www.sun.com/software/products/opensso_enterprise/get.jsp)</span>
+<span style="margin: 5px; float: right;">[![](images/OpenSSOSecondLife250x167.png)](http://www.sun.com/software/products/opensso_enterprise/get.jsp)</span>
 
 Funny how things turn out, after over three years of work ([OpenSSO](http://opensso.org/) was [announced on July 13, 2005](http://www.sun.com/smi/Press/sunflash/2005-07/sunflash.20050713.3.xml)), we end up releasing three days early (November 11 2008 rather than the planned November 14 2008)... Still, OpenSSO Enterprise 8.0 is now officially DONE:
 

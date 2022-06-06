@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right; border-style: solid; border-width: 1px; border-color: silver">[![](http://blog.superpat.com/wp-content/uploads/2009/09/FAM_roadmap_small.jpg)](https://opensso.dev.java.net/public/use/index.html)</span>
+<span style="margin: 5px; float: right; border-style: solid; border-width: 1px; border-color: silver">[![](images/FAM_roadmap_small.jpg)](https://opensso.dev.java.net/public/use/index.html)</span>
 
 Last Friday we declared '[build 1](http://download.java.net/general/opensso/stable/fam80-build1/)' of Sun Java System Federated Access Manager 8.0\. This is the initial build (from the [OpenSSO](https://opensso.dev.java.net/) code) that we (engineering) handed off to QA to start the official [countdown to FAM 8.0](http://blogs.sun.com/raskin/entry/federated_access_manager_roadmap). Congratulations to both the FAM engineering team and the wider OpenSSO community on this huge milestone.
 

@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/bird.gif)](http://twitter.com/)</span>
+<span style="margin: 5px; float: right;">[![](images/bird.gif)](http://twitter.com/)</span>
 
 I had to piece this together from several sources (including some great hints from [Mark Atwood](http://mark.atwood.name/)), so I consider it blogworthy...
 

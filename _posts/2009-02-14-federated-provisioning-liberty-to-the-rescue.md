@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/libertylogo.jpg)](http://www.projectliberty.org/resource_center/specifications/)</span>
+<span style="margin: 5px; float: right;">[![](images/libertylogo.jpg)](http://www.projectliberty.org/resource_center/specifications/)</span>
 
 I thought I'd throw my hat into the ring of the current federated provisioning discussion ([Ian](http://www.tuesdaynight.org/2009/02/05/will-the-real-federated-provisioning-please-stand-up.html), [Nishant](http://blogs.oracle.com/talkingidentity/2009/02/the_thing_about_federated_prov.html), [Ian again](http://www.tuesdaynight.org/2009/01/07/down-with-federated-provisioning.html), [James](http://duckdown.blogspot.com/2009/02/federated-provisioning.html)) ...
 

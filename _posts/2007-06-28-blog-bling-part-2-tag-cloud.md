@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/TagCloud.png)](http://blogs.sun.com/superpat/)</span>
+<span style="margin: 5px; float: right;">[![](images/TagCloud.png)](http://blogs.sun.com/superpat/)</span>
 
 Back in version 3.1, [Apache Roller](http://roller.apache.org/) [added support for tags](http://cwiki.apache.org/confluence/display/ROLLER/What%27s+new+in+Roller+3.1). After [Dave Levy](http://blogs.sun.com/DaveLevy/) [blogged about tag clouds](http://blogs.sun.com/DaveLevy/entry/more_about_tag_clouds_on), [I added one](http://blogs.sun.com/superpat/entry/from_categories_to_tags), based on his code:
 

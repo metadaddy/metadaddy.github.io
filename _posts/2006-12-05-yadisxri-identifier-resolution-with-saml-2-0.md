@@ -24,8 +24,8 @@ The magic takes place between steps 2 and 3: the service provider resolves the u
 
 <tr>
 
-<td align="center">[![](http://blog.superpat.com/wp-content/uploads/2009/09/mylinks.png)  
-<span align="center">**Click to view Flash presentation**</span>](http://blog.superpat.com/wp-content/uploads/2009/09/OpenIDStyleSAML_viewlet_swf.html) </td>
+<td align="center">[![](images/mylinks.png)  
+<span align="center">**Click to view Flash presentation**</span>](images/OpenIDStyleSAML_viewlet_swf.html) </td>
 
 </tr>
 

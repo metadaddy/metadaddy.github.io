@@ -9,6 +9,6 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/200px-Flag_of_Brazil.svg_.png) ](http://blog.superpat.com/OpenSSO_FISL9.0.pdf)</span> 
+<span style="margin: 5px; float: right;">[![](images/200px-Flag_of_Brazil.svg_.png) ](http://blog.superpat.com/OpenSSO_FISL9.0.pdf)</span> 
 
-As promised, [here are the slides to my presentation this evening](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSO_FISL9.0.pdf) at [FISL 9.0](http://fisl.softwarelivre.org/9.0/www/). I've had a great time here in Brazil - wonderful people, fabulous food and kicking [cachaça](http://en.wikipedia.org/wiki/Cacha%C3%A7a). I'll definitely be back sometime in the future.
+As promised, [here are the slides to my presentation this evening](images/OpenSSO_FISL9.0.pdf) at [FISL 9.0](http://fisl.softwarelivre.org/9.0/www/). I've had a great time here in Brazil - wonderful people, fabulous food and kicking [cachaça](http://en.wikipedia.org/wiki/Cacha%C3%A7a). I'll definitely be back sometime in the future.

@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/FinalSolutions.png)](http://www.naatak.com/current_event.htm)</span>
+<span style="margin: 5px; float: right;">[![](images/FinalSolutions.png)](http://www.naatak.com/current_event.htm)</span>
 
 The play '[Final Solutions](http://www.naatak.com/current_event.htm)' ([trailer](http://www.youtube.com/watch?v=TgQmNOkQUJU), [pictures](http://podila.com/events/2008/Naatak-FinalSolutions-Preview), [more pictures](http://sbasumal.smugmug.com/gallery/6230080_3bjFD)), centers on Hindu-Muslim conflict in India, from partition to the current day. The play is presented by [Naatak](http://www.naatak.com/), a group of Indian theater enthusiasts here in the San Francisco Bay Area. The [curtain raiser article in Indian Express](http://www.naatak.com/Final%20Solutions/IndianExpressNaatakFinalsolutionsCurtainRaiser.pdf) gives much more background.
 

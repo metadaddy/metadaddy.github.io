@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/jazoonlogo170x37.png) ](http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&detail=5245)</span> 
+<span style="margin: 5px; float: right;">[![](images/jazoonlogo170x37.png) ](http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&detail=5245)</span> 
 
 The slides for my OpenSSO presentation at [Jazoon 08](http://jazoon.com/) (last week) are now online - just click on the link from the [session page at the Jazoon 08 site](http://jazoon.com/jazoon08/en/conference/presentationdetails.html?type=sid&detail=5245). If you attended my session, you can give it a rating (out of 5 stars) at that page. You can also see [my photos from Jazoon 08 in a Flickr set](http://www.flickr.com/photos/superpat/sets/72157605823614382/).
 

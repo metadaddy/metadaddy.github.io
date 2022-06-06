@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Sharepoint200x160.png)](http://developers.sun.com/identity/reference/techart/sharepoint.html)</span>
+<span style="margin: 5px; float: right;">[![](images/Sharepoint200x160.png)](http://developers.sun.com/identity/reference/techart/sharepoint.html)</span>
 
 Back in December of last year, [Marina Sum](http://weblogs.java.net/blog/marinasum/) and I co-wrote the article [Sun and Microsoft Interoperate for Web Authentication, Part 1](http://developers.sun.com/identity/reference/techart/interoperability.html). In that article we examined how [Sun Java System Access Manager](http://www.sun.com/software/products/access_mgr/)'s policy agents work with Microsoft Internet Information Server (IIS) to provide single sign-on and authorization in a heterogeneous environment. At the end of the piece, we promised further articles on integration with SharePoint Portal Server 2003 and Outlook Web Access in Microsoft Exchange 2003\.
 

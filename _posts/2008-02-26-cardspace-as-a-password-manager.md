@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/infocard_184x128.png)</span>
+<span style="margin: 5px; float: right;">![](images/infocard_184x128.png)</span>
 
 You might have noticed the exchange between [Ben](http://www.links.org/) and [Kim](http://www.identityblog.com/) over the past day or two... Ben made a point that [CardSpace makes OpenID redundant](http://www.links.org/?p=297) - why not just send a password to the RP? [Kim jumped all over him](http://www.identityblog.com/?p=924) - somewhat misinterpreting what Ben later describes as [one of my most diabolical hungover bits of prose ever](http://www.links.org/?p=298). Ben goes on to clarify that maybe CardSpace can have a role in helping the user manage passwords; [Kim says "Hmm... Food for thought"](http://www.identityblog.com/?p=928) (okay, I'm paraphrasing); Ben [admits he didn't explain himself too clearly to begin with](http://www.links.org/?p=299); and, glory be, they're [violently agreeing](http://www.identityblog.com/?p=929). Phew! I thought we were going to be seeing [handbags at dawn](http://en.wiktionary.org/wiki/handbags_at_dawn)... ![](http://blogs.sun.com/images/smileys/smile.gif)
 

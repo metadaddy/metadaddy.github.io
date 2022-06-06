@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-[<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/2005_06_29_20-34-10-948_n2.jpg)</span>](http://www.turkcell.com.tr/)
+[<span style="margin: 5px; float: right;">![](images/2005_06_29_20-34-10-948_n2.jpg)</span>](http://www.turkcell.com.tr/)
 
 From [Orhan Alkan](http://blogs.sun.com/aorhan/) comes [this report](http://blogs.sun.com/aorhan/entry/using_digital_signature_as_strong) of [Turkcell](http://www.turkcell.com.tr/) deploying mobile strong authentication with [Sun Java System Access Manager](http://www.sun.com/software/products/access_mgr/). Orhan and his colleagues in the Sun Turkey Professional Services team developed a [custom authentication module](http://docs.sun.com/app/docs/doc/819-2139/6n4et3e88?a=view#adugq) to handle the signature validation in Access Manager.
 

@@ -9,5 +9,5 @@ categories:
   - General
 ---
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/uoposeflus.jpg){: .align-left}  
+![](images/uoposeflus.jpg){: .align-left}  
 Tom is three and a half now, and enjoys spelling out words on the fridge with his magnetic letters. This was this morning's effort. Neither Karen or I could figure it out, until Tom told us... See if you can guess what it is before you [click here](http://en.wikipedia.org/wiki/Euoplocephalus). I know - scary!

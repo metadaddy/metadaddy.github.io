@@ -13,7 +13,7 @@ tags:
   - xen
 ---
 
-[![OpenSolaris Logo](http://blog.superpat.com/wp-content/uploads/2010/02/opensolaris_logo_trans.png "opensolaris_logo_trans"){: .align-left}](http://blog.superpat.com/wp-content/uploads/2010/02/opensolaris_logo_trans.png)I recently trawled the web figuring out how to install a [paravirtualized](http://en.wikipedia.org/wiki/Paravirtualization) OpenSolaris 2009.06 on Xen. No one place had all the story, so I'm blogging this. I found a lot of the information spread across many other blog entries; some I figured out on my own. Thanks to all the giants on whose shoulders I am now standing:
+[![OpenSolaris Logo](images/opensolaris_logo_trans.png "opensolaris_logo_trans"){: .align-left}](images/opensolaris_logo_trans.png)I recently trawled the web figuring out how to install a [paravirtualized](http://en.wikipedia.org/wiki/Paravirtualization) OpenSolaris 2009.06 on Xen. No one place had all the story, so I'm blogging this. I found a lot of the information spread across many other blog entries; some I figured out on my own. Thanks to all the giants on whose shoulders I am now standing:
 
 *   [Setup OpenSolaris 1002-127 PV DomU at Xen 3.4.2 & Libvirt 0.7.1-15 (2.6.31.6 pvops) on top of F12 per John Levon](http://blogs.sun.com/mrj/entry/installing_opensolaris_on)
 *   [Installing OpenSolaris on Xen](http://blogs.sun.com/mrj/entry/installing_opensolaris_on)

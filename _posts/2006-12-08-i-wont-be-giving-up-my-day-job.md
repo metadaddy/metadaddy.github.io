@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-[<span style="margin:10px;float:right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/GottaWholeLottaLove.png)</span>](http://www.flickr.com/photos/xmlgrrl/317390084/)
+[<span style="margin:10px;float:right;">![](images/GottaWholeLottaLove.png)</span>](http://www.flickr.com/photos/xmlgrrl/317390084/)
 
 ...to move into either videography or singing. From the un-talent show at [IIW 2006b](http://iiw.windley.com/wiki/Workshop2006b):
 

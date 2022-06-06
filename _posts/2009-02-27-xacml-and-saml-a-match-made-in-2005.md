@@ -9,7 +9,7 @@ categories:
   - Federation
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/0227kearns01.jpg)](http://www.networkworld.com/newsletters/dir/index.html)</span>
+<span style="margin: 5px; float: right;">[![](images/0227kearns01.jpg)](http://www.networkworld.com/newsletters/dir/index.html)</span>
 
 Over at [NetworkWorld](http://www.networkworld.com/)'s [Security: Identity Management Alert](http://www.networkworld.com/newsletters/dir/index.html), [Dave Kearns](http://vquill.com/) weighs in on the ongoing federated provisioning debate with [Federated provisioning could exist](http://www.networkworld.com/newsletters/dir/2009/022309id2.html). While Dave is right to highlight the promise of the [Liberty Alliance](http://www.projectliberty.org/)'s [Identity Governance Framework](http://www.projectliberty.org/index.php/liberty/strategic_initiatives/identity_governance) (IGF), he is way off the mark regarding [XACML](http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xacml) and [SAML](http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security). Dave writes:
 

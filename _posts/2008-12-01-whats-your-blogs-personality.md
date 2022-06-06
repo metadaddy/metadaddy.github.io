@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<div style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/ISTJ-250.gif)](http://www.typealyzer.com/)</div>
+<div style="margin: 5px; float: right;">[![](images/ISTJ-250.gif)](http://www.typealyzer.com/)</div>
 
 [Doc](http://blogs.law.harvard.edu/doc/) [points to](http://blogs.law.harvard.edu/doc/2008/11/30/fun-with-personalities/) [his Linux Journal entry](http://www.linuxjournal.com/content/keeping-linux-safe-1994-0) in which he discusses [Typealyzer](http://www.typealyzer.com/), a site that, given your blog URL, divines its 'personality' as a [Myers-Briggs Type Indicator](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) (MBTI). Of course, the first thing I did was to point it at myself, with somewhat surprising results. According to Typealyzer, [Superpatterns](http://blogs.sun.com/superpat/) is [ISTJ](http://en.wikipedia.org/wiki/ISTJ) - a '[Duty Fulfiller](http://www.personalitypage.com/ISTJ.html)'. From Typealyzer:
 

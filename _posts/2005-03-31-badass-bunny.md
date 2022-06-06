@@ -9,4 +9,4 @@ categories:
   - General
 ---
 
-[![](http://blog.superpat.com/wp-content/uploads/2009/09/BadassBunny_tn.jpg){: .align-left}](http://blog.superpat.com/wp-content/uploads/2009/09/BadassBunny.jpg)Tom, my 3 year old little boy made an Easter Bunny puppet. The teacher asked him why he looks so cross - Tom said "He's sad because he can't find any Easter eggs". I think he looks like a very hot cross bunny. :)
+[![](images/BadassBunny_tn.jpg){: .align-left}](images/BadassBunny.jpg)Tom, my 3 year old little boy made an Easter Bunny puppet. The teacher asked him why he looks so cross - Tom said "He's sad because he can't find any Easter eggs". I think he looks like a very hot cross bunny. :)

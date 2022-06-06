@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/restwebservices-rest-arch.png)](http://developers.sun.com/identity/reference/techart/restwebservices.html)</span>
+<span style="margin: 5px; float: right;">[![](images/restwebservices-rest-arch.png)](http://developers.sun.com/identity/reference/techart/restwebservices.html)</span>
 
 It's been a while since the last [OpenSSO](http://opensso.org/) article at [Sun Developer Network](http://developers.sun.com/) (the excellent, three-part, [Troubleshooting OpenSSO with Firefox Add-Ons](http://developers.sun.com/identity/reference/techart/troubleshooting.html)), but [Malla](http://blogs.sun.com/malla/) and [Rick](http://blogs.sun.com/rikart/) have come up trumps with [Securing REST Web Services With OAuth](http://developers.sun.com/identity/reference/techart/restwebservices.html).
 

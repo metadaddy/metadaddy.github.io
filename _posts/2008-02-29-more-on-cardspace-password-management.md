@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/infocard_184x128.png)</span>
+<span style="margin: 5px; float: right;">![](images/infocard_184x128.png)</span>
 
 I wrote an entry on Tuesday about [CardSpace as a Password Manager](http://blogs.sun.com/superpat/entry/cardspace_as_a_password_manager). [Kim](http://www.identityblog.com/) [responded with a request](http://www.identityblog.com/?p=932): _"I’d like to hear Pat’s ideas about the user experience of bootstrapping the passwords into the Identity Provider."_.
 

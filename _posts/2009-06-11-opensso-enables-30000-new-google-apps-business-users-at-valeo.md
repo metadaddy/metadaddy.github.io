@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/entete_logo.gif)](http://www.valeo.com/en/press-releases/details.html?id=100)</span>
+<span style="margin: 5px; float: right;">[![](images/entete_logo.gif)](http://www.valeo.com/en/press-releases/details.html?id=100)</span>
 
 Among the [OpenSSO](http://opensso.org/)-related news items that popped up while [I had my head down over the past few weeks](http://blog.superpat.com/2009/06/09/back-after-javaone-2009/), I noticed the [Google Blog entry](http://googleblog.blogspot.com/2009/05/30000-new-google-apps-business-users-at.html) and [Valeo press release](http://www.valeo.com/en/press-releases/details.html?id=100) concerning the global industrial group's [Google Apps](http://www.google.com/apps/intl/en/business/index.html) deployment - 30,000 Valeo employees now have access to a new communication and collaborative working platform based on Google Apps Premier Edition and supported by [Capgemini](http://www.capgemini.com/), one of the largest enterprise deployments of Google Apps to date.
 

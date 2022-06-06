@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/UbuntuLogoSmall.png){: .align-left} Inspired by [Mark Shuttleworth](https://wiki.ubuntu.com/MarkShuttleworth) on stage last week at JavaOne, and [Eric](http://blogs.sun.com/roller/page/cericleach)'s recent [blog entry](http://blogs.sun.com/roller/page/cericleach?entry=java_one_blog_number_10) (partly) on installing [Ubuntu](http://www.ubuntu.com), I spent a few hours last weekend installing [Dapper Drake](https://wiki.ubuntu.com/DapperDrake), the latest, greatest (currently beta) Ubuntu release.
+![](images/UbuntuLogoSmall.png){: .align-left} Inspired by [Mark Shuttleworth](https://wiki.ubuntu.com/MarkShuttleworth) on stage last week at JavaOne, and [Eric](http://blogs.sun.com/roller/page/cericleach)'s recent [blog entry](http://blogs.sun.com/roller/page/cericleach?entry=java_one_blog_number_10) (partly) on installing [Ubuntu](http://www.ubuntu.com), I spent a few hours last weekend installing [Dapper Drake](https://wiki.ubuntu.com/DapperDrake), the latest, greatest (currently beta) Ubuntu release.
 
 There are more tips and tricks on installing Ubuntu on the [Ubuntu Wiki](https://wiki.ubuntu.com/) than I could ever hope to cover here, so I'll just give my first impressions...
 

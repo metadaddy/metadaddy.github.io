@@ -11,7 +11,7 @@ categories:
   - Federation
 ---
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/nseries.png){: .align-left} [Rajeev Angal](http://blogs.sun.com/roller/page/superpat?entry=transcending_boundaries_with_federated_identity) and I will be presenting 'Federated Web Services With Mobile Devices' next week at JavaOne 2006 in San Francisco. Here's the blurb from the [session catalog](http://www.cplan.com/javaone2006/contentcatalog) at the JavaOne website:
+![](images/nseries.png){: .align-left} [Rajeev Angal](http://blogs.sun.com/roller/page/superpat?entry=transcending_boundaries_with_federated_identity) and I will be presenting 'Federated Web Services With Mobile Devices' next week at JavaOne 2006 in San Francisco. Here's the blurb from the [session catalog](http://www.cplan.com/javaone2006/contentcatalog) at the JavaOne website:
 
 > **Session ID:** TS-6673
 > 

@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/SunOpenID.png)](http://blogs.sun.com/hubertsblog/entry/openid_sun_architecture)</span>
+<span style="margin: 5px; float: right;">[![](images/SunOpenID.png)](http://blogs.sun.com/hubertsblog/entry/openid_sun_architecture)</span>
 
 As you might already know, [OpenID.sun.com](http://openid.sun.com/) has been live for a few days now. I have my shiny new OpenID ([http://openid.sun.com/metadaddy](http://openid.sun.com/metadaddy)) and have already used it to log in to the [Project Concordia](http://projectconcordia.org/) wiki and add myself to the [list of participants](http://projectconcordia.org/index.php/Main_Page#Participants). Everything seems to be working as it should.
 

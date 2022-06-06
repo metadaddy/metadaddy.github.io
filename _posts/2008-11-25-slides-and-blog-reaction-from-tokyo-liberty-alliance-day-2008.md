@@ -9,9 +9,9 @@ categories:
   - Federation
 ---
 
-<div style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/TokyoPreso.jpg)</div>
+<div style="margin: 5px; float: right;">![](images/TokyoPreso.jpg)</div>
 
-[Here are the slides [PDF]](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSO_LibertyTokyo2008.pdf) from my presentation at the Tokyo Liberty Alliance Day last month. The picture on the right is of the Microsoft speaker, [Shigeya Tanabe](http://blogs.technet.com/stanabe/), talking about [Microsoft's recent commitment to SAML 2.0](http://identity-des.com/2008/10/28/microsoft-geneva-server-supports-saml-20/), which he illustrated by a screen cap from [my blog entry on the subject](http://blogs.sun.com/superpat/entry/welcome_microsoft_to_the_world).
+[Here are the slides [PDF]](images/OpenSSO_LibertyTokyo2008.pdf) from my presentation at the Tokyo Liberty Alliance Day last month. The picture on the right is of the Microsoft speaker, [Shigeya Tanabe](http://blogs.technet.com/stanabe/), talking about [Microsoft's recent commitment to SAML 2.0](http://identity-des.com/2008/10/28/microsoft-geneva-server-supports-saml-20/), which he illustrated by a screen cap from [my blog entry on the subject](http://blogs.sun.com/superpat/entry/welcome_microsoft_to_the_world).
 
 There was some blog coverage too, (all in Japanese):
 

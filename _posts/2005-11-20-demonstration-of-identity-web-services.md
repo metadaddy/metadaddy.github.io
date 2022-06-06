@@ -28,8 +28,8 @@ Just click the screenshot below to view the demo...
 
 <tr>
 
-<td align="center">[![](http://blog.superpat.com/wp-content/uploads/2009/09/eGov_slide001.jpg)  
-<span align="center">**Click to view Flash presentation**</span>](http://blog.superpat.com/wp-content/uploads/2009/09/AccessManagerLibertyeGovDemoNew_viewlet_swf.html) </td>
+<td align="center">[![](images/eGov_slide001.jpg)  
+<span align="center">**Click to view Flash presentation**</span>](images/AccessManagerLibertyeGovDemoNew_viewlet_swf.html) </td>
 
 </tr>
 

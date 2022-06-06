@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/springseraph.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
+<span style="margin: 5px; float: right;">[![](images/springseraph.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
 
 On Friday morning, Jim Gellman of the [Institute for Systems Biology](http://systemsbiology.org/) [asked a question on the OpenSSO Users mailing list](https://opensso.dev.java.net/servlets/ReadMsg?listName=users&msgNo=4484) about [OpenSSO](http://opensso.org/)/[Spring Security](http://static.springframework.org/spring-security/site/index.html) (formerly known as Acegi) integration:
 

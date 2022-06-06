@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-[<span style="margin: 10px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/Nail.jpg)</span>](http://blog.superpat.com/wp-content/uploads/2009/09/Nail.jpg)
+[<span style="margin: 10px; float: right;">![](images/Nail.jpg)</span>](images/Nail.jpg)
 
 I got into my car last night in the Sun parking lot at the Santa Clara campus, pulled away and immediately heard a "Schlup, schlup, schlup" from the rear of the car - I had a flat. Of course, I had everything I needed to fix it... except a pump. AAA were there within the hour, diagnosed the problem as a nail embedded in the tire, changed it for the space saver spare and I was on my way home. Quick, efficient, friendly service. You expect nothing less from AAA.
 

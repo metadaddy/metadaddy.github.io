@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Credentica.png)](http://idcorner.org/2008/03/06/microsoft-acquires-credenticas-u-prove-technology/)</span>
+<span style="margin: 5px; float: right;">[![](images/Credentica.png)](http://idcorner.org/2008/03/06/microsoft-acquires-credenticas-u-prove-technology/)</span>
 
 Across the wires this morning comes news from [Kim](http://www.identityblog.com/?p=934) and [Stefan](http://idcorner.org/2008/03/06/microsoft-acquires-credenticas-u-prove-technology/) that Microsoft has acquired [Credentica](http://www.credentica.com/)'s [U-Prove technology](http://www.credentica.com/technology.html) and the services of Stefan and his Credentica colleagues. I'm curious as to why the news isn't simply 'Microsoft acquires Credentica', but business is sometimes like that, I guess.
 

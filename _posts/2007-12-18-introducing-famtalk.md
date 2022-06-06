@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/FAMTalk.jpg)](http://famtalk.org/)</span>
+<span style="margin: 5px; float: right;">[![](images/FAMTalk.jpg)](http://famtalk.org/)</span>
 
 As [Terry Sigle](http://blogs.sun.com/tls/) [blogs today](http://blogs.sun.com/tls/entry/famtalk_talking_about_federated_access), [FAMTalk](http://famtalk.org/) ([feed](http://www.famtalk.org/rss.xml)) went live this week. FAMTalk is a monthly podcast focusing on federation and access management (the FAM of the title) and their implementation in Sun Java System Federated Access Manager (the forthcoming next version of [Access Manager](http://www.sun.com/software/products/access_mgr/)) and [OpenSSO](http://opensso.org/). Your regular hosts will be Tim Campbell (Sun Partner Enablement), Steven Jarosz (Sun Americas Software SE - Federal), Terry (Sun Americas Software SE - Telco) and me (OpenSSO 'community guy').
 

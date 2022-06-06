@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/donbowen.jpg)](http://www.livestrongaction.org/dedication/don-bowen)</span>
+<span style="margin: 5px; float: right;">[![](images/donbowen.jpg)](http://www.livestrongaction.org/dedication/don-bowen)</span>
 
 Reformatted from the 'tell-a-friend' email provided by the LIVESTRONG website:
 

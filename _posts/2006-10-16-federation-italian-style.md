@@ -9,7 +9,7 @@ categories:
   - Federation
 ---
 
-[<span style="margin: 10px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/auto.gif)</span>](http://sun.feedroom.com/?fr_story=fee7572ca1cfabb6d7f7a347a433ff54ecc7b81f)
+[<span style="margin: 10px; float: right;">![](images/auto.gif)</span>](http://sun.feedroom.com/?fr_story=fee7572ca1cfabb6d7f7a347a433ff54ecc7b81f)
 
 Somehow, this passed me by back in March/April, but a presentation at Sun's [Customer Engineering Conference](http://www.zvents.com/events/show/310076) last month brought it back into focus - Italy's [Ministry of Transportation](http://www.infrastrutturetrasporti.it/) has deployed a new [Motorist Portal](http://www.ilportaledellautomobilista.it/), providing services such as online payment of vehicle registration fees and traffic tickets.
 

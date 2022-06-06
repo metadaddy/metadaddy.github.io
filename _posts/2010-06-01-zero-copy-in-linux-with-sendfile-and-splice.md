@@ -14,7 +14,7 @@ tags:
   - zerocopy
 ---
 
-[![A Splice](http://blog.superpat.com/wp-content/uploads/2010/06/splice240.jpg "A Splice"){: .align-left}](http://en.wikipedia.org/wiki/File:Kurzspleiss.jpg)
+[![A Splice](images/splice240.jpg "A Splice"){: .align-left}](http://en.wikipedia.org/wiki/File:Kurzspleiss.jpg)
 
 After [my recent excursion](http://blog.superpat.com/2010/05/04/a-simple-block-driver-for-linux-kernel-2-6-31/) to Kernelspace, I'm back in Userland working on a server process that copies data back and forth between a file and a socket. The traditional way to do this is to copy data from the source file descriptor to a buffer, then from the buffer to the destination file descriptor - like this:
 

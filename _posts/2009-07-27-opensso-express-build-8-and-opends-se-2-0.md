@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/express8.png)](http://www.sun.com/aboutsun/pr/2009-07/sunflash.20090727.1.xml)</span>
+<span style="margin: 5px; float: right;">[![](images/express8.png)](http://www.sun.com/aboutsun/pr/2009-07/sunflash.20090727.1.xml)</span>
 
 Flashing through the ether this morning was a [press release](http://www.sun.com/aboutsun/pr/2009-07/sunflash.20090727.1.xml) covering [OpenSSO](http://opensso.org/) Express 8 and [OpenDS](http://opends.org) [SE 2.0](http://wikis.sun.com/display/sunopends/Home). Since OpenDS SE 2.0 was released a week or two ago, my colleague [Ludo Poitou](http://blogs.sun.com/ludo/) has documented its arrival and some of its new features in a series of blog posts:
 

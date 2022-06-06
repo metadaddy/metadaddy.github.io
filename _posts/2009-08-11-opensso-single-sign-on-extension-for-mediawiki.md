@@ -11,7 +11,7 @@ tags:
   - opensso mediawiki
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Wiki.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
+<span style="margin: 5px; float: right;">[![](images/Wiki.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
 
 Following the recent trio of [OpenSSO](http://opensso.org/) Extensions targeting PHP CMS applications (see my previous entries covering the extensions for [Drupal](http://blog.superpat.com/2009/07/25/opensso-single-sign-on-module-for-drupal/), [WordPress](http://blog.superpat.com/2009/07/27/opensso-single-sign-on-plugin-for-wordpress/) and [Joomla](http://blog.superpat.com/2009/08/01/opensso-single-sign-on-plugin-for-joomla/)), I decided to look at [MediaWiki](http://www.mediawiki.org/), the PHP application powering [Wikipedia](http://en.wikipedia.org/) and many other wikis across the web.
 

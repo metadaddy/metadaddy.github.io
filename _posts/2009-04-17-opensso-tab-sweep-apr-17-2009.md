@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/1000-250px.png)](http://opensso.org/)</span> A celebration this week and events over the next month in the world of [OpenSSO](http://opensso.org/)...  
+<span style="margin: 5px; float: right;">[![](images/1000-250px.png)](http://opensso.org/)</span> A celebration this week and events over the next month in the world of [OpenSSO](http://opensso.org/)...  
 
 *   OpenSSO is 1000 members strong! Many more than 1000 people have downloaded OpenSSO (in fact, there are well over 1000 downloads every month), but 1000 people have [registered at opensso.dev.java.net](https://opensso.dev.java.net/servlets/ProjectMembershipRequest) to be able to participate in the mailing lists and forums, and to be able to file and track issues. All I can say is... wow!
 *   If you're going to the [RSA Conference](http://www.rsaconference.com/2009/us) next week at the Moscone Center in San Francisco, don't miss [The Smoking Monkey](http://blogs.sun.com/raskin/) and I presenting [A Pragmatic Approach to Building Identity Management for the Enterprise](https://cm.rsaconference.com/US09/catalog/profile.do?SESSION_ID=3920&form=searchform&ts=1240114495115). We'll be in the Briefing Center on Wednesday April 22, 2009 at 5:30pm. [More details and a qualification code for a FREE Expo pass [PDF]](http://blog.superpat.com/SunRSAInvite.pdf).

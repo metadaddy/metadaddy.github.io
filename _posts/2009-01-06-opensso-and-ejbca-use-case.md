@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/ejbca.png)](http://blog.asyd.net/2009/01/opensso-and-ejbca-use-case/)</span>
+<span style="margin: 5px; float: right;">[![](images/ejbca.png)](http://blog.asyd.net/2009/01/opensso-and-ejbca-use-case/)</span>
 
 [Bruno Bonfils](http://blog.asyd.net/), aka asyd, longtime denizen of [#opensso](http://wikis.sun.com/display/OpenSSO/OpenSSO+IRC+Channel), has [put together a VMware instance](http://blog.asyd.net/2009/01/opensso-and-ejbca-use-case/) with [OpenSSO](http://opensso.org/) and [EJBCA](http://www.ejbca.org/). In Bruno's words:
 

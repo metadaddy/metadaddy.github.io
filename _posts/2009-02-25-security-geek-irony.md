@@ -11,4 +11,4 @@ categories:
 
 On going to the [RSA Conference](http://www.rsaconference.com/2009/us) website:
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/RSAEMC.png)
+![](images/RSAEMC.png)

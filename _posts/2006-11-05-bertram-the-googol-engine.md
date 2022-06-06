@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/Bertram_500.jpg)
+![](images/Bertram_500.jpg)
 
 _Count the zeros - it's absolutely correct!_
 

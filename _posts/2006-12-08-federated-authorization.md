@@ -9,7 +9,7 @@ categories:
   - Federation
 ---
 
-[<span style="margin:10px;float:right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/SAML-XACML.png)</span>](http://docs.oasis-open.org/xacml/2.0/access_control-xacml-2.0-saml-profile-spec-os.pdf)
+[<span style="margin:10px;float:right;">![](images/SAML-XACML.png)</span>](http://docs.oasis-open.org/xacml/2.0/access_control-xacml-2.0-saml-profile-spec-os.pdf)
 
 In a [comment to a previous blog entry here](http://blogs.sun.com/superpat/entry/yadis%2Fxri_identifier_resolution_with_saml#comment1), [James McGovern](http://duckdown.blogspot.com/) asks
 

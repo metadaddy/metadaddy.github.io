@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-[<span style="margin-bottom: 10px; margin-top: 10px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/Sun_Java_System_Access_Manager_trans.150x176.jpg)</span>](http://www.sun.com/software/products/access_mgr/)
+[<span style="margin-bottom: 10px; margin-top: 10px; float: right;">![](images/Sun_Java_System_Access_Manager_trans.150x176.jpg)</span>](http://www.sun.com/software/products/access_mgr/)
 
 You might have seen the news today that [Sun just released Java Enterprise System 5](http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/03-01-2007/0004537344&EDATE=). While it's not called out in the press release, [Sun Java System Access Manager](http://www.sun.com/software/products/access_mgr/) 7.1 is part of [Java ES 5](http://www.sun.com/software/javaenterprisesystem/index.jsp). Although it's been widely previewed in beta in the [Netbeans Enterprise Pack](http://www.netbeans.org/products/enterprise/) and [Java EE SDK](http://java.sun.com/javaee/downloads/index.jsp), it's still worth calling out the [new features](http://docs.sun.com/app/docs/doc/819-4683/6n6qn8566?a=view):
 

@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/ACAIT.png)](http://www.aca-it.be/)</span>
+<span style="margin: 5px; float: right;">[![](images/ACAIT.png)](http://www.aca-it.be/)</span>
 
 At [JavaPolis](http://www.javapolis.com/) last year, I met with the folks from [ACA IT-Solutions](http://www.aca-it.be/) and Telenet.be ([Dutch](http://telenet.be/5/0/1/nl/thuis.html)/[French](http://telenet.be/5/0/1/fr/prive.html)/[English](http://telenet.be/5/0/1/en/residential.html)) to discuss their deployment of [OpenSSO](http://opensso.org/). At last, I'm able to talk about this publicly, so here we are.
 

@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/secure-ws2-fig5.jpg)](http://developers.sun.com/identity/reference/techart/secure-ws.html)</span>
+<span style="margin: 5px; float: right;">[![](images/secure-ws2-fig5.jpg)](http://developers.sun.com/identity/reference/techart/secure-ws.html)</span>
 
 At JavaOne 2007 earlier this year, [Aravindan Ranganathan](http://blogs.sun.com/aravind/) and Malla Simhachalam presented a hands-on lab titled [Securing Identity Web Services](http://developers.sun.com/learning/javaoneonline/j1lab.jsp?lab=LAB-5410&yr=2007&track=8). The lab showed how to provide different levels of stock quote service according to the identity of an end-user - authenticated users see real-time stock data while 'guests' see delayed quotes.
 

@@ -17,7 +17,7 @@ A packed schedule over the next few months - I'll be spreading the OpenSSO gospe
 
 <tr>
 
-<td>[![](http://blog.superpat.com/wp-content/uploads/2009/09/fisl90.png)](http://fisl.softwarelivre.org/9.0/)</td>
+<td>[![](images/fisl90.png)](http://fisl.softwarelivre.org/9.0/)</td>
 
 <td>April 19 (this coming Saturday!)</td>
 
@@ -54,7 +54,7 @@ I'll also be attending JavaOne 2008, May 6-9 at the same location.</td>
 
 <tr>
 
-<td>[![](http://blog.superpat.com/wp-content/uploads/2009/09/jazoonlogo170x37.png)](http://jazoon.com/)</td>
+<td>[![](images/jazoonlogo170x37.png)](http://jazoon.com/)</td>
 
 <td>June 25</td>
 

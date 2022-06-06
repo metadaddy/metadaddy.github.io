@@ -10,7 +10,7 @@ categories:
 ---
 
 Great news in my inbox today: [Sun](http://www.sun.com) and [Turkcell](http://www.turkcell.com.tr/) ([English-language version of Turkcell site](http://www.turkcell.com.tr/index/0,1028,300427,00.html)) have [published a paper](http://www.projectliberty.org/resources/whitepapers/turkcell_sun.pdf) on a recent proof of concept. Turkcell used Liberty's <acronym title="Identity Web Services Framework">ID-WSF</acronym> to implement an SMS service fulfilling three key requirements:  
-![](http://blog.superpat.com/wp-content/uploads/2009/09/2005_06_29_20-34-10-948_n2.jpg)
+![](images/2005_06_29_20-34-10-948_n2.jpg)
 
 *   Protect subscriber privacy - subscribers' cellphone numbers (referred to as MSISDNs in the document) must not be revealed to 3rd party service providers.
 *   Leverage subscriber location, again, while protecting subscriber privacy.

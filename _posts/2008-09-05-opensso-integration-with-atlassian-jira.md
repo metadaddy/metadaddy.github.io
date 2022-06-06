@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Jira.png)](http://confluence.atlassian.com/display/JIRAEXT/Sun+Access+Manager+(OpenSSO)+Integration)</span>
+<span style="margin: 5px; float: right;">[![](images/Jira.png)](http://confluence.atlassian.com/display/JIRAEXT/Sun+Access+Manager+(OpenSSO)+Integration)</span>
 
 Alexey Abashev, a Sun ISV engineer in Moscow, Russia, [sent an email](https://opensso.dev.java.net/servlets/ReadMsg?listName=users&msgNo=3997) to the [OpenSSO](http://opensso.org/) [users mailing list](https://opensso.dev.java.net/servlets/ProjectMailingListList) a few weeks ago, announcing his [Atlassian Jira](http://www.atlassian.com/software/jira/) extension for OpenSSO. The [plugin page](http://confluence.atlassian.com/display/JIRAEXT/Sun+Access+Manager+(OpenSSO)+Integration) details how to deploy the extension and enable single sign-on to Jira via OpenSSO. Cool stuff!
 

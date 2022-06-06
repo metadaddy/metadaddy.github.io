@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSOLogoHalloween200x58.png)](http://opensso.org/)</span>
+<span style="margin: 5px; float: right;">[![](images/OpenSSOLogoHalloween200x58.png)](http://opensso.org/)</span>
 
 I wish I could say there were spooky goings on this week in [OpenSSO](http://opensso.org/), but you'll have to settle for more adoption news and some fun stuff with OpenSSO and [Amazon EC2](http://aws.amazon.com/ec2/)...
 

@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/TokyoTower200.png)](http://blog.superpat.com/wp-content/uploads/2009/09/IMG_0045.jpg)</span>
+<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/TokyoTower200.png)](images/IMG_0045.jpg)</span>
 
 It's been a busy couple of weeks, what with a trip to Tokyo, a [typhoon](http://www.allheadlinenews.com/articles/7008967866) on the day I flew out, an [earthquake](http://quake.wr.usgs.gov/recenteqs/Quakes/nc40204628.html) at home and the usual backlog of 1000 emails that follows any trip away from the office, so please excuse the recent dearth of blog entries!
 

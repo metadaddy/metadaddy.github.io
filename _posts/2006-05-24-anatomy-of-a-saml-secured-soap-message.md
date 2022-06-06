@@ -88,7 +88,7 @@ First, let's take another look at the secured message in its entirety:
 
 It's pretty hard to see the wood from the trees here, particularly since there are two signatures in there. Here is a somewhat abstracted version:
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/SAML-Assertion.png)
+![](images/SAML-Assertion.png)
 
 Working from the inside out:
 

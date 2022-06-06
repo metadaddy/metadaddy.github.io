@@ -9,7 +9,7 @@ categories:
   - Identity
 ---
 
-[<span style="margin: 10px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/smallBPE.gif)</span>](http://blog.superpat.com/wp-content/uploads/2009/09/BPE.gif)
+[<span style="margin: 10px; float: right;">![](images/smallBPE.gif)</span>](images/BPE.gif)
 
 You might have already seen the news that [Identity Manager 7.0](http://www.sun.com/software/products/identity_mgr/index.jsp) was announced last week at [Digital ID World](http://conference.digitalidworld.com/2006/). As [Mark](http://blogs.sun.com/identity/entry/1_man_200_women_sun), [Bob](http://blogs.sun.com/ontherecord/entry/another_first_for_sun_converged) and [others](http://blogs.sun.com/SDNChannel/entry/identity_manager_7_0_just) have already given you the scoop on this, I'll confine myself here to covering the deltas from the last version (Identity Manager 6 2005Q4):
 

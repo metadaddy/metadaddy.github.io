@@ -11,7 +11,7 @@ categories:
 
 Fellow Sun architect [Hubert Le Van Gong](http://blogs.sun.com/roller/page/hubertsblog) has [put together a stellar demo](http://blogs.sun.com/roller/page/hubertsblog?entry=liberty_%C3%A0_la_infocard) that shows how the [Liberty](http://www.projectliberty.org/) protocols can be put to use in a 'user-centric' fashion:
 
-![](http://blog.superpat.com/wp-content/uploads/2009/09/lotd.png)
+![](images/lotd.png)
 
 Briefly, the demo shows a wine merchant site using a Java applet to gather identity data supporting a wine purchase - age, shipping address and payment details. In the demo, the user authenticates to a financial institution, which acts as identity provider, referencing attribute providers that actually manage the different (intersecting) sets of user data.
 

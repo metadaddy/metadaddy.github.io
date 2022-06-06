@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Javapolis07SAML.png)](http://www.parleys.com/display/PARLEYS/SAML+v2)</span>
+<span style="margin: 5px; float: right;">[![](images/Javapolis07SAML.png)](http://www.parleys.com/display/PARLEYS/SAML+v2)</span>
 
 I just noticed that the video for my [Javapolis '07](http://www.javapolis.com/confluence/display/JP07/Home) [presentation on SAML 2.0](http://www.parleys.com/display/PARLEYS/SAML+v2) has gone online at [Parleys.com](http://www.parleys.com/), the [BeJUG](http://www.bejug.org/) e-learning site.
 

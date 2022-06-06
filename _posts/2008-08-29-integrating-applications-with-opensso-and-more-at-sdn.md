@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/app-integration-fig2.jpg)](http://developers.sun.com/identity/reference/techart/app-integration.html)</span>
+<span style="margin: 5px; float: right;">[![](images/app-integration-fig2.jpg)](http://developers.sun.com/identity/reference/techart/app-integration.html)</span>
 
 What with vacation and work on [OpenSSO](http://opensso.org/), I've built up quite a backlog of blogworthy news. Now that I've got a couple of hours spare, it's time to take a look at what's been happening over at [Sun Developer Network's Identity pages](http://developers.sun.com/identity/)...
 

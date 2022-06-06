@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Surfing.thumbsup.jpg) ](http://opensso.org/)</span> 
+<span style="margin: 5px; float: right;">[![](images/Surfing.thumbsup.jpg) ](http://opensso.org/)</span> 
 
 The title of this blog entry is a direct quote from an email we received from a very happy Sun SE today. He's kindly given me permission to share it. I added the links for convenience ![](http://blogs.sun.com/images/smileys/smile.gif)
 

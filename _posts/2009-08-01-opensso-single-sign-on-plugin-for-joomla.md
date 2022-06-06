@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSOJoomla.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
+<span style="margin: 5px; float: right;">[![](images/OpenSSOJoomla.png)](https://opensso.dev.java.net/public/extensions/#authnproviders)</span>
 
 I was lucky enough to be able to spend some time at [Burton Catalyst](http://www.catalyst.burtongroup.com/Na09/) this last week with [Pamela Dingle](http://eternallyoptimistic.com/), looking at how to get started writing an [OpenSSO](http://opensso.org/) plugin for [Joomla](http://joomla.org) to complement the plugins I recently wrote for [Drupal](http://blog.superpat.com/2009/07/25/opensso-single-sign-on-module-for-drupal/) and [Wordpress](http://blog.superpat.com/2009/07/27/opensso-single-sign-on-plugin-for-wordpress/). Pamela, well known for her work on PHP [Information Card](http://en.wikipedia.org/wiki/Information_Card) plugins at [The Pamela Project](http://pamelaproject.com/), quickly pointed me in the right direction, and it didn't take me long after that to get something working - thanks, Pam!
 

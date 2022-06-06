@@ -9,7 +9,7 @@ categories:
   - About Me
 ---
 
-[<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2009/09/SmallPat.jpg)</span>](http://blogs.sun.com/superpat/)
+[<span style="margin: 5px; float: right;">![](images/SmallPat.jpg)</span>](http://blogs.sun.com/superpat/)
 
 I realized that the About page here is broken (probably in some upgrade of [Roller](http://rollerweblogger.org/project/)), so here is some current information about me, your humble author. I've written it as an entry in the 'About Me' category so I can post updates, you can comment, whatever.
 

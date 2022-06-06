@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Leader.jpg)](http://www.sun.com/software/products/access_mgr/2h07.pdf)</span> 
+<span style="margin: 5px; float: right;">[![](images/Leader.jpg)](http://www.sun.com/software/products/access_mgr/2h07.pdf)</span> 
 
 [...I'm the Leader of the Gang (I Am)!!!](http://en.wikipedia.org/wiki/I'm_the_Leader_of_the_Gang_(I_Am)) I know - [Gary Glitter](http://en.wikipedia.org/wiki/Gary_Glitter) has fallen long and hard, but it's still a great song and appropriate for today - [Gartner](http://www.gartner.com/) has placed [Sun Java System Access Manager](http://www.sun.com/software/products/access_mgr/) in the leader quadrant of their [Magic Quadrant for Web Access Management, 2H07 [PDF]](http://www.sun.com/software/products/access_mgr/2h07.pdf). I happen to think that they have under-rated us somewhat on our completeness of vision, but I can't argue with the rating on ability to execute.
 

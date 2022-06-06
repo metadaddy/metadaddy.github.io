@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right; border-style: solid; border-width: thin;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/GoogleSSO.png)](http://www.sun.com/offers/details/google_apps_opensso.xml)</div>
+<div style="margin: 5px; float: right; border-style: solid; border-width: thin;">[![](images/GoogleSSO.png)](http://www.sun.com/offers/details/google_apps_opensso.xml)</div>
 
 It's been possible to configure [OpenSSO](http://opensso.org/) for single sign-on (SSO) to [Google Apps](http://www.google.com/apps/intl/en/business/index.html) ever since [Google implemented the SAML 2.0 protocol for federated SSO back in 2006](http://groups.google.com/group/google-apps-apis/msg/d786b9695c9130da?hl=en). [Last year, I covered](http://blog.superpat.com/2008/11/12/federated-single-sign-on-for-google-apps-in-opensso/) [Wajih Ahmed](http://blogs.sun.com/wahmed/) and [Marina Sum](http://weblogs.java.net/blog/marinasum/)'s [article on implementing SSO between OpenSSO and Google Apps](http://developers.sun.com/identity/reference/techart/google-apps.html), which described precisely how to quickly get it up and running. The process took about 10 or 15 minutes, but involved editing an XML configuration file, which does introduce some, uh, opportunity for user error.
 

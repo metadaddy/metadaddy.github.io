@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/CALGB.png)](http://www.calgb.org/)</span>
+<span style="margin: 5px; float: right;">[![](images/CALGB.png)](http://www.calgb.org/)</span>
 
 The Cancer and Leukemia Group B ([CALGB](http://www.calgb.org/)) is a national clinical research group sponsored by the [National Cancer Institute](http://www.cancer.gov/), with its [Central Office](http://www.calgb.org/Public/about/centraloffice_role.php) headquartered at the [University of Chicago](http://www.uchicago.edu/) and its [Statistical Center](http://www.calgb.org/Public/about/statcenter_role.php) located at [Duke University](http://www.duke.edu/).
 

@@ -9,7 +9,7 @@ categories:
   - Links
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/xacml.jpg)](http://www.oasis-open.org/news/oasis-news-2008-04-07.php)</span>
+<span style="margin: 5px; float: right;">[![](images/xacml.jpg)](http://www.oasis-open.org/news/oasis-news-2008-04-07.php)</span>
 
 At [RSA](http://www.rsaconference.com/2008/US/home.aspx) this year, as well as the [Project Concordia workshop](http://projectconcordia.org/index.php/Concordia_workshop_RSA_2008_notes) [I covered last week](http://blogs.sun.com/superpat/entry/rsa_conference_2008_concordia_done), there were [OSIS](http://osis.idcommons.net/) and XACML interoperability events.
 

@@ -11,6 +11,6 @@ categories:
 
 [Prompted by Arun](http://blogs.sun.com/arungupta/entry/wordle_word_cloud_applet), here's a [Wordle](http://www.wordle.net/) for recent entries here at [Superpatterns](http://blogs.sun.com/superpat/):
 
-[![](http://blog.superpat.com/wp-content/uploads/2009/09/Wordle.png)](http://www.wordle.net/gallery/wrdl/286699/Superpatterns "Wordle: Superpatterns")
+[![](images/Wordle.png)](http://www.wordle.net/gallery/wrdl/286699/Superpatterns "Wordle: Superpatterns")
 
 I just hit the 'randomize' button until I had a visually pleasing layout, then edited the color palette. I'm quite happy with the result...

@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSOIdentiCat.png)](http://www.sun.com/openssoenterprise/)</span>
+<span style="margin: 5px; float: right;">[![](images/OpenSSOIdentiCat.png)](http://www.sun.com/openssoenterprise/)</span>
 
 I covered the [OpenSSO Enterprise 8.0 launch event](http://blogs.sun.com/superpat/entry/opensso_in_second_life) yesterday - here is a selection of the more interesting articles and quotes in reaction to the announcement:
 

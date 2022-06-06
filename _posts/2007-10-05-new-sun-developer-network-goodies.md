@@ -9,7 +9,7 @@ categories:
   - General
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/SDN_Identity.png)](http://developers.sun.com/identity/)</span>
+<span style="margin: 5px; float: right;">[![](images/SDN_Identity.png)](http://developers.sun.com/identity/)</span>
 
 The [Sun Developer Network](http://developers.sun.com/) [elves have been hard at work at the cobbler's bench](http://www.addictionrecov.org/paradigm/P_PR_F99/lightenup.htm), publishing new articles in the [identity section](http://developers.sun.com/identity/) and creating a whole new [resource center for scripty folk](http://developers.sun.com/web/scripting/).
 

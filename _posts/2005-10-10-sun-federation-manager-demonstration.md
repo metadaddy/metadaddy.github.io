@@ -18,8 +18,8 @@ My contribution (no - I didn't get to go to Vegas!) was a new front end for the 
 
 <tr>
 
-<td align="center">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Export_slide001.jpg)  
-<span align="center">**Click to view Flash presentation**</span>](http://blog.superpat.com/wp-content/uploads/2009/09/FederationManagerLibertySSODemo_viewlet_swf.html) </td>
+<td align="center">[![](images/Export_slide001.jpg)  
+<span align="center">**Click to view Flash presentation**</span>](images/FederationManagerLibertySSODemo_viewlet_swf.html) </td>
 
 </tr>
 

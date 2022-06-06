@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-[![](http://blog.superpat.com/wp-content/uploads/2009/09/OpenSSO_CommunityDay_Munich.jpg){: .align-left}](http://www.meetup.com/opensso/calendar/9690413/)
+[![](images/OpenSSO_CommunityDay_Munich.jpg){: .align-left}](http://www.meetup.com/opensso/calendar/9690413/)
 
 **You asked, we listened... the next OpenSSO Community Day is in Europe!**
 

@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/policyagents2_fig1.jpg)](http://developers.sun.com/identity/reference/techart/policyagents2.html)</span>
+<span style="margin: 5px; float: right;">[![](images/policyagents2_fig1.jpg)](http://developers.sun.com/identity/reference/techart/policyagents2.html)</span>
 
 I mentioned [part 1 of 'Protecting Applications With Jave EE Policy Agents'](http://developers.sun.com/identity/reference/techart/policyagents.html) [at the beginning of this month](http://blog.superpat.com/2008/12/03/policy-agents-sugarcrm-simplesamlphp-and-opensso/); this week sees part 2, with [Hua Cui](http://blogs.sun.com/huacui/) joining Sean and [Marina](http://weblogs.java.net/blog/marinasum/) to give more detail on [how to deploy OpenSSO's Java EE Policy Agents for single sign-on within a single DNS domain](http://developers.sun.com/identity/reference/techart/policyagents2.html), configuring several sample Java EE Web applications and having OpenSSO provide single sign-on between them.
 

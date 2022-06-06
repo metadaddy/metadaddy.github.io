@@ -9,7 +9,7 @@ categories:
   - Access Manager
 ---
 
-<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/FAMTalk.jpg)](http://famtalk.org/)</span>
+<span style="margin: 5px; float: right;">[![](images/FAMTalk.jpg)](http://famtalk.org/)</span>
 
 I just uploaded the second [FAMTalk](http://famtalk.org/) podcast - this time, I have the host's seat, presenting 'Federation', with a particular focus on SAML 2.0\. You can download a PDF plus MP3 or AAC files from [FAMTalk.org](http://famtalk.org/), or simply [subscribe to FAMTalk via iTunes](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=270422627) or [RSS](http://www.famtalk.org/rss.xml).
 

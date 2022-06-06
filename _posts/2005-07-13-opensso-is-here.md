@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-[![](http://blog.superpat.com/wp-content/uploads/2009/09/JohnnyLAtCatalystTN.jpg){: .align-left}](http://blog.superpat.com/wp-content/uploads/2009/09/JohnnyLAtCatalyst.jpg) I'm sitting here in the [Identity & Privacy track](http://www.burtongroup.com/catalyst/catna05/idpstrack.asp) at the [Burton Catalyst conference in San Diego](http://www.burtongroup.com/catalyst/catna05/index.asp). [Johnny L](http://blogs.sun.com/johnnyl) just left the stage, having announced that Sun will be open sourcing web single sign-on as [**OpenSSO**](http://opensso.dev.java.net/) - part of Sun's ongoing commitment to [the Participation Age](http://blogs.sun.com/roller/page/jonathan?entry=inevitability).  
+[![](images/JohnnyLAtCatalystTN.jpg){: .align-left}](images/JohnnyLAtCatalyst.jpg) I'm sitting here in the [Identity & Privacy track](http://www.burtongroup.com/catalyst/catna05/idpstrack.asp) at the [Burton Catalyst conference in San Diego](http://www.burtongroup.com/catalyst/catna05/index.asp). [Johnny L](http://blogs.sun.com/johnnyl) just left the stage, having announced that Sun will be open sourcing web single sign-on as [**OpenSSO**](http://opensso.dev.java.net/) - part of Sun's ongoing commitment to [the Participation Age](http://blogs.sun.com/roller/page/jonathan?entry=inevitability).  
 We will be releasing source code for authentication, single-domain single sign-on, web and J2EE agents (the core of Sun's [Access Manager](http://www.sun.com/software/products/access_mgr/index.xml) product) under the [CDDL license](http://www.opensource.org/licenses/cddl1.php). You will be able to download, build, extend and use the software without charge.  
 Here is the roadmap from the opensso site:
 
