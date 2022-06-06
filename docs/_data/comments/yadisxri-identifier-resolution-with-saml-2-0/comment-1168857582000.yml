@@ -1,0 +1,10 @@
+name: Chema
+date: '2007-01-15 02:39:42'
+url: 'http://www.dit.upm.es/jmdela'
+message: >
+  Following the proposed model the service provider (relying party) needs to
+  collect every possible identity provider set of metadatas, which takes us
+  again to the Liberty model.
+
+  How can a relying party afford to allow the whole set of identity providers?
+email: 41ee87e0a73561986cdbb3d34dc8fcf1

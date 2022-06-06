@@ -1,0 +1,7 @@
+name: Sidney Cammeresi
+date: '2010-09-14 04:14:43'
+url: ''
+message: >-
+  Thanks, this code was a huge help.  One important case it doesn't handle
+  though is a detach/rmmod while an I/O is in progress.
+email: f94a705e3c8ba1ab3f253c1ab9ef48c6

@@ -1,0 +1,30 @@
+name: Brian Ewins
+date: '2005-10-06 17:33:38'
+url: ''
+message: >
+  <p>SAML has one BIG problem: the RSA patent - see the FAQ on
+  http://www.opensaml.org/ .  If this was a 'normal' IETF spec, I could look at
+  the spec, implement it in our product, and we can all get on with our lives.
+  The RSA license, while quite reasonable as these things go, requires me to get
+  the agreement of an officer of my own company (who'll probably want to wait
+  for legal &amp; a board meeting) and an officer of at least one other company
+  (since its an integration technology...and they'll want to wait for legal
+  too...). Because it can't be thrashed out at a technical level, projects
+  wanting to use SAML face a month or so of delay before the paperwork is
+  done... and so something else wins.
+
+  </p><p>
+
+  And I say this from bitter experience - the only time I've gotten SAML into a
+  real deployment was when it was nothing to do with us: we just provided some
+  integration with a third party who had licensed (and could sublicense) SAML
+  patents for the whole project. Every other time the patent has led us to look
+  at doing something else.
+
+  </p><p>
+
+  If RSA's license was like Sun's recently-infamous declaration wrt OpenDocument
+  IP ("no paperwork") I reckon SAML would be ubiquitous by now.
+
+  </p>
+email: 7c502996bedab77db7cf177d34ee0ab8

@@ -1,0 +1,8 @@
+name: Pat Patterson
+date: '2014-06-23 14:53:00'
+url: ''
+message: >-
+  Brandon - the code will create an encryption key the first time it needs to
+  encrypt any data, and save the key in a custom setting - see the code at
+  https://github.com/developerforce/Force.com-Toolkit-for-Facebook/blob/master/src/classes/FacebookCrypto.cls#L40
+email: 5080aaff59eac4d87182616a8005ba8c

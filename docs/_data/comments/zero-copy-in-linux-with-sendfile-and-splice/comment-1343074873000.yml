@@ -1,0 +1,17 @@
+name: Pat Patterson
+date: '2012-07-23 13:21:13'
+url: ''
+message: >-
+  Wow - what did the server side print out for total bytes sent? Is it a sparse
+  file? (See http://en.wikipedia.org/wiki/Sparse_file) Is it really using 77.3GB
+  of disk?
+
+
+  I can think of two possible explanations - offset is somehow being corrupted,
+  so it's seeking to some crazy offset in the file while it's writing, and so
+  creating a sparse file, or the loop is somehow broken and it's running round
+  the loop too many times.
+
+
+  What does the content of the file look like, compared to the input file?
+email: 5080aaff59eac4d87182616a8005ba8c

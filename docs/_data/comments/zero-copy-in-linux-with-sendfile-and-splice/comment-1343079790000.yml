@@ -1,0 +1,9 @@
+name: Pat Patterson
+date: '2012-07-23 14:43:10'
+url: ''
+message: >-
+  As far as I know, you can post as much as you like in a gist. If I were you,
+  though, I'd add some more printf calls to see what is happening - how much
+  it's reading in each call to splice, what the offset is, that sort of thing. I
+  don't actually have a Linux box handy to run anything on right now :-/
+email: 5080aaff59eac4d87182616a8005ba8c

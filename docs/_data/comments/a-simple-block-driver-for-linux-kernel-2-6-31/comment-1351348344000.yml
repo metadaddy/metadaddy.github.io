@@ -1,0 +1,15 @@
+name: Eddy
+date: '2012-10-27 07:32:24'
+url: ''
+message: >-
+  I'm using 2.6.24. I built built this by using the source from
+  http://lwn.net/Articles/58720/. All went well except that fdisk must have
+  changed because I have to use x instead of n to create a new partition (typing
+  n just says to use x). But in the x menu there is no way to create a new
+  partition. Then I checked "man fdisk" but that also does not say how to create
+  the partition.
+
+
+  Can someone give me additional information on how to create the necessary
+  partition with fdisk from Linux 2.6.24?
+email: 84de30e481036d5e0b5d5a606f468bce

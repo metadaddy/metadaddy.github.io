@@ -1,0 +1,5 @@
+name: Kumar
+date: '2020-06-09 01:37:20'
+url: ''
+message: "Hi,\r\nI am also working with login.salesforce.com\r\nI have the certificate which is issued by ADP . I have inserted by certificate in salesforce under Mutual Authentication but when i tried to access certificate in my HTTP Request using req.setClientCertificateName('ADP');\r\nI got an error :\r\nSystem.CalloutException: Could not find client cert with dev name: 'ADP'\r\nPlease suggests what am i missing?"
+email: 371083bc711f908b55a1275c2abcf37e

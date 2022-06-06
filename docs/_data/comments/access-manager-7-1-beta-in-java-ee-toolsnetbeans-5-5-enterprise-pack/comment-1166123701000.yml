@@ -1,0 +1,43 @@
+name: Michael
+date: '2006-12-14 11:15:01'
+url: ''
+message: >
+  Ahh, it seems Vidhya has been around this block before as I haven't been alone
+  to experience this issue.
+
+  http://www.nabble.com/Re:-secure-web-service-is-not-supported-t2390532.html
+
+  Okay as per your directions, I added
+
+  @WebServiceRef(wsd="http://localhost:80080/MagicEightBall/MagicEightBallService?wsdl")
+
+  soa.example.client.MagicEightBallService service;
+
+  to my servlet class, then later on in the appropriate servlet method
+
+  soa.example.client.MagicEightBall port = service.getMagicEightBallPort();
+
+  This builds and deploys but won't run, even if you choose to edit the services
+  attributes to disable message level security under the WSP security
+  configuration and then redeploy.
+
+  You get security related exceptions as soon as the client tries to connect to
+  the service.  It appears that you need to strip out all the security related
+  xml additions to the sun-web.xml file, and remove the amconfig.xml file, then
+  redeploy inorder to get the service and client to work again minus message
+  level security.
+
+  Now, that I verified my service and client work, I attempt to re-enable
+  message level security on the service... That goes off without a hitch, but I
+  still can't get nb to allow me to edit the security via the web service
+  attributes panel of the client's web service reference.  It still return
+  "unsupported project."
+
+  Is the Q-build of the enterprise bundle available, because I don't see it at
+
+  http://www.netbeans.info/downloads/dev.php
+
+  Your forum post mentioned it back in October...
+
+  -Michael
+email: 5b6ada663d675c03221a819f10d00587

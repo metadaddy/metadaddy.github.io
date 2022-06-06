@@ -1,0 +1,5 @@
+name: Vlad
+date: '2021-06-17 16:25:35'
+url: ''
+message: "Fully support your preference on the Scotch side ;-) !\r\n\r\nThis is all well explained, but this is for the case when Somebody externally trying to reach Salesforce. \r\n\r\nBut would you know if it is possible in an opposite direction? When we have an external End Point and we shared our Certificate with the server side, and we have received a Server certificate. \r\n\r\nI see no place to save it, at least not on the Named Credential side. \r\n\r\nThis article is written to pretend it is two-way ssl but it describes only the client certificate (salesforce) on how to sign requests: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_client_certs.htm?search_text=two%20way%20ssl \r\n\r\nI need to understand if this is possible, and if it is, on where should I save Server side certificate in the salesforce, and make sure my code validates the end point against it?\r\n\r\nThanks,\r\nVlad"
+email: 4a8b72b43d212a955ccdc0434263fdc8

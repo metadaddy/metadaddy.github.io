@@ -1,0 +1,25 @@
+name: Mark Wahl
+date: '2005-06-12 09:49:01'
+url: 'http://www.ldap.com/1/commentary/wahl/'
+message: >
+  <blockquote>"As far as the weather service is concerned, your only identity is
+  your location."
+
+  </blockquote><p>
+
+  In the scenario you describe, there would need to be a way to send back the
+  reply - if the only identity were the location, then the weather service would
+  have to broadcast the response to every subscriber in that location.  In this
+  case there is an originating mobile number that is part of the request as
+  well.</p><p>
+
+  Perhaps you are thinking of a scenario where there are multiple tiers - a
+  portal that maps your mobile cell into a geographic area, which then contacts
+  an external weather service over a  traditional connection, provides that
+  location area as input and reformats the response forecast into an SMS
+  message.  This would not be very different from a stock quote service that
+  sends back an SMS message with price information based on the stock portfolio
+  you've configured with your service provider.
+
+  </p>
+email: 885521309aaa892b9b4a4068ee9ef6b5

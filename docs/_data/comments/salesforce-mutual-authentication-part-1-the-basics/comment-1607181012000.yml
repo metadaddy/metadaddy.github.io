@@ -1,0 +1,5 @@
+name: Aneesh
+date: '2020-12-05 07:10:12'
+url: ''
+message: "Hi Pat,\r\n\r\nI had a very basic question. When you say the certificate should be signed by a Saleforce trusted Root CA, you mean we need to buy one even to try MTLS on sandboxes?"
+email: 7f729517a2979742e83ca2153df02a51

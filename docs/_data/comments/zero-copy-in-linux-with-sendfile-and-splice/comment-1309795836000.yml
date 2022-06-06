@@ -1,0 +1,20 @@
+name: Pat Patterson
+date: '2011-07-04 09:10:36'
+url: ''
+message: >-
+  Wow - I don't understand that at all - why would fixing that bug result in a
+  performance degradation? How many "splice Write" messages do you see in the
+  kernel log? You should be able to figure out what size of chunk is being
+  transferred - it should be more than 16k! Of course, the other thing you could
+  do is to comment out that perror call to see if it is adding significant
+  overhead.
+
+
+  I don't think the read should have SPLICE_F_NONBLOCK, but you could try it and
+  see. Unfortunately I don't have a system set up to test any of this, so you're
+  pretty much on your own.
+
+
+  BTW - a good tip for posting source is to use https://gist.github.com/ - paste
+  your source there and just post the URL here.
+email: 5080aaff59eac4d87182616a8005ba8c

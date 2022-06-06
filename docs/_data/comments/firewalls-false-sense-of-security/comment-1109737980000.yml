@@ -1,0 +1,11 @@
+name: Superpat
+date: '2005-03-01 20:33:00'
+url: ''
+message: >
+  I have to disagree, Alan. I would contend that <i>even</i> a system that is
+  properly secured needs a packet filtering firewall. Here's why: defence in
+  depth. We're all human. These are complex systems we're protecting. There is
+  always a risk that some system somewhere is incorrectly secured. By
+  implementing layers of security we mitigate that risk. Packet filtering is not
+  enough, but I would also say that access controls alone are not enough.
+email: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,5 @@
+name: Anne Onymous
+date: '2020-10-23 11:00:24'
+url: ''
+message: "I just got caught by this (again).  My solution is to use this line in /etc/nsswitch.conf:\r\n\r\nipnodes: files [NOTFOUND=return]\r\n\r\nThe problem is that I am using DHCP on my machine, and when it starts up, it hacks the /etc/nsswitch.conf file to append \"dns\" to the ends of the hosts and ipnodes entries, where there was no such directive to begin with:\r\n\r\nhosts: files dns # Added by DHCP\r\nipnodes: files [NOTFOUND=return] dns # Added by DHCP\r\n\r\nIf I don't have the NOTFOUND directive there, DNS will be consulted before my /etc/inet/hosts file.  Which means that when I use unqualified hostnames on my home network, Solaris will try to resolve such a name against some random host out on the Internet -- not at all a good thing.  By making the sequence \"ipnodes file, hosts file, DNS\", I can maintain all of my in-home IPv4 addresses centralized in my /etc/inet/hosts file, and not have to worry about putting them in two separate files as my network evolves."
+email: d89d5e399fdeaccee6cbb3404979446f

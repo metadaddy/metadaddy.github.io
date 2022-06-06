@@ -1,0 +1,26 @@
+---
+author: user
+title: Coming Up - Burton Catalyst Conference 2009 - and Don Bowen - in San Diego!
+slug: coming-up-burton-catalyst-conference-2009-and-don-bowen-in-san-diego
+id: 268
+date: '2009-07-14 13:06:09'
+layout: single
+categories:
+  - Identity
+---
+
+<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/Catalyst09.png)](http://www.catalyst.burtongroup.com/Na09/)</span> There's [DIDW](http://public.cxo.com/conferences/index.html?conferenceID=51), [IIW](http://iiw.idcommons.net/Main_Page) and even the [SSO Summit](http://www.ssosummit.com/), but, for me, the premier identity conference of the year is still [Burton Catalyst](http://www.catalyst.burtongroup.com/). I've been going since (if I remember correctly) Burton Catalyst Europe, 2002, in Munich, and it's always a great industry gathering, with thought provoking sessions and fun hospitality suites (so much better than an expo floor!).
+
+[This year, from July 27th-31st, Catalyst returns to San Diego](http://www.catalyst.burtongroup.com/Na09/), at the [Hilton San Diego Bayfront Hotel](http://www1.hilton.com/en_US/hi/hotel/SANCCHH-Hilton-San-Diego-Bayfront-California/index.do), and [Sun's identity team](http://www.sun.com/identity/), as usual, is hosting it's very own hospitality suite, on the evening of Wednesday July 29th. The theme for 2009 is Hip Hop - East Coast vs West Coast.
+
+[![](http://blog.superpat.com/mast-3.jpg)](http://www.catalyst.burtongroup.com/NA09/HospitalityMiniSites/Sun/index.html)
+
+We'll have a break-dancing crew, 'signature East Coast/West Coast munchies', a whole bunch of demos, one-to-ones with Sun's identity domain experts (and me), and much, much more. It promises to be a VERY fun night. If you haven't yet registered for Catalyst, here's some good news, Burton are offering discounts on registration for 'Sun friends' - [register at the Burton site](https://burtongroup.wingateweb.com/us09/portal/newreg.ww?__utma=1.746192780695042800.1245875227.1246290367.1246996421.3&__utmb=1.1.10.1246996421&__utmc=1&__utmx=135213410.00004674293961679596:4:1&__utmz=1.1245875227.1.1.utmcsr=prweb.com%7Cutmccn=%28referral%29%7Cutmcmd=referral%7Cutmcct=/releases/burton_group/catalyst_conference/prweb2530924.htm&__utmv=-&__utmk=26178237) with super-secret priority code **sunFriend** and we'll see you on the night!
+
+<span style="margin: 5px; float: left;">[![](http://blog.superpat.com/donbowen.jpeg)](http://www.meetup.com/Don-Bowen-MeetnGreet-at-Burton-Catalyst/calendar/10727458/)</span> Switching gears slightly, it was at my very first Catalyst, at Munich, back in 2002, that I first met [Don Bowen](http://wizidm.wordpress.com/about/), then (again, if my memory serves me) technical product manager for [Sun Directory Server](http://www.sun.com/software/products/directory_srvr_ee/). We worked together in product management for a couple of years, and remained very close friends when I returned to engineering in early 2005\.
+
+If you know Don at all, you'll be aware that he's been fighting brain cancer since late 2007\. In characteristic Don style, he's not taking it lying down, but battling away in great spirit, documenting the journey in [regular blog entries](http://wizidm.wordpress.com/). It's inspiring stuff, and puts most people's day to day travails into pretty sharp perspective. Anyway, the good news... make that GREAT news, is that Don will be at Catalyst this year, and a few of us have organized a post-hospitality suite get together to share a few beers and (if past experience is anything to go by) a lot of laughs with Don. It's on Wednesday July 29th, the same night as the Sun hospitality suite, at [Henry's Pub](http://www.henryspub.com/), [614 5th Ave (between G St and Market St)](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=614+5th+Ave,+San+Diego,+CA&sll=32.711965,-117.160435&sspn=0.00928,0.019741&dirflg=w&ie=UTF8&ll=32.713175,-117.160435&spn=0.00928,0.019741&z=16), [about 15 minutes walk north of the Hilton](http://maps.google.com/maps?f=d&source=s_d&saddr=1+Park+Boulevard,+San+Diego,+CA+92101+(Hilton+San+Diego+Bayfront)&daddr=614+5th+Ave,+San+Diego,+CA+92101-6964+(Henry%27s+Pub+Restaurant)&geocode=Fc4H8wEdc1AE-SGblrzj8-S51g%3BFSMl8wEdBkYE-SHSN0XvD3B3UA&hl=en&mra=cc&dirflg=w&sll=32.708365,-117.159045&sspn=0.009732,0.019741&ie=UTF8&z=16). Full details are at [the Meetup page we created for the event](http://www.meetup.com/Don-Bowen-MeetnGreet-at-Burton-Catalyst/calendar/10727458/). Please [RSVP](http://www.meetup.com/Don-Bowen-MeetnGreet-at-Burton-Catalyst/calendar/10727458/) if you're planning on joining us!
+
+_UPDATE_ [Eve also covers the Project Concordia workshop being held on the Monday](http://www.xmlgrrl.com/blog/archives/2009/07/14/consumerizing-it-at-catalyst/): [Use Cases Driving Identity in Enterprise 2.0: The Consumerization of IT](http://projectconcordia.org/index.php/Catalyst_pre-conference_workshop_agenda) and the [Cloud SSO Interop Demo](http://identityblog.burtongroup.com/bgidps/2009/07/cloud-sso-interop-demonstration.html), in which Sun is participating with [OpenSSO](http://opensso.org/). Two more reasons to be in San Diego the last week of July!
+
+_UPDATE 2_ [Get into the Sun hospitality suite FREE!](http://blog.superpat.com/2009/07/19/shhhh-get-into-the-sun-hospitality-suite-at-burton-catalyst-2009-free/)

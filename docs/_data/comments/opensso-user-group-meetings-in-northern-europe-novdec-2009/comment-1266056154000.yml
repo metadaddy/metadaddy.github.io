@@ -1,0 +1,42 @@
+name: Yonas Yanfa
+date: '2010-02-13 02:15:54'
+url: 'http://www.kudoscoins.com'
+message: |-
+  Hi Pat,
+
+  I was looking through your module and might've found a bug:
+  http://pastie.org/823011
+
+
+   // Need to parse name/value pairs, to get value for Drupal username
+  attribute
+
+    $lines = explode("\n", $response-&gt;data);
+    reset($lines);
+
+    foreach ($lines as $line) {
+      if ($line == ('userdetails.attribute.name=' .
+  OPENSSO_DRUPAL_USERNAME_ATTRIBUTE)) {
+
+        // 'current' line holds attribute value
+        // 28 points to character after 'userdetails.attribute.value='
+        $name = substr(current($lines), 28);
+        break;
+      }
+      next($lines);    // &lt;--------- This was missing
+    }
+
+    return $name;
+  } // function _opensso_get_name
+
+
+
+  Thanks for writing this module, please upload it to drupal.org :) A lot
+  of people can contribute and benefit from bug fixes while it&#039;s on
+  drupal.org.
+
+
+  Cheers,
+
+  Yonas
+email: cd00844f8a45532d9d6805977eb0b2db

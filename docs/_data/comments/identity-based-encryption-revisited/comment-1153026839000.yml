@@ -1,0 +1,54 @@
+name: Terence Spies
+date: '2006-07-15 22:13:59'
+url: ''
+message: >
+  I'm disappointed that a security thought leader like Radia is not as positive
+  on IBE as some others.  Admittedly, I'm quite biased here (I'm CTO of Voltage
+  Security, which is more or less "The IBE Company.")
+
+  <p>
+
+  There has been a lot of hype about IBE, but outside of this, it does solve
+  some substantial technical issues.  In essence, it boils down to the fact that
+  access decisions (like who can open a document, or what the policy is for
+  accessing a document) can be made at decrypt time rather than encrypt time. 
+  This is sort of abstract, but the advantages are easy to see in the simple
+  example of encrypting to a group.  With conventional PKI, this problem is
+  pretty hairy, and typically requires publishing group certificates, or having
+  some kind of group "exploder" server that translates the group into individual
+  identities.  With IBE, none of that it required.  You encrypt to the group,
+  and the decision to grant a key is made at decrypt time. <p>
+
+  I'd like to reply to Radia's objections in detail, but to keep this comment
+  short, I'll limit myself to a few short remarks.<p>
+
+  On (a), it's worth noting that for almost any enterprise encryption project, a
+  central server NEEDS to know how to decrypt all messages.  By SEC regulations,
+  no bank can actually run a system where they can't decrypt messages.  In most
+  cases, it's now an argument about which system implements message recovery
+  most efficiently.<p>
+
+  On (b), there are simple SSL protocols to map users to key servers.  Too
+  complex for this reply, but we have working systems with 100k+ users that
+  implement this.<p>
+
+  On (c), in a PKI system, the user needs to authenticate to a CA to get a cert
+  issued.  That binding is typically much much more expensive than an IBE key
+  bind. <p>
+
+  On (d), there is a long standing protocol for handling revocation, that goes
+  back to the first IBE paper.  (We include time as part of the identity.) <p>
+
+  On (e), we have protocols that tie in with user binding to handle rollover and
+  revocation of the master secret.  (Note that we have to handle revocation and
+  rollover of ONE key, as opposed to one key PER USER in a PKI system.) <p>
+
+  Outside of the hype, IBE is really very powerful.  It solves a different set
+  of problems than PKI, you might argue, but for enterprise security for email
+  and documents, it's a great tool!<p>
+
+  I look forward to continuing this discussion, and feel free to contact me for
+  a demo or more in depth discussions<p>
+
+  Terence Spies
+email: 88d82526c390f574055067badaab021d

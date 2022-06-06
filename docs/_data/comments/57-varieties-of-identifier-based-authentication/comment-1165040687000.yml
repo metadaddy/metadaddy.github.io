@@ -1,0 +1,13 @@
+name: Johannes Ernst
+date: '2006-12-01 22:24:47'
+url: 'http://netmesh.info/jernst'
+message: >
+  Excellent question. In the short term: it's up to the relying party (in most
+  cases, because it initializes the redirect dance). In the longer term, I
+  wouldn't be too surprised if IdP announced different "service levels" for,
+  say, different $$$, such as: "dear relying party, we are willing to confirm to
+  you that the user used their hardware fob and did a voice print, but that will
+  cost you $0.50 per transaction. If you are satisfied with our confirmation
+  that the user used username and password, that will be free." Then a business
+  case determines what should be used for what purpose.
+email: 7e32385b55599a23235db5914a0865a0

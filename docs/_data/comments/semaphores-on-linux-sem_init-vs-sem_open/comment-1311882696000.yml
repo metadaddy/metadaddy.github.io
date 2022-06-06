@@ -1,0 +1,33 @@
+name: Nilesh
+date: '2011-07-28 12:51:36'
+url: ''
+message: |-
+  Thanks for this explanation. I tried using sem_open this way:
+
+  if ((mutex = sem_open("mysemaphore", O_CREAT, 0644, 0)) == SEM_FAILED) {
+      cerr &lt;&lt; &quot;semaphore initilization error&quot; &lt;&lt; endl;
+      return 1;
+    }
+
+    
+    pid_t pid = fork();
+    
+    if (0 == pid) {
+      /*
+      if ((mutex = sem_open(&quot;mysemaphore&quot;, 0, 0644, 0)) == SEM_FAILED) {
+        cerr &lt;&lt; &quot;semaphore initilization error&quot; &lt;&lt; endl;
+        return 1;
+      }
+      */
+      cout &lt;&lt; &quot;here1&quot; &lt; 0) {
+      sem_wait(mutex);
+      cout &lt;&lt; &quot;here2&quot; &lt;&lt; endl;
+      wait(&amp;retval);
+    }
+
+  The output is:
+  here2
+  here1
+
+  that&#039;s not correct. Am I missing something?
+email: 1bde050eb8180c137dd37febf09179db

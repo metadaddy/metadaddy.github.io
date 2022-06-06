@@ -1,0 +1,22 @@
+name: Paul
+date: '2009-11-19 07:28:45'
+url: 'http://connectid.blogspot.com'
+message: >-
+  Pat, it seems the only connection between SAML &amp; OAuth is in your Step 1,
+  ie in which Outlook 'invokes the browser with a SAML SP URL, including the
+  request token as a query parameter. '
+
+
+  What param is Google using for this?
+
+
+  After this, SAML seems completely separable from the OAuth piece, ie its just
+  how Google authenticates the user before authz.
+
+
+  I'm also exploring mechanisms by which SAML protocol messages can carry Oauth
+  params/tokens
+
+
+  Paul
+email: a8af56f37d0c0403c18ea4ef8cfc3ec9

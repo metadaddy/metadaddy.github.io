@@ -1,0 +1,9 @@
+name: Rajeev Angal
+date: '2007-01-03 10:54:29'
+url: ''
+message: >
+  The MQ related code for session failover is abstracted using pure JMS calls
+  (JSR 914) - that allows a compliant MQ implementation to be plugged in.
+  However this abstraction has not been tested with any other plugin apart from
+  Sun's JMQ implementation as pointed out by others.
+email: 911df351e6613794d7bdb5e03f717877

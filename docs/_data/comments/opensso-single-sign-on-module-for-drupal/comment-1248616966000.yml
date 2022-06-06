@@ -1,0 +1,11 @@
+name: Adam
+date: '2009-07-26 07:02:46'
+url: ''
+message: >
+  <p>Great job, Pat!</p>
+
+  <p>Just FYI, drupal has shib_auth module which has many features, including
+  automatic role assignment based on regular expression matching on attributes,
+  and so on. Since Shibboleth SP is pretty much the same as OpenSSO from the
+  application perspective, most of its features can easily be adopted.</p>
+email: 70699dd1dd89fdf0ed49b7f1c9c5e5fc

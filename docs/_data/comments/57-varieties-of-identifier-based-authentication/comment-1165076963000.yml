@@ -1,0 +1,10 @@
+name: Pat
+date: '2006-12-02 08:29:23'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  You misunderstand me, Johannes. The options you describe (different
+  authentication mechanisms) all have value in their various settings -
+  username/password, hardware tokens, smartcards, biometrics. What I'm wondering
+  about are all the different <i>syntaxes</i> for conveying this information
+  from IdP to RP.
+email: d41d8cd98f00b204e9800998ecf8427e

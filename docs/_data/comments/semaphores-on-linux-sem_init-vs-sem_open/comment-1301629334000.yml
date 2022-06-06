@@ -1,0 +1,12 @@
+name: Nisheeth
+date: '2011-03-31 20:42:14'
+url: ''
+message: >-
+  One question is ..even if you share the memory and get the shm descriptor for
+  shared memory how will you pass on to other unrelated processes (processes
+  which are not related by parent child relationship)...
+
+
+  What I think of is message queues of System IPC would work...correct me if i
+  am wrong...
+email: 3b2b88c877104e3de47a125412f6080e

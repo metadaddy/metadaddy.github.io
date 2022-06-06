@@ -1,0 +1,14 @@
+name: Henry Story
+date: '2007-03-01 01:04:58'
+url: 'http://bblfish.net'
+message: >
+  Very nice video. <br />
+
+  It would help for people who are a little more new to this though if you added
+  slides in between the messages showing the routing of the messages. You could
+  have a slide of the main actors (the user agent, the web site one is looking
+  for authentication from, the authenticator,...) and have a glowing arrow show
+  the direction of the message.
+
+  Something like that would help get an overview of what is happening.
+email: 5d537347eb54566c1b9d975a30fc0147

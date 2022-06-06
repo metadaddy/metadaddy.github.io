@@ -1,0 +1,19 @@
+name: Matt
+date: '2011-12-30 22:48:15'
+url: ''
+message: >-
+  Hi Pat,
+
+
+  Thanks for the post. I'm running into trouble with the support/package_node
+  0.6.1 step in your instructions. I'm using a direct clone of your repo and
+  getting what appears to be an error in the 'vulcan build' portion of the
+  script. It's error-ing out with the following:
+  https://gist.github.com/1543157. 
+
+
+  Any ideas?
+
+
+  Thanks.
+email: 3eeb8e0376c934596bd8a538de180f68

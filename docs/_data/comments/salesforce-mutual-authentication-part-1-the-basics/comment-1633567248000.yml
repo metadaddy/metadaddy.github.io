@@ -1,0 +1,5 @@
+name: David T
+date: '2021-10-06 17:40:48'
+url: ''
+message: "Hi Pat.  I feel like every time I have to do something with certificates I have to re-learn it.\r\n\r\nDoes the CSR have to be generated on the SF org, i.e. can I upload a client cert generated based on another org's CSR?\r\n\r\nI'm getting \"Client certificate error: unable to get local issuer certificate\".\r\n\r\nI uploaded the client certificate (without any chain).\r\nI have the RSA private key.\r\nI created the cert chain (the client head, digicert intermediate only).  The root cert is left out, and was verified by thumbprint: MD5:79:E4:A9:84:0D:7D:3A:96:D7:C0:4F:E2:43:4C:89:2E\r\n\r\nI am past the login step - I'm trying to execute the getUserInfo call against :8443 of my org. \r\n\r\nAny pointers?  Thanks!"
+email: e87a54b1689b8cbaf2703df69c49cc90

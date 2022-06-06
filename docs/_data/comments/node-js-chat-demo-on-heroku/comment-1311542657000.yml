@@ -1,0 +1,31 @@
+name: Jeffrey Noh
+date: '2011-07-24 14:24:17'
+url: ''
+message: >-
+  Very cool.  There's not many articles out there about using heroku and node. 
+  I found this helpful. 
+
+
+  I'm trying to understand the pinging.  So once a client pings the server, the
+  server in turn pings all other clients.  This is so that all the ping timers
+  are in sync? Why do they have to be in sync?  
+
+
+  Also, I wanted to get your thoughts about the timeout.  It seems like because
+  of this ping workaround, it's not truly longpolling.  It seems like a place in
+  between a timer based ajax poll and true longpolling.
+
+
+  Finally, you should update the line 
+
+
+  'echo "{ \"name\": \"node-chat\", \"version\": \"0.0.1\" }" &gt;
+  package.json' 
+
+
+  to include the pg package and mention somewhere in the article to make sure to
+  have the shared_database addon.  
+
+
+  Thanks again for this.
+email: 033c496172cecef3cede35e756572f41

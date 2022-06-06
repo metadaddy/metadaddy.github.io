@@ -1,0 +1,14 @@
+name: david
+date: '2007-01-12 10:58:51'
+url: ''
+message: >
+  Hi Pat,
+
+  I have berkeleydb 4.5 for windows.opensso is deployed in jboss.
+
+  Along with sun mq what configuration i have to do to achieve session failover
+  in opensso?
+
+  I've read the am 7.1 doc which does not provide much implemention details
+  about web based configuration.
+email: d41d8cd98f00b204e9800998ecf8427e

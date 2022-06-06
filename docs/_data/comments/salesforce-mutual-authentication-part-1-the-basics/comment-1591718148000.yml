@@ -1,0 +1,10 @@
+name: Pat
+date: '2020-06-09 08:55:48'
+url: ''
+message: >-
+  Hi Kumar - you need to <a
+  href="https://help.salesforce.com/articleView?id=security_keys_creating.htm&amp;type=5"
+  target="_blank" rel="noopener noreferrer nofollow ugc">Generate a Self-Signed
+  Certificate</a>. 'Mutual Authentication' is for apps calling in to your org -
+  you are writing a callout. Unfortunately, Salesforce is a bit confusing here.
+email: 5080aaff59eac4d87182616a8005ba8c

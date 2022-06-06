@@ -1,0 +1,14 @@
+name: Superpat
+date: '2006-09-07 16:07:41'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Hi Neal - (1) No - I don't know of such a beast, but it might be possible to
+  create one using the web agent code as a basis. (2) I'm not sure they should.
+  If CAS is working for you, then great, leave it alone. If you want integration
+  with Java EE declarative and programmatic security, a <a
+  href="https://opensso.dev.java.net/public/agents.html" rel="nofollow">bundle
+  of agents for common containers</a>, federation via SAML and Liberty ID-FF
+  (coming soon) and even  web services security via WS-I BSP and Liberty ID-WSF
+  (again, coming soon), then you may well want to consider OpenSSO. (I'm not an
+  expert on CAS, but, as far I can see, it doesn't supply any of these).
+email: d41d8cd98f00b204e9800998ecf8427e

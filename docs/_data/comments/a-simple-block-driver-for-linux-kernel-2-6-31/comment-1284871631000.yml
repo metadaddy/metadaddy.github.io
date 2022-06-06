@@ -1,0 +1,5 @@
+name: Kyuha
+date: '2010-09-18 21:47:11'
+url: ''
+message: "Should my makefile look like\n\nobj-m := sbd.o\nKDIR := /lib/modules/$(shell uname -r)/build\nPWD := $(shell pwd)\ndefault:\n\t$(MAKE) -C $(KDIR) SUBDIRS=$(PWD) modules"
+email: 801d4e619d552c745656fb1ff20897ac

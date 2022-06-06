@@ -1,0 +1,13 @@
+name: Jonathan Gershater
+date: '2010-01-20 17:33:13'
+url: 'http://gershater.wordpress.com/'
+message: >-
+  hi Pat
+
+  Doesn't Microsoft do this with SPNEGO ? It will take credentials that I used
+  to authenticate to AD (and thus from any "thick client" like Outlook) and make
+  those credentials available in IE for browser based Auth?
+
+
+  Jonathan
+email: dda0f6af395393807b5990af376c5555

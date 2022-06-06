@@ -1,0 +1,11 @@
+name: How does sendfile() operate internally?
+date: '2012-02-07 13:52:57'
+url: >-
+  http://www.linuxquestions.org/questions/linux-newbie-8/how-does-sendfile-operate-internally-928077/#post4596415
+message: >-
+  [...] be a pipe. It only reads and writes. It does not actually copy. 
+  References for your benefit: 
+  http://blog.superpat.com/2010/06/01/...le-and-splice/ 
+  kerneltrap.org/node/6505 (Linus Torvalds word on the topic of splice() and
+  tee(). )  Hope this [...]
+email: d41d8cd98f00b204e9800998ecf8427e

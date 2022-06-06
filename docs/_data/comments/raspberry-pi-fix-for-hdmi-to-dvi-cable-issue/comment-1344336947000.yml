@@ -1,0 +1,13 @@
+name: Joonas Pihlajamaa
+date: '2012-08-07 03:55:47'
+url: 'http://codeandlife.com'
+message: >-
+  I have the same issue, my monitor only has DVI and DisplayPort, but RaspPi
+  won't even boot properly with the monitor connected via HDMI-DVI -adapter. 
+
+
+  Hard to say whether it's an adapter, RaspPi or incompatibility problem. I know
+  that my fairly recent 30" supports digital signal, actually it explicitly
+  doesn't support analog at all. But it does require Dual-Link DVI cable, so
+  maybe that's the issue. More investigation needed...
+email: 81b999b5595e55d9098637c54d0c86f1

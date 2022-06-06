@@ -1,0 +1,23 @@
+name: Andrew Davis
+date: '2014-08-14 07:06:30'
+url: ''
+message: >-
+  I just worked through your "Getting Started with the Force.com REST API"
+  tutorial using JAVA
+  (https://developer.salesforce.com/page/Getting_Started_with_the_Force.com_REST_API#)
+  and wanted to suggest some updates to the page. There are some errata in this
+  page. The link to the JSON Java libraries is broken, but could be updated to
+  https://code.google.com/p/org-json-java/downloads/list. Also, in the file
+  DemoREST.java, the getString() function on lines 61 and 161 cause errors since
+  they are run on non-strings; the function should be changed to optString().
+  Also, for people (like me) who want to learn REST but don't have a Java
+  development environment setup, it would be very helpful if the article linked
+  to a complete tutorial about how to setup that development environment in the
+  "Setting up for the Sample Application" section. A very straightforward
+  tutorial is here:
+  http://www.coreservlets.com/Apache-Tomcat-Tutorial/tomcat-7-with-eclipse.html.
+  For novices it might also help if in the setup steps it said that the JSON and
+  Apache libraries need to be "imported into" the project (instead of "added
+  to") and that the REST API sample code needs to be put in the project in with
+  the project source files. Thanks!
+email: e74638e3ead5429ad791f605304f1bda

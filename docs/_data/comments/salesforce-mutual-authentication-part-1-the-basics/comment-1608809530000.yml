@@ -1,0 +1,5 @@
+name: Mangesh
+date: '2020-12-24 03:32:10'
+url: ''
+message: "https://help.salesforce.com/articleView?id=000326722&amp;type=1&amp;mode=1\r\n\r\nIn this document, we are making call-out.. and it says we need CA-Signed Certificate from Target Host.\r\n\r\nI mean, basically we were not allowed to make call-out to a system inside the firewall.\r\nClient gave us a Public CA-signed Certificate.\r\n\r\nSince the CSR was not given by us, we enabled Mutual SSL as per this document."
+email: 183f5f6bcf2239ee7e50dc37ff78389c

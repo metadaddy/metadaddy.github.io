@@ -1,0 +1,17 @@
+name: Rich Johnson
+date: '2016-05-03 11:29:56'
+url: 'http://www.storagecraft.com'
+message: >-
+  Hi Pat, we are a new SalesForce company migrating from MSCRM.  I found,
+  "Single Sign-On with Force.com and Microsoft Active Directory Federation
+  Services" that you co-authored with Rhys Goodwin and had a question.  The
+  article states, "You need a Microsoft Windows Server 2008 R2 Enterprise or
+  Datacenter edition."  Will the ADFS integration with SF not work on a 2012R2
+  Standard server?  What are the differences if we do deploy with a 2012R2Std? 
+  I appreciate your work you do, and making it publicly available to us lowly
+  peons!
+
+
+  link to the article:
+  https://developer.salesforce.com/page/Single_Sign-On_with_Force.com_and_Microsoft_Active_Directory_Federation_Services
+email: d495f86d9d3e1b209450fbc875f53e92

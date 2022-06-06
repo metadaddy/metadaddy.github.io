@@ -1,0 +1,7 @@
+name: Raman Kumar Kharche
+date: '2015-12-29 04:23:12'
+url: ''
+message: |-
+  Hello Sir,
+   I have written the pseudo driver, Now for the read, write and open API, how am i going to use the device file. in read and write API in the function fopen i have passed the module name as "./module_name". The driver contains the transfer and request functions how they work.
+email: 61d4aa81f3a4dba1e8792e52bfd9d5e0

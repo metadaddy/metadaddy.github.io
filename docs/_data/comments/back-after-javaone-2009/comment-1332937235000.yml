@@ -1,0 +1,11 @@
+name: Karthikeya V
+date: '2012-03-28 05:20:35'
+url: ''
+message: |-
+  HI 
+            I'm trying to integrate two application with help of OpenAM, Normal authentication process are working fine. My issue is when I'm invoking service which exposed in another application getting response as OpeanAM login page html script. I have sent token detail and checked authentication after that invoking that service. Please help me out about this issue.
+
+  If there is any material related to this, share with me.
+
+  Thanks in Advance
+email: 44dd4abaee24d4e2230a024c72b5272b

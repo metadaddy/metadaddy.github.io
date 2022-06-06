@@ -1,0 +1,13 @@
+name: Ed
+date: '2006-09-13 00:39:49'
+url: ''
+message: >
+  I too am dying to figure out the answer to this.  Been searching all over for
+  people with the same problem.
+
+  I made a quick hack to /etc/dhcp3/dhclient-script to add a 'return' statement
+  at the top of the make_resolv_conf after I start up my vpn.  This seems to
+  stop dhcp from updating the resolv.conf.  Of course whenever I get offline and
+  need to acquire an IP address from a DHCP server, I need to comment out the
+  'return' statement.  Not optimal at all!
+email: 1deb163a5a401a17acb7436b69855cfb

@@ -1,0 +1,22 @@
+name: Dustin
+date: '2015-11-19 09:56:05'
+url: ''
+message: >-
+  Hi Pat,
+
+
+  Have you had a chance to look at the ConnectedAppPlugin class for COnnected
+  Apps?
+
+
+  Do you think it could be used to restrict API calls to custom services within
+  Salesforce and prevent API calls to the full REST API within the same
+  ConnectedApp? Ive been trying to find a way to do this but have been
+  unsuccessful so far. 
+
+
+  Any suggestion you have is appreciated. 
+
+
+  Thanks!
+email: ed713974601e17c80d28a07f42448c59

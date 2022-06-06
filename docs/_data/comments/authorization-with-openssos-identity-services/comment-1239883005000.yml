@@ -1,0 +1,10 @@
+name: Chi
+date: '2009-04-16 04:56:45'
+url: ''
+message: >
+  <p>It seems like OpenSSO allows for developers to authorize users only by
+  utilizing the attributes residing in the token that was created after OpenSSO
+  has authenticated a user.  Am I correct to assume that OpenSSO doesn't allow
+  for a developer to access a different attribute authority after authentication
+  has occurred to obtain attributes that way?</p>
+email: c1b7580686f755344919f8b547e21613

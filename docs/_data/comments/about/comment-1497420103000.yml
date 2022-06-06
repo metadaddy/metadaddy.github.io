@@ -1,0 +1,18 @@
+name: Philip Clark
+date: '2017-06-13 23:01:43'
+url: ''
+message: >-
+  Shot in the dark that you're still monitoring this - I've been following your
+  article on continuation using js remoting and had the same issue mentioned
+  here:
+  https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html#comment-2692483035
+  - specifically, the static method used to invoke continuation doesn't have a
+  controller so I can't use one for Test.invokeContinuationMethod. Do you know
+  of a solution to this? 
+
+
+  Appreciate any help,
+
+
+  Phil
+email: bd884e1b1357c847237e45669daaa7e0

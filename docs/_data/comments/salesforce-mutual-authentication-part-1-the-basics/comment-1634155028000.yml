@@ -1,0 +1,5 @@
+name: Bini
+date: '2021-10-13 12:57:08'
+url: ''
+message: "Hi Pat, I am trying to implement two way ssl in Callout.\r\nI am trying to generate keystore and import keystore.\r\nWill that work?\r\nNeed some clarification on to generate and upload keystore in Salesforce and use it during callout.\r\nCan you point in the right direction?\r\n\r\nThanks\r\nBini"
+email: da6646fcffccb79c7ca33d4ae667c03d

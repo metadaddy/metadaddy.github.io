@@ -1,0 +1,15 @@
+name: Rudy
+date: '2008-01-14 05:33:43'
+url: ''
+message: >
+  <p>With ibc their is a identity which could be anything from a email to a
+  fingerprint and a shared secret (secure random number). The main advantage of
+  IBC of PKI is that you don't need a internet connection to check or generate
+  the certificate. And you don't need a CA so you don't have a scalability
+  problem anymore. You can generate them yourself. But shared secrets aren't
+  safe!?! With IBC they are because this number is only used to generate the
+  certificate so nobody else who don't know this number can generate the same
+  private key. So the secret is never send across the internet. The only hard
+  part of IBC is that for every connection a certificate is generated so it is
+  very intensive to use IBC on large scale services.</p>
+email: 009e57bb7e3dd6c0ff29591b1aad9193

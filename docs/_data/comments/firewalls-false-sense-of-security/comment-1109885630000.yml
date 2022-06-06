@@ -1,0 +1,14 @@
+name: Superpat
+date: '2005-03-03 13:33:50'
+url: ''
+message: >
+  I just realised, I have a really good, concrete example of all this. As <a
+  href="http://blogs.sun.com/roller/page/superpat/20050205#lingo_voip"
+  rel="nofollow">blogged elsewhere</a>, I have a Lingo VOIP box. Now, the
+  default configuration is to put this immediately downstream of your cable/dsl
+  model. This makes me uncomfortable, as I don't know how vulnerable this piece
+  of kit is - I don't want hackers finding it, cracking it and dialling
+  Azerbaijan on my $. So, I installed it behind my router/firewall, even though
+  that currently gives me problems when my PC consumed all the upstream
+  bandwidth (e.g. emailing a large attachment) and I can't be heard over VOIP.
+email: d41d8cd98f00b204e9800998ecf8427e

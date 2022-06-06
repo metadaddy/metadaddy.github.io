@@ -1,0 +1,27 @@
+name: Javier Piscoya
+date: '2009-02-19 01:35:25'
+url: ''
+message: >
+  <p>Hi, <br/>
+
+  I'm very keen on using OpenSSO with Acegui / Spring Security (have
+  applications secured with both versions). I followed the link to: <a
+  href="https://opensso.dev.java.net/public/extensions/#authnproviders"
+  rel="nofollow">https://opensso.dev.java.net/public/extensions/#authnproviders</a></p>
+
+  <p>However some things seems to be missing, I could get the source code (not
+  via cvs, always timeout when connecting to the server), but not some files
+  like:<br/>
+
+  AMConfig.properties<br/>
+
+  applicationContext-acegi-security.xml<br/>
+
+  pom.xml</p>
+
+  <p>Is there a way to get those files?<br/>
+
+  Cheers,</p>
+
+  <p>Javier</p>
+email: 40fd9ff91ec7443379b0f2001dbf6fbd

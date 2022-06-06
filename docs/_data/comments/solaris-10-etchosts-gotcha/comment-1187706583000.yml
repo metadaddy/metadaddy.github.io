@@ -1,0 +1,11 @@
+name: Andrew Robb
+date: '2007-08-21 07:29:43'
+url: ''
+message: >
+  <p>I have found that the old gethostby???? calls ONLY use /etc/inet/hosts and
+  that getaddrinfo ONLY uses /etc/inet/ipnodes</p>
+
+  <p>I make all changes to /etc/inet/ipnodes then</p>
+
+  <p>grep -v ':' /etc/inet/ipnodes &gt; /etc/inet/hosts</p>
+email: e54ccddd14f12d437d51be7b28e741c4

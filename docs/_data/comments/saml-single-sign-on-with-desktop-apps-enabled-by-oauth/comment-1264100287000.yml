@@ -1,0 +1,14 @@
+name: Pat Patterson
+date: '2010-01-21 10:58:07'
+url: ''
+message: >-
+  Hi Jonathan - I think the key thing here is that you can use Outlook to access
+  your mail at Google, whether or not Google has a password for you. It's much
+  more flexible.
+
+
+  Yes, you can use SPNEGO to do SSO across Microsoft web infrastructure, but I
+  don't think it scales to thousands of IdP's accessing an SP. To use SPNEGO,
+  you would have to 'kerberize' the SP for all the IdP AD domain controllers,
+  adding identities in each IdP's AD and copying keytab files. Ugh!
+email: 5080aaff59eac4d87182616a8005ba8c

@@ -1,0 +1,8 @@
+name: Zero-Copy in Linux with sendfile() and splice() &laquo; Superpatterns
+date: '2010-06-01 13:47:45'
+url: >-
+  http://blog.superpat.com/2010/06/01/zero-copy-in-linux-with-sendfile-and-splice/
+message: >-
+  [...] my recent excursion to Kernelspace, I&#8217;m back in Userland working
+  on a server process that copies data back and [...]
+email: d41d8cd98f00b204e9800998ecf8427e

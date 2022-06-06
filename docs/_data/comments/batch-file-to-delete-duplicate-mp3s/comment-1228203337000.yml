@@ -1,0 +1,27 @@
+name: Pat Patterson
+date: '2008-12-01 23:35:37'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>1. Start/Run/notepad<br/>
+
+  2. Copy everything from @echo off to the third closing parenthesis
+  inclusive.<br/>
+
+  3. Paste into notepad.<br/>
+
+  4. Change the f:\my music\ to be wherever your MP3s are.<br/>
+
+  5. File/Save - give it some name like c:\dedupe.bat - the .bat extension is
+  important!<br/>
+
+  6. Start/Run/cmd<br/>
+
+  7. Type in 'c:\dedupe.bat' without the quotes</p>
+
+  <p>The script should run. You can actually save it anywhere you like - I just
+  used 'c:\' as it's pretty much guaranteed to be there :-) The script reports
+  on its progress, and only deletes files that are identical to the originals,
+  so it should be pretty safe.</p>
+
+  <p>Any problems - just let me know here in the comments.</p>
+email: 5080aaff59eac4d87182616a8005ba8c

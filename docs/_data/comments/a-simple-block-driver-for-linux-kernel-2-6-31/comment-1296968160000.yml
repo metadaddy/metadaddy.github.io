@@ -1,0 +1,5 @@
+name: Michele
+date: '2011-02-05 20:56:00'
+url: ''
+message: "First of all, thanks a lot for this updated version. Linux kernel seems to change at a dreadful speed.\nI had a few issues with the driver, in that it will not work if you change the logical_block_size. The main reason is that in the sbd_transfer function \n\tunsigned long offset = sector * logical_block_size;\n\tunsigned long nbytes = nsect * logical_block_size;\nshould become:\n\tunsigned long offset = sector * KERNEL_SECTOR_SIZE;\n\tunsigned long nbytes = nsect * KERNEL_SECTOR_SIZE;\n\nAlso the following line in sbd_getgeo is fishy:\nsize = Device.size * (logical_block_size / KERNEL_SECTOR_SIZE);\nsize is probably intended to be in 512 byte sectors, but Device.size is the size in bytes...\nI would change it with \nsize = Device.size / KERNEL_SECTOR_SIZE;\n\n(I haven't tested this last one.)\n\nThanks again for the huge help,\n\nMichele"
+email: aa245011fa1e887d2d5eb2015ca71f95

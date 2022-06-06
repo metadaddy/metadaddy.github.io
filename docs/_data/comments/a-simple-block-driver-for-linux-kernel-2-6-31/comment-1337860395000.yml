@@ -1,0 +1,37 @@
+name: Deepak
+date: '2012-05-24 04:53:15'
+url: ''
+message: >-
+  Hello Pat
+
+  after going these(Command (m for help): w
+
+  The partition table has been altered!
+
+
+  Calling ioctl() to re-read partition table.
+
+  Syncing disks.) command when i reach at 
+
+
+  opensuse:/home/pat/sbd # mkfs /dev/sbd0p1
+
+  and when i put that path (actually my system path
+  is-deepak@deepak-Satellite-C665:~/ddd/dp$ ls
+
+  Makefile  modules.order  Module.symvers  sbd.c  sbd.ko  sbd.mod.c  sbd.mod.o 
+  sbd.o
+
+  deepak@deepak-Satellite-C665:~/ddd/dp$ pwd
+
+  /home/deepak/ddd/dp)
+
+  it showing deepak@deepak-Satellite-C665:~$ /home/deepak/ddd/dp/sbd # mkfs
+  /dev/sbd0p2
+
+  bash: /home/deepak/ddd/dp/sbd: No such file or directory
+
+  deepak@deepak-Satellite-C665:~$ 
+
+  that error what i have to do..
+email: 8a442b869cde1a52402a86ef45c4d954

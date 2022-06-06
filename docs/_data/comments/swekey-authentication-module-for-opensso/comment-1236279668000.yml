@@ -1,0 +1,21 @@
+name: Chris Mueller
+date: '2009-03-05 11:01:08'
+url: 'http://www.ssocircle.com'
+message: >
+  <p>We are running prototypes of  Swekey auth modules at SSOCircle since one
+  month. One module uses user name and swekey the other module uses user name,
+  swekey and a pin for additional security. If you have a swekey give it a
+  try:<br/>
+
+  Module 1 : <a href="https://idp.ssocircle.com/sso/UI/Login?module=swekey"
+  rel="nofollow">https://idp.ssocircle.com/sso/UI/Login?module=swekey</a><br/>
+
+  Module 2:  <a href="https://idp.ssocircle.com/sso/UI/Login?module=SwekeyPin"
+  rel="nofollow">https://idp.ssocircle.com/sso/UI/Login?module=SwekeyPin</a><br/>
+
+  You need to link the swekey first to your account. You can do this at the self
+  administration page.<br/>
+
+  A cool feature is the logout feature on detach we are just playing with. Just
+  detach the swekey and you are logged out.  </p>
+email: 970242726b24f850cb5191cafb3a3e8f

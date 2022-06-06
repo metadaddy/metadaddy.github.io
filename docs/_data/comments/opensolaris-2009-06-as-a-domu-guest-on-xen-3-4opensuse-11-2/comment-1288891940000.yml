@@ -1,0 +1,16 @@
+name: Rose
+date: '2010-11-04 10:32:20'
+url: ''
+message: >-
+  Hi..
+
+  In step 5, I had to change the config file as vif=[''] to get the xm create to
+  work. Then it worked fine till step 12. Upon ifconfig, it showed the IP as
+  0.0.0.0. So I tried to set the IP manually, as given in the last section. But
+  when I tried to connect using vncviewer it showed the error : vncviewer:
+  ConnectToTcpAddr: connect: No route to host
+
+  Unable to connect to VNC server
+
+  So I am stuck at this stage. Please help.
+email: 3c4b54bf1788f6f6ab332c7e8ac08af7

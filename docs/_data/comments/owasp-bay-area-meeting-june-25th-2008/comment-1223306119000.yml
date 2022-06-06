@@ -1,0 +1,19 @@
+name: Pat Patterson
+date: '2008-10-06 08:15:19'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>Hi Mark,</p>
+
+  <p>I assume you meant to address me (Pat) instead of James :-)</p>
+
+  <p>As it happens, we've just appointed an architect on the OpenSSO team to
+  oversee security issues - watch Rajeev's blog - <a
+  href="http://blogs.sun.com/rangal/"
+  rel="nofollow">http://blogs.sun.com/rangal/</a> - for more on the topic. </p>
+
+  <p>While OWASP has some relevance to OpenSSO's security (as OpenSSO is itself
+  a Web application), and OpenSSO can help make apps more secure in enforcing
+  access management policy, as far as I can see, the main lesson from OWASP is
+  that you CAN'T sprinkle on magic security dust - you still have to secure your
+  Web app.</p>
+email: 5080aaff59eac4d87182616a8005ba8c

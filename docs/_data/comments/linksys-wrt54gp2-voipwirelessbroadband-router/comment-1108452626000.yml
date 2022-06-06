@@ -1,0 +1,10 @@
+name: Rich McAllister
+date: '2005-02-14 23:30:26'
+url: 'http://blogs.sun.com/rollter/page/rfm'
+message: >
+  You know you can load the <a href="http://www.sveasoft.com/"
+  rel="nofollow">Sveasoft</a> firmware builds into the WRT54G and get all the
+
+  QoS priority you want to configure? Just put whatever VoIP box Lingo likes
+  downstream from the WRT54G, raise its priorty up, and Bob's your uncle.
+email: 39b56eb506fa393fdb9f90ea23129def

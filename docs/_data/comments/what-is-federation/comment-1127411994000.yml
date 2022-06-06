@@ -1,0 +1,26 @@
+name: Rohan Pinto
+date: '2005-09-22 10:59:54'
+url: 'http://blogs.sun.com/roller/page/rohanpinto'
+message: >
+  WOW !!<p>Talk about obtaining more knowledge via blogs rather than from
+  product docs ;-) <p>
+
+  I have used dynamic user creation and have been able to dynamically provision
+  accounts using <a
+  href="http://www.sun.com/software/products/access_mgr/index.xml"
+  rel="nofollow">Access Manager</a>. I also have been able to use <a
+  href="http://www.sun.com/software/products/access_mgr/index.xml"
+  rel="nofollow">Access Manager's</a> post processing class to keep the user
+  attributes including &lt;strong&gt;ROLES&lt;/strong&gt; from the remote system
+  in synch with the local datastore. But I was not aware that this "Dynamic user
+  Creation" feature worked with "Federated Authentication".<p>
+
+  I was also aware of the "bulk" federation, but what i'm not too clear on is if
+  'bulk' federation is possible with accounts only on one side ? and not the
+  other.
+
+  <p>BTW: When did <a
+  href="http://www.sun.com/software/products/federation_mgr/index.xml"
+  rel="nofollow">Federation Manager</a> come about ?? I'm falling behind....
+  need to catch up...
+email: 7f289e57e1d609361b34e92988b6e577

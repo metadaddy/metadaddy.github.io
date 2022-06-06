@@ -1,0 +1,17 @@
+name: JE Carter II
+date: '2018-05-15 17:47:36'
+url: 'http://datatribesoftwerksltd.com'
+message: >-
+  Still seeking a solution.  I bought a pi zero W with a TFT.  After soldering
+  on the 40 pin header, the TFT works great, albeit too small to show all of
+  some dialogs and screens. Any HDMI - DVI or straight HMDI output I try, on two
+  different monitors, just results in the test screen being displayed.  I've
+  tried a number of configurations in the config, every option listed for
+  troubleshooting HDMI out and nothing works properly.
+
+
+  Has anyone got a pi zero w working with an external HDMI monitor?
+
+
+  I've also tried a 1.5 and 2 amp USB power supply... no difference.
+email: 945b0565d4fa1a8ed19b019dddd94018

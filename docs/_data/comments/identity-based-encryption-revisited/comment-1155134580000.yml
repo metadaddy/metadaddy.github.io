@@ -1,0 +1,8 @@
+name: Robin Wilton
+date: '2006-08-09 07:43:00'
+url: 'http://blogs.sun.com/racingsnake'
+message: >
+  It also looks to me, from an admittedly cursory skim, that (relative to PKI)
+  IBE would not provide a robust basis for non-repudiation... given that the PKG
+  resides on a node outside the user's control.
+email: d41d8cd98f00b204e9800998ecf8427e

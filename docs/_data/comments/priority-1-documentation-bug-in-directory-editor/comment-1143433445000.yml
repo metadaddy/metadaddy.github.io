@@ -1,0 +1,14 @@
+name: Andy Gliozzo
+date: '2006-03-26 20:24:05'
+url: ''
+message: >
+  My favorite accidental release came from an Apple programmer who was working
+  on printer definition files to allow HP printers to work with Apple's laser
+  printer driver. When he checked in his code, he forgot to remove the part that
+  caused the driver to prominently display the phrase "Icky Poo" in the print
+  dialog, anytime an HP printer was being used. I know the programmer, and he
+  truly thought that HP printers were disgusting crap! Thanx to a shortcutted QA
+  cycle, the driver was released and his feelings were conveyed to HP, and quite
+  a few customers, loud and clear. Why piss off just one developer, when you can
+  go ahead and offend an entire company and their customer base too?!!
+email: d3717484620e04cc418c9956214a7fc7

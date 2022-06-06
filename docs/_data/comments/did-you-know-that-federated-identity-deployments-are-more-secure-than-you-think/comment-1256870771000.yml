@@ -1,0 +1,8 @@
+name: Secure Federated Identity Deployments &laquo; Superpatterns
+date: '2009-10-29 19:46:11'
+url: 'http://blog.superpat.com/2009/01/31/secure-federated-identity-deployments/'
+message: >-
+  [...] in use at several customers who balked at the cost of adding CA&#8217;s
+  federation capability. As I mentioned last time, setting an attribute in the
+  SSO session, to indicate that the user had authenticated via [...]
+email: d41d8cd98f00b204e9800998ecf8427e

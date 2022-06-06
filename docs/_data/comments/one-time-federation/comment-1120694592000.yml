@@ -1,0 +1,19 @@
+name: Paul Madsen
+date: '2005-07-06 17:03:12'
+url: 'http://connectid.blogspot.com'
+message: >
+  Hi Pat, I'm not quite sure that the Entrust folks know about that doc on their
+  site! I created it to be part of the ID-WSF Implementation Guidelines, not
+  sure how/why it got to Entrust's public site. :-)
+
+  I'll notify the appropriate people and send you the link to the WSF IG if
+  Entrust takes it down.
+
+  I also wanted to add to your answer to the original question. If the SP
+  doesn't want the user to have an account, then this sort of 'one time
+  federation' (although 'federation' has such persistent connotations) is, as
+  you point out, the answer. If, on the other hand, it just so happens that the
+  user doesn't yet have an account at the SP, but is willing to establish one,
+  then normal 'persistent' federation can still work, the user just creates an
+  account during the federation process.
+email: d41d8cd98f00b204e9800998ecf8427e

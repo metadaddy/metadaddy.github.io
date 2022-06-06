@@ -1,0 +1,35 @@
+name: Kyuha
+date: '2010-09-21 06:02:48'
+url: ''
+message: >-
+  Hi Pat, I got this error when trying to do "make oldconfig &amp;&amp; make
+  prepare"
+
+
+  root@kyu:/usr/src/linux-headers-2.6.32-21# make oldconfig &amp;&amp; make
+  prepare
+
+  scripts/kconfig/conf -o arch/x86/Kconfig
+
+  #
+
+  # configuration written to .config
+
+  #
+
+  scripts/kconfig/conf -s arch/x86/Kconfig
+    CHK     include/linux/version.h
+    CHK     include/linux/utsrelease.h
+    SYMLINK include/asm -&gt; include/asm-x86
+  make[1]: *** No rule to make target `kernel/bounds.c', needed by
+  `kernel/bounds.s'.  Stop.
+
+  make: *** [prepare0] Error 2
+
+  root@kyu:/usr/src/linux-headers-2.6.32-21# 
+
+
+
+
+  Can you please point what is wrong with my work?
+email: 801d4e619d552c745656fb1ff20897ac

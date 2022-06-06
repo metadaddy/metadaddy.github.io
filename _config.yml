@@ -20,19 +20,43 @@
 
 title: Superpatterns
 email: pat@superpat.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Pat Patterson on the Cloud, Identity and Storage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Pat Patterson on the Cloud, Identity and Storage"
+subtitle: "Pat Patterson on the Cloud, Identity and Storage"
+baseurl: "/"
+url: "https://blog.superpat.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metadaddy
 github_username:  metadaddy
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
 permalink: /:title
+
+paginate: 5
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+
+repository: "metadaddy/metadaddy.github.io"
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : https://metadaddy-staticman.herokuapp.com/v3/entry/github/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

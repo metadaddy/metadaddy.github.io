@@ -1,0 +1,23 @@
+name: Pradeep Balachandran
+date: '2009-09-14 11:35:44'
+url: ''
+message: >
+  <p>Pat:</p>
+
+  <p>I have been able to integrate Liferay and OpenSSO, with respect to
+  authentication.  However I have been struggling with the integration aspect
+  relating to authorization.  I am not sure if it is even reasonable to assume
+  that Liferay can be integrated with an external &quot;authorization&quot; data
+  store.  The questions that invariable arise when you talk about integrating a
+  portal to an external authorization data store are:</p>
+
+  <p>a. Can you setup communities and pages dynamically for a user, with
+  information retrieved from OpenSSO's policies (authorization).  Is this even
+  realistic?</p>
+
+  <p>b. Can you selectively show pages and portlets based on policies in OpenSSO
+  for that user.</p>
+
+  <p>I would appreciate your thoughts on this topic and if you can share some
+  documents on if/how this can be done, that would be even better.</p>
+email: 4320ba72227b4799f461d067f20678d0

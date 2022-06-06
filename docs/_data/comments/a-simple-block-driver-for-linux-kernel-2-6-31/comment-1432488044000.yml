@@ -1,0 +1,14 @@
+name: DeCrAzYo
+date: '2015-05-24 10:20:44'
+url: ''
+message: |-
+  oops, didn't fix all of it :/
+
+  sbd_transfer(&amp;Device, blk_rq_pos(req), blk_rq_cur_sectors(req),
+  #if LINUX_VERSION_CODE &lt; KERNEL_VERSION(3,15,0)
+  req-&gt;buffer,
+  #else
+  bio_data(req-&gt;bio),
+  #endif
+  rq_data_dir(req));
+email: a69cae17e0c542b47166bf8b75d9c465

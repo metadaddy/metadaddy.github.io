@@ -1,0 +1,22 @@
+name: Arnaud Desbordes
+date: '2012-06-16 09:20:18'
+url: ''
+message: >-
+  Actually, I went a bit further on my research and I found the following
+  information:
+
+  "Couple of small things to note: DVI can carry both analogue and digital
+  video; your HDMI cable will only carry digital. So although most DVI-capable
+  monitors support digital, I believe a very few are analogue only, and it may
+  be worth checking to be sure. Secondly, HDMI carries both video and audio, but
+  DVI is video only. You"ll therefore need to use the separate audio output from
+  the RPi board."
+
+
+  Which would explain why some monitors stay dark, they're not capable of
+  running from digital signals.
+
+
+  Source :
+  http://www.frambozenbier.org/index.php/raspi-community-news/7877-theeponymousbob-on-hdmi-to-dvi-adapter-cable
+email: a609a42aca175556ed76c0bf88796f0e

@@ -1,0 +1,27 @@
+name: Nico
+date: '2006-07-27 15:57:01'
+url: 'http://blogs.sun.com/roller/page/nico'
+message: >
+  IBE's strength, and weakness, is key escrow.  Either you require key escrow,
+  in which case IBE may be a good fit, or you really don't want key escrow, in
+  which case IBE is a bad fit.  Within corporations key escrow can be very good;
+  between individuals, very bad.
+
+  Radia's second point, (b), was about the IBE equivalent of PKI trust path
+  construction/validation.  Both need this, but I've seen this aspect of IBE
+  glossed over ("you need only know their e-mail address!", well, yes, but then
+  you need to securely find the domain's PKG).
+
+  Radia's third point, (c), is not quite right: Bob and his PKG could be using
+  Kerberos V between them, instead of PK; and so (d) (revocation of Bob's
+  credentials to authenticate against his PKG) is really orthogonal to IBE.
+
+  Radia's last point, (e), is equally applicable to CA certificate recovation in
+  PKI.  In both, PKI and IBE, CA/PKG key revocation is hard and has nothing to
+  do with the number of users in that CA/PKG; key rollover is a bit different in
+  that in a PKI users need to get new certs for their keys, but this is not all
+  that different from IBE users having to change their credentials for
+  authenticating to the PKG.
+
+  The crucial matter, really, is key escrow.  Do you want/need it, or not?
+email: d41d8cd98f00b204e9800998ecf8427e

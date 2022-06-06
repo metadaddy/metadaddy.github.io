@@ -1,0 +1,33 @@
+name: Nipun Batra
+date: '2006-10-23 01:10:20'
+url: ''
+message: >
+  Hi
+
+  I am trying to achieve SSO and evaluating opn SSO project. However I am not
+  able to understand this product as there are no documents. Please can you
+  point me where I can find detailed documents for this project.
+
+  I tried to refer document of Access Manager 7 on sun.com/docs, However the
+  things described there is not available here. For example developers guide
+  mentions about few client code and client war. The same is not available here.
+  The openssodemo.war says that it includes both opensso.war and few extra
+  client directories, however there is no README or Sample code or anything else
+  which says how SSO is achieved.
+
+  I am sorry if I sounded bit frustrated here, actually I have wasted quite some
+  time on this project, I started with evaluating Sun Identity manager …… When I
+  downloaded the project on Sun,  all I got is Web Agent which is available as
+  Access manager download. While going through the documents of Web Agent
+  (called as Access Manager on Sun.com) I found that Access Manager is something
+  totally different. I tried hard to find Access Manager and after doing some
+  research I found its now opensso project. It is not at all mentioned on Sun
+  Website that this project is now open source. And when I came here and read
+  documents I found nothing concrete in terms of sample codes etc.
+
+  I will really Appreciate if you can help me regarding this issue.
+
+  Thanks
+
+  Nipun
+email: d50b95b6ea051023d3a1c283bc2b36d5

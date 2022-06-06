@@ -1,0 +1,8 @@
+name: Debugging python-for-android with gdb &mdash; /dev/blah
+date: '2012-11-12 17:11:16'
+url: 'http://blog.tshirtman.fr/2012/11/13/debugging-python-for-android-with-gdb'
+message: >-
+  [...] been sinking a lot of time in trying to make python-for-android support
+  multiprocessing, and for various reasons, it turns out to be a bad idea®, but
+  in doing that, i had to go to great extents to [...]
+email: d41d8cd98f00b204e9800998ecf8427e

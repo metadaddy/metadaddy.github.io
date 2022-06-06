@@ -1,0 +1,14 @@
+name: Pat
+date: '2021-06-14 09:51:35'
+url: ''
+message: >-
+  Hi Prem! You have to create a signing key and submit the public key to one of
+  the <a href="https://login.salesforce.com/cacerts.jsp" rel="nofollow ugc">CA's
+  trusted by Salesforce</a>. You CANNOT use a self-signed certificate. The
+  details vary according to which CA you use. I've used GoDaddy in the past - <a
+  href="https://www.godaddy.com/help/apache-generate-csr-certificate-signing-request-5269"
+  rel="nofollow ugc">their instructions are here</a>. You generate the key and
+  certificate signing request (CSR), keep the key (it's your secret!) and submit
+  the CSR to the CA. They will issue the certificate as a PEM file that you can
+  download. NOTE - you need an SSL certificate, not a code-signing certificate.
+email: 5080aaff59eac4d87182616a8005ba8c

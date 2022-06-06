@@ -1,0 +1,42 @@
+name: Mukesh
+date: '2011-07-04 02:43:45'
+url: ''
+message: >-
+  Pat,
+
+
+  Thanks for the info. I looked in the details of the threads you shared and
+  then ported the patch from one of the threads to enable splice call accepting
+  buffer size greater than 16348. I was able to make it operational. But to my
+  surprise the performance went down further to ~17000 K bytes/sec :-(
+
+
+  Do I need to include SPLICE_F_NONBLOCK flag in read from pipe too?
+
+
+  Here are my read and write calls:
+
+
+  // Splice the data from in_fd into the pipe
+      while (total_bytes_sent &lt; count) {
+          if ((bytes_sent = splice(in_fd, NULL, pipefd1, NULL,
+                  count - total_bytes_sent,
+                  SPLICE_F_MOVE | SPLICE_F_NONBLOCK))  0) {
+              if ((bytes = splice(pipefd0, NULL, out_fd, &amp;offset, bytes_in_pipe,
+                      SPLICE_F_MOVE)) &lt;= 0) {
+                  if (errno == EINTR || errno == EAGAIN) {
+                      // Interrupted system call/try again
+                      // Just skip to the top of the loop and try again
+                      continue;
+                  }
+                  perror(&quot;splice Write&quot;);
+                  return -1;
+              }
+            bytes_in_pipe -= bytes;
+          }
+
+  Any clues on the issue?
+
+
+  -Mukesh Kohli
+email: 965aaeec53720e6f06f621303dd70403

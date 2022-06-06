@@ -1,0 +1,8 @@
+name: Pat Patterson
+date: '2009-09-15 19:23:28'
+url: 'http://blogs.sun.com/superpat/'
+message: >
+  <p>Hi Jonathan - you specify a *domain*, not an individual domain controller.
+  I guess if you have the inter-domain trusts set up correctly in the forest,
+  then it will all work...</p>
+email: c82abc687ed8ce4f4b6bae7a020cddfe

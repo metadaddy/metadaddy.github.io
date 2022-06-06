@@ -1,0 +1,23 @@
+name: Superpat
+date: '2006-01-25 11:16:48'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  One clarification. There is still a regular batch feed from Sun to BIPAC to
+  provision and link accounts in bulk, but this feed no longer contains any
+  personally identifiable information (PII), so no usernames, no passwords. It
+  enables BIPAC to set up accounts in their system so they don't have to go
+  through a new account provisioning step when user EIO37832HJD (i.e. a Sun
+  employee identified only by an opaque pseudonym) arrives via single sign-on.
+
+  </p>
+
+  <p>
+
+  Bulk federation in this manner is the norm when a federated account has no
+  'life' outside the federation - i.e. Sun employees have no independent
+  username and password to access BIPAC outside the context of the federation.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,58 @@
+name: Superpat
+date: '2005-12-12 13:50:45'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Hi James,
+
+  <br />
+
+  Thanks again for the comments. I would never propose SAML as a 'one size fits
+  all' solution - I see its principal utility in cross-domain web single
+  sign-on. Some situations may well call for more tightly coupled approaches
+  such as RACF-AD via Kerberos (being neither a RACF, AD or Kerberos expert I
+  can't comment on that example) but where enterprises (or even divisions of an
+  enterprise) have autonomous identity management infrastructure, then SAML
+  meets all of the requirements our customers have expressed, including vendor
+  independence.
+
+  <br />
+
+  Moving on to your second comment, this is complex stuff in which the merits of
+  the technology are a very small factor. We have seen that the contract issues
+  of federation require much more time and energy than the technical
+  implementation. A model that had a large financial institution such as Wells
+  Fargo federating with many small mortgage brokers is technically
+  straightforward, but, I believe, breaks when it comes to the legal and
+  contract issues. The purpose of the federation would be to allow individual
+  brokers to authenticate locally in their own environment, then single sign-on
+  to the big FI. Each broker firm would have to satisfy big FI as to the
+  security and compliance of their environment. I think, in this kind of model,
+  big FI would prefer to keep control of the authentication process and have
+  each broker manually log in.
+
+  <br />
+
+  A really good example of what <i>does</i> work is <a
+  href="http://www.routeone.com/" rel="nofollow">RouteOne</a>, a web-based
+  credit application management system developed by the finance arms of
+  DaimlerChrysler, Ford, General Motors, and Toyota. RouteOne use SAML (in fact,
+  Sun Java System Access Manager's implementation of SAML) to enable single
+  sign-on for auto dealers across the credit application systems of various auto
+  manufacturers. Here, the individual user logs into RouteOne and is given
+  access across a number of systems. The legal framework is much easier to
+  manage since everyone is authenticating to RouteOne and they have relatively
+  few relationships with the manufacturers.
+
+  <br />
+
+  At the end of the day, you pick the appropriate tool for the job. For example,
+  for desktop-to-web single sign-on we implement SPNEGO, which is effectively
+  Kerberos in a browser-friendly HTTP wrapper, since the vast majority of
+  desktops are running Windows. ADFS' built-in features may well enable simple
+  federations where all parties are using MS technology (I really don't mean
+  that to sound patronizing - I just haven't seen any evidence that it will be
+  appropriate for large, complex deployments). SAML is a mature, technically
+  capable, standardized, interoperable solution supported by the majority of
+  identity management vendors and is proven in many deployments, large and
+  small.
+email: d41d8cd98f00b204e9800998ecf8427e

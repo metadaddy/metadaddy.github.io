@@ -1,0 +1,26 @@
+name: Pat Patterson
+date: '2009-08-18 09:46:50'
+url: 'http://blogs.sun.com/superpat/'
+message: >
+  <p>Hi Maria - I think you could do this by customizing the login page. I'm not
+  sure if you can have two login JSPs (one per realm), but you can certainly
+  customize a single login JSP to do things like look at the realm parameter and
+  show different UI accordingly.</p>
+
+  <p>BTW - the best place for questions like this is the OpenSSO users list - to
+  subscribe:</p>
+
+  <p>1. Go to <a href="https://www.dev.java.net/servlets/Join"
+  rel="nofollow">https://www.dev.java.net/servlets/Join</a> and register for a
+  java.net account.<br/>
+
+  2. Go to <a
+  href="https://opensso.dev.java.net/servlets/ProjectMembershipRequest"
+  rel="nofollow">https://opensso.dev.java.net/servlets/ProjectMembershipRequest</a>
+  and request 'Observer' role on OpenSSO.<br/>
+
+  3. Go to <a
+  href="https://opensso.dev.java.net/servlets/ProjectMailingListList"
+  rel="nofollow">https://opensso.dev.java.net/servlets/ProjectMailingListList</a>
+  and subscribe to 'users@opensso.dev.java.net'.</p>
+email: c82abc687ed8ce4f4b6bae7a020cddfe

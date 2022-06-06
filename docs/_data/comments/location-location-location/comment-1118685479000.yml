@@ -1,0 +1,31 @@
+name: Superpat
+date: '2005-06-13 10:57:59'
+url: ''
+message: >
+  Ahhh - Alan - thanks. I think you're right. The user's identity is 'anonymous'
+  (well, apart from their cellphone number), and location is a context
+  attribute.
+
+  <br />
+
+  So, to take a common (non-location) use case, with Shibboleth, if I SSO from
+  one the <a href="http://www.warwick.ac.uk/" rel="nofollow">University of
+  Warwick</a> to <a href="http://www.york.ac.uk/" rel="nofollow">University of
+  York</a>, I am anonymous (no subject attributes), but I have a <i>context</i>
+  attribute that says I'm a student at the University of Warwick. York can then
+  provide me services based on that information and its relationship with
+  Warwick.
+
+  <br />
+
+  Similarly, one can conceive of services that would use location rather than
+  university attendance to authorize access. My cellphone provider asserts my
+  location, and service providers can provide me with services based on that
+  location and their relationship with my cellphone provider. Okay - makes
+  sense.
+
+  <br />
+
+  I still think there's a pretty fuzzy line between subject and context
+  attributes, though...
+email: d41d8cd98f00b204e9800998ecf8427e

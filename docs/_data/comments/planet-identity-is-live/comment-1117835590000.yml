@@ -1,0 +1,7 @@
+name: Superpat
+date: '2005-06-03 14:53:10'
+url: ''
+message: >
+  Quick hack - removed Andre Durand for the time being - there's an unescaped
+  '&amp;' showing up in the link element of one of his items.
+email: d41d8cd98f00b204e9800998ecf8427e

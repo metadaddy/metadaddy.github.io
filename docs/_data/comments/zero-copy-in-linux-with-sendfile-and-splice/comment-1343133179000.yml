@@ -1,0 +1,14 @@
+name: Ron
+date: '2012-07-24 05:32:59'
+url: ''
+message: >-
+  The client works fine sending to the server all the stuff from an input file.
+  Added some code to print the content of my input file directly by the server.
+
+
+  Having, for example, a 16 byte file on client-side I got all the stuff on
+  server-side and I can print such content.
+
+
+  The problem is with splice and so on, I guess.
+email: 068ebc21d8b970be3075a6aaf6c083c6

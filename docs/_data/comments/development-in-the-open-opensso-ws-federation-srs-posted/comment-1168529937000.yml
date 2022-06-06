@@ -1,0 +1,16 @@
+name: ''
+date: '2007-01-11 07:38:57'
+url: ''
+message: |
+  Hi Pat,
+  I have some questions regarding OpenSSO.
+  Can i keep apache in front of JBoss using mod_jk and
+  use apache WEB agent (no j2ee agent) to intercept requests?
+  What about SSL (termination?)
+  Can you just tell how it can be done?
+  I have installed web agent 2.2 (for apache 2.0.54)on windows 2003
+  i dont know how to configure it for apache 2.0.59
+  Is there any resource available?
+  I'm stuck on this issues for past two weeks!
+  -Joe
+email: d41d8cd98f00b204e9800998ecf8427e

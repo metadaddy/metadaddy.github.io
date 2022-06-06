@@ -1,0 +1,5 @@
+name: Prem
+date: '2021-06-14 07:31:45'
+url: ''
+message: "Hi Pat,\r\n\r\nIn this article we see a statement - \"We need to create a PEM file for curl with the signing key, client certificate, and all the certificates in its chain except the root.\".\r\n\r\nFrom where do we get this file?"
+email: 5ea609ee25bae5064e31b479550d66c7

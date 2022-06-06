@@ -1,0 +1,14 @@
+name: Pat Patterson
+date: '2012-07-23 14:48:02'
+url: ''
+message: >-
+  One thought, Ron - add O_TRUNC to the flags for open - i.e.
+
+
+  destination_fd = open(filename, O_WRONLY | O_CREAT | O_TRUNC);
+
+
+  It may be that you've tested a few times, and the file was corrupted when
+  splice() wasn't working properly, and you're just overwriting the output file
+  and leaving the junk in place.
+email: 5080aaff59eac4d87182616a8005ba8c

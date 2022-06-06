@@ -1,0 +1,32 @@
+name: Giuseppe C.
+date: '2012-11-08 12:04:08'
+url: ''
+message: >-
+  I'm working on my first facebook app, and I'm following your example here: 
+
+  http://wiki.developerforce.com/page/Getting_Started_with_the_Force.com_Toolkit_for_Facebook,_Version_3.0
+
+
+  to get some ideas and also to have my "first time" with FB environment and
+  facebook toolkit 3 and fb apps in general.
+
+
+  Using your code I'm receiving this kind of error:
+
+
+  "sObject type 'Facebook_Favorite__c' is not supported. If you are attempting
+  to use a custom object, be sure to append the '__c' after the entity name"
+
+
+  and i cannot find any solution. Also with the second part of the code there is
+  something that the platform doesn't like.
+
+
+  Can u please help me ? 
+
+
+  Thanks a lot and I'm sorry to bother you!
+
+
+  Kind regards, Giuseppe C.
+email: 4e14583ea3039a53c43948607a97be63

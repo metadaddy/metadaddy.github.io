@@ -1,0 +1,9 @@
+name: hzhao
+date: '2009-09-20 19:01:04'
+url: ''
+message: >-
+  hi, pat. can I still specify the host and port to connect to AD? 
+
+  actually, in my environment, the data store is ADAM not AD, but the schemas
+  are identical to AD.
+email: 85755668d3ff114ef8e52903c097d5f0

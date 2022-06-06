@@ -1,0 +1,21 @@
+name: Capitan Holy Hippie
+date: '2005-03-01 14:07:15'
+url: 'http://holyhippie.livejournal.com/'
+message: >
+  This is something that all building, deploying and running services on the
+  Internet should have drilled into their heads.  To me, a system that is
+  properly secured has no need for a packet filtering firewall.  My definition
+  of 'properly secured' is that all the applications implement the access
+  controls required by the security policy to allow or deny access.
+
+  I've got machines on the Internet, and the packet filtering firewalls on these
+  machines do very little for me.  I know full well exactly what services are
+  running, and that most of those services implement access controls in a way I
+  find satisfactory.  Those that I can't turn off, or don't have any way to
+  configure access controls, I have to put a packet filter in front of them.
+
+  I see that I have to use a packet filtering firewall in front of some services
+  as a defect in those services.
+
+  Anyway - just some ranting from me on security.
+email: 33d6df4f3017c0f1387bc7df2abc8a89

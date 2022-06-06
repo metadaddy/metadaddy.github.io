@@ -1,0 +1,24 @@
+name: Christian Paro
+date: '2011-06-06 14:13:06'
+url: ''
+message: >-
+  It appears that "blk_fs_request" has been removed in the 2.6.36 kernel,
+  causing sbd.c to not compile as written.
+
+
+  Replacing the line:
+
+
+  if (!blk_fs_request(req)) {
+
+
+  ...with
+
+
+  if (req == NULL || (req-&gt;cmd_type != REQ_TYPE_FS)) {
+
+
+  seems to fix this, on the lines of a similar patch I found for the cloop
+  driver in the Knoppix codebase:
+  http://lists.debian.org/debian-knoppix/2010/10/msg00012.html
+email: d424cf81b896ec486338f35a11da0b23

@@ -1,0 +1,12 @@
+name: Steve Edberg
+date: '2007-11-16 18:41:34'
+url: ''
+message: >
+  <p>Thanks for the post; this was driving me crazy for the better part of a day
+  when I started getting weird NFS 'permission denied' errors after editing
+  /etc/inet/hosts. And evidently because of name service caching, I didn't
+  notice anything was amiss immediately. After a 'cat ipnodes.old hosts &gt;
+  ipnodes' and deleting the duplicate lines, everything was hunky-dory. As I
+  don't use IPv6, I'm wondering if there would be a downside to symlinking
+  ipnodes to hosts? I can't try it now, maybe I will in the future.</p>
+email: 4bd7d676e5440ead11f6881fd22a86c3

@@ -1,0 +1,24 @@
+name: Dennis Seah
+date: '2006-10-23 16:24:16'
+url: ''
+message: >
+  hi Nipun
+
+  We can help if you can tell us the single sign on solution(s) that you are
+  looking for?
+
+  As you may know that OpenSSO is actually Java Enterprise System Access Manager
+  7.1, we are open sourcing all the major features. Docs for Access Manager 7.0
+  is at http://docs.sun.com/app/docs/coll/AccessManager_05q1 (We have yet to
+  release the docs for release 7.1)
+
+  At the docs site, there are alot of information ranging from different type of
+  authentication methods, session failover, policy management, evaluation and
+  enforcement, etc.
+
+  Again, it will be great if you can send an email to 
+  users@opensso.dev.java.net with your requirements and our engineers can help
+  you along.
+
+  thanks
+email: 4c66854d2127aa2d3aa9448af9fbdbab

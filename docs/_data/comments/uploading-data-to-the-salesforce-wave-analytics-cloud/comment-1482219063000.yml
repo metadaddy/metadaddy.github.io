@@ -1,0 +1,16 @@
+name: SS
+date: '2016-12-19 23:31:03'
+url: ''
+message: >-
+  Hi all,
+
+  Wanted to one more thing,
+
+  Is there any way to generate metadata json automatically from csv/DB for to
+  load the data in wave analytics ??
+
+
+  As because, I am facing a dynamic change in the DB(Data Base), and every time
+  DB changes, I need to change the metadata json manually, if there is a way I
+  can generate that automatically then that will be helpful.
+email: 5fb9fe8ddd14a3036548a155ed5f120f

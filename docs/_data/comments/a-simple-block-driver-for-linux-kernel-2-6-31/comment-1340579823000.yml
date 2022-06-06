@@ -1,0 +1,5 @@
+name: Radek
+date: '2012-06-24 16:17:03'
+url: ''
+message: "Hi Pat, looks like I found a bug :) You should change line 140 like:\n\nmajor_num = register_blkdev(major_num, \"sbd\");\n\tif (major_num &lt; 0) { // use &lt; instead of &lt;=\n\nregister_blkdev returns 0 when user requests a specific (non-zero) major number."
+email: df03ecf687c103b52af97f919be27443

@@ -1,0 +1,8 @@
+name: Superpat
+date: '2005-09-22 13:07:26'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Yeah - 'some assembly required' to have federated SSO dynamically create
+  profiles. It's a simple plugin for FM, slightly more involved for AM. But this
+  is a good RFE to add to the stack...
+email: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,8 @@
+name: Pat Patterson
+date: '2014-06-23 14:50:05'
+url: ''
+message: >-
+  John - you edit config.txt in the boot partition. If you've booted the RPi
+  from the SD card, this is at /boot/config.txt, or you can pop the SD card into
+  a reader on your desktop/laptop and you should see config.txt right there.
+email: 5080aaff59eac4d87182616a8005ba8c

@@ -1,0 +1,35 @@
+name: Marty Heyman
+date: '2006-02-07 06:56:54'
+url: 'http://www.symas.com'
+message: >
+  Pat, good and fair reply. Yes, I'm that Marty. I didn't mean to say that the
+  Sun technology is toy technology. The underpinnings are very respectable stuff
+  that people should take seriously. The toy comment was about the limitation to
+  a domain (no matter how flexible). That limitation, in the context of what the
+  user actually wants (Single Sign On, one password), is quite restrictive.
+
+  We at Symas did a demonstration of an SSO capability for one of the
+  household-name security ISVs several years ago. Long story. Best told over
+  adult beverages. We put it up as MySSO.com (no longer available). It
+  demonstrated cross-domain Web single sign on based on an LDAP directory. It
+  had its own limitations. The client couldn't always identify login "fields"
+  and we were endlessly tinkering to keep it working. But it did work on a wide
+  variety of popular Web sites and we used it for a long time with great
+  success.
+
+  MySSO.com didn't rely on cookies. It used LDAP sessions that could be easily
+  and strongly secured and worked with the existing authentication mechanisms on
+  the sites. It did not require adoption of an authentication technology by the
+  Web. The technology was on the user side. Symas felt (feels) it is important
+  that the apps need not be changed. We believe Enterprises won't rework
+  existing apps (Web or otherwise) and that security / Identity Management has
+  to support what is, not what could or should be.
+
+  I (we) measure Web SSO approaches against MySSO.com. It was too limited, in
+  our experience, to be satisfying. Without a solution for the rest of the
+  sign-on problem (email, database, legacy non-Web apps), we feared that
+  adoption would be limited. We liked MySSO.com but it wasn't enough, even for
+  us. It turned out, in the end, to be a toy and we turned our attention to
+  OpenLDAP and the challenges of the Enterprise Directory Services platform for
+  the time being.
+email: 4d2edf707bc9c25e015496067ef2f962

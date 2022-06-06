@@ -1,0 +1,12 @@
+name: Superpat
+date: '2006-06-07 09:57:43'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Heh - it was actually Shift-Backspace that was resetting X - much easier to
+  hit. This is an XGL issue; you need to do <b>xmodmap
+  /usr/share/xmodmap/xmodmap.&lt;language&gt;</b> (i.e., for me, using US
+  English, <b>xmodmap /usr/share/xmodmap/xmodmap.us</b>) <i>every</i> time you
+  start X, not just once when you set things up. I put this in Gnome's session
+  startup programs list (System / Preferences / Sessions / Startup Programs) and
+  all is well :-)
+email: d41d8cd98f00b204e9800998ecf8427e

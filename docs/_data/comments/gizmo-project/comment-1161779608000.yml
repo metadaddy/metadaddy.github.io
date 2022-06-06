@@ -1,0 +1,23 @@
+name: David Orme
+date: '2006-10-25 05:33:28'
+url: ''
+message: >
+  <p>
+
+  Feature-wise, Gizmo is light years ahead of Skype.  But in my experience, SIP
+  is its bane.
+
+  <p>
+
+  Folks who have good upstream bandwidth probably won't notice but people with
+  marginal upstream bandwidth get bad call quality.  And while they do various
+  hacks to traverse NATs, it sadly isn't able to get across some of them (like
+  where I work right now).
+
+  <p>
+
+  They would do much better to support IAX, the Asterisk native protocol.  It's
+  a binary protocol, so it's much more efficient.  And it is automatically
+  NAT-transparant.  IAX gets past even the super-tight security at some places
+  where I currently frequent.
+email: 79579478249b35006e5bc1d7d0cd92df

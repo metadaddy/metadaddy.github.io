@@ -1,0 +1,13 @@
+name: Bob White
+date: '2017-07-28 17:37:57'
+url: ''
+message: >-
+  hdmi_group=1
+
+  hdmi_mode=4
+
+
+  This worked for me. I tried config_hdmi_boost=4 and hdmi_force_hotplug=1 with
+  no luck. The hdmi_group=1 and hdmi_mode=4 worked. I think I have a monitor
+  that only does analog DVI. If you're in that boat then give this a try.
+email: 0ad8663a8fd749467c7105de17799255

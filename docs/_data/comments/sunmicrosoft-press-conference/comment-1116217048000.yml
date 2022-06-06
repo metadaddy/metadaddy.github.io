@@ -1,0 +1,45 @@
+name: Superpat
+date: '2005-05-15 21:17:28'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  Let's be realistic here. We come to a settlement with MS. Our customers give
+  us requirements that they expect to see fulfilled, now that we are no longer
+  at war. Do we:
+
+  <ul>
+
+  <li>
+
+  <b>A</b> - Work with Microsoft, in private if necessary, to define a mechanism
+  for interoperability, publishing it as soon as its done and submitting it to a
+  standards body at the earliest opportunity.
+
+  </li><li>
+
+  <b>B</b> - Reverse engineer some quasi-solution, needing more engineers, more
+  time and resulting in something that kind of works, most of the time, until
+  the next service pack from MS.
+
+  </li>
+
+  </ul>
+
+  If you chose B, well, I hope I don't hold stock in the company you work for.
+
+  <br />
+
+  Finally, to answer the earlier comment that the
+
+  <blockquote>
+
+  fact sheet lists only Sun and Microsoft products as "products that support
+  specifications".
+
+  </blockquote>
+
+  Read the fact sheet carefully. It lists Sun and MS products that <i>will</i>
+  support the specs. Neither Sun nor MS ship any product today that supports the
+  new specs. They are published now, and open for other vendors to implement.
+  It's entirely possible that one or more other vendors might beat both Sun and
+  MS to market.
+email: d41d8cd98f00b204e9800998ecf8427e
