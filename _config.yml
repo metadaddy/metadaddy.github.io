@@ -18,20 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+domain: metadaddy.github.io
 title: Superpatterns
 email: pat@superpat.com
 description: "Pat Patterson on the Cloud, Identity and Storage"
 subtitle: "Pat Patterson on the Cloud, Identity and Storage"
-baseurl: "/"
-url: "https://blog.superpat.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://metadaddy.github.io
 twitter_username: metadaddy
 github_username:  metadaddy
 
+markdown: kramdown
+
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 permalink: /:title
 
