@@ -1,0 +1,12 @@
+name: tkudo's weblog
+date: '2006-10-31 07:49:55'
+url: 'http://blogs.sun.com/tkudo/entry/opensso_openfederation_lightbulb_j2eeagent'
+message: |
+  [Trackback] 今朝方 java.net から来てた
+  CVS Digest メールがやけにサイズ大きいなーと思ったら,
+  ついに
+  OpenSSO
+  へアイデンティティ・フェデレーションのコードがチェックインされたようだ.
+  https://opensso.dev.java.net/source/browse/opensso/products/federation/
+  https://ope...
+email: d41d8cd98f00b204e9800998ecf8427e

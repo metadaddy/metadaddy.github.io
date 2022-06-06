@@ -1,0 +1,9 @@
+name: Leon
+date: '2021-10-10 09:28:39'
+url: ''
+message: >-
+  Hey Pat, thank you very much for this blog. I got one question regarding IP
+  whitelisting. Say I have a non-public external webservice, which Salesforce
+  can consume as a client. Do I still need  to whitelist the Salesforce IP using
+  mutual TSL?  Meaning, is mutual TSL built on top of IP whitelisting?
+email: 1858103ab6a650f934a842b1712f4e4a

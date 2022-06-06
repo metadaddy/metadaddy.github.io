@@ -1,0 +1,15 @@
+name: Andrew Patterson
+date: '2009-07-26 13:23:03'
+url: 'http://blogs.sun.com/superpat/'
+message: >
+  <p>Ramoonus - I'll be taking a look at Joomla/Wordpress in the near future.
+  The tricky bit is figuring out the right extension point that gives me access
+  to the OpenSSO cookie and allows me to log the user in on the fly.</p>
+
+  <p>Adam - I'll take a look at shib_auth, thanks for the tip! Of course, now
+  that the OpenSSO-related bits are working, anyone with better Drupal/PHP
+  skills than me (99.99% of Drupal hackers!) can build on this initial
+  version.</p>
+
+  <p>Darren - Glad to be of service! :-)</p>
+email: 03a5685955bc3d08a0a5c2ed77e57e1c

@@ -1,0 +1,45 @@
+name: Pat
+date: '2006-11-16 10:28:02'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>
+
+  Hi Michael,
+
+  </p>
+
+  <p>
+
+  Well - there's a difference between what is 'supported' and what works,
+  perhaps with a bit of tweaking. Traditionally, Access Manager has been
+  supported on Sun's App Server and Web Server, plus IBM WebSphere and BEA
+  WebLogic, since those have been the containers for which customers are
+  demanding support.
+
+  </p>
+
+  <p>
+
+  With OpenSSO, I'm not sure we've ever explicitly listed 'supported'
+  containers. You can pretty much just drop the WAR file into anything - as <a
+  href="http://blogs.sun.com/superpat/entry/opensso_on_tomcat_in_ubuntu"
+  rel="nofollow">I've blogged before</a>, Tomcat is pretty widely used, despite
+  it never having been a supported platform for Access Manager.
+
+  </p>
+
+  <p>
+
+  Bottom line - give JBoss a try and see what happens. Let us know at <a
+  href="mailto:users@opensso.dev.java.net"
+  rel="nofollow">users@opensso.dev.java.net</a> whether it works or not.
+
+  </p>
+
+  <p>
+
+  I'll respond by email for the DoD/CREATE stuff. Thanks for taking the time to
+  comment.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

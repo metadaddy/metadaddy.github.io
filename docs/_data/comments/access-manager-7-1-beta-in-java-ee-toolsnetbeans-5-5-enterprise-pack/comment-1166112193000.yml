@@ -1,0 +1,12 @@
+name: Michael
+date: '2006-12-14 08:03:13'
+url: ''
+message: >
+  Yes, you're corrrect.  I have created a Java EE 5 webservice using NB, and
+  then followed up creating the web service client in another project using NB
+  tool features, and created a reference to the the service under "Web Service
+  References" folder in NB.  So, I have to apply @WebServiceRef annotation on
+  the servlet making use of the Web Service Reference?  I gotta read up more on
+  Java EE 5 web service development... As I've written namely j2ee 1.4;
+  specifically, axis based services.
+email: 5b6ada663d675c03221a819f10d00587

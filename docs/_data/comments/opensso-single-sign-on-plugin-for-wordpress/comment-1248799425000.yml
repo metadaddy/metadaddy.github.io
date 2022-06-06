@@ -1,0 +1,20 @@
+name: Pat Patterson
+date: '2009-07-28 09:43:45'
+url: 'http://blogs.sun.com/superpat/'
+message: >
+  <p>Damien - yes - I think that is the correct behavior. If we have a username
+  from OpenSSO, but there is no corresponding user in the other system we should
+  show an error page and stop the redirect madness :-)</p>
+
+  <p>I'm also thinking about how to detect and stop redirect loops in general -
+  for instance, if you misconfigure the OpenSSO cookie name or the DNS domains
+  don't match. I'm thinking about a cookie holding the time we did the redirect.
+  If we try to do another redirect to the OpenSSO login page within (say) 2
+  seconds of the last one, we're likely in a redirect loop. I'll try this out in
+  the Drupal/WordPress providers and see how it works.</p>
+
+  <p>Dennis - the PHP client SDK was a contribution from the community. IIRC, we
+  did the identity services soon after, and no one has really used (or even
+  asked about) the PHP SDK since - not even its author. No users + no mail
+  traffic + no bug reports =&gt; no development...</p>
+email: c82abc687ed8ce4f4b6bae7a020cddfe

@@ -1,0 +1,10 @@
+name: Unnati Dhanaliya
+date: '2018-07-31 02:50:17'
+url: ''
+message: |-
+  In kernel 4.10.0, you may get error like 
+   error: ‘struct request’ has no member named ‘buffer’
+   sbd_transfer(&amp;Device, blk_rq_pos(req), blk_rq_cur_sectors(req),req-&gt;buffer, rq_data_dir(req));
+  since buffer is removed from struct request in this version. 
+  Use bio_data(rq-&gt;bio) in place of req-&gt;buffer
+email: 7a2da5e682b2a8d5021a384ccf20601b

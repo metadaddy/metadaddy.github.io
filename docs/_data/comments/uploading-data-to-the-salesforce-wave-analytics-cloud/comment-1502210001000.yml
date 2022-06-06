@@ -1,0 +1,8 @@
+name: geoff rothman
+date: '2017-08-08 09:33:21'
+url: ''
+message: >-
+  SS: google "github datasetutils". thats a reference implementation of the API
+  and you can add a commandline switch to automatically generate the metadata
+  json along with the upload
+email: 2be71a16c4bf43a5b1dc3214b3d45e71

@@ -1,0 +1,15 @@
+name: Paul C. Bryan
+date: '2007-05-03 12:07:04'
+url: ''
+message: >
+  This is where Debian/Ubuntu sometimes seems to go too far in its directory
+  placement policy.
+
+  I avoid this pain by always downloading the Tomcat binary and putting it
+  somewhere in my home directory. Example:
+
+  /home/pbryan/Programs/apache-tomcat-5.5.23
+
+  Also, using Debian/Ubuntu packages for server software can present problems
+  when you want multiple instances.
+email: 5fe7fbff0f502544954dd8d4483e80a0

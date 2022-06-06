@@ -1,0 +1,20 @@
+name: Sylvain
+date: '2014-07-21 17:17:35'
+url: ''
+message: |-
+  Thank you, It works fine for me.
+
+  What I did with SSH :
+
+  # mount /flash -o remount,rw
+  # vi /flash/config.txt
+
+  uncomment hdmi_force_hotplug=1
+
+  Save the config
+  # mount /flash -o remount,ro
+
+  # reboot
+
+  Thank's
+email: 02d2cb4a7e7702390a970189e732e955

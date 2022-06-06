@@ -1,0 +1,25 @@
+name: Robin Wilton
+date: '2005-06-16 02:56:16'
+url: 'http://blogs.sun.com/racingsnake'
+message: >
+  Pat, I think the position outlined in the comments is correct now; "is located
+  at x" is a predicate which doesn't necessarily carry any identity information.
+  The only way to avoid having to broadcast the weather data is to have some
+  other piece of identity data (i.e. the subscriber number).
+
+  <br />
+
+  The assertion "The man in the corner is my father" may be true (if your father
+  is in the corner), but "is in the corner" would only be a general assertion of
+  your father's identity under somewhat weird circumstances (i.e. if the only
+  way to be in that corner is to be your father).
+
+  <br />
+
+  Off the top of my head, the only working example I can think of is "The man
+  sitting on that chair is the author of one of my text-books". That sentence,
+  spoken in the right place, would always and uniquely identify the philosopher
+  Jeremy Bentham... but only because he's been stuffed and mounted in University
+  College London. (!)  (He donated his body to science and they took him
+  literally... ;^)
+email: d41d8cd98f00b204e9800998ecf8427e

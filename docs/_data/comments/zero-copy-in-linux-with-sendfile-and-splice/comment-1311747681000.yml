@@ -1,0 +1,9 @@
+name: Pat Patterson
+date: '2011-07-26 23:21:21'
+url: ''
+message: >-
+  Hi Mukesh - I think it might just be kernel-version dependent. I definitely
+  saw a measurable perf increase (about 8%) of splice with 2.6.31, and Samson
+  (comment above yours) also sees a benefit with 64k buffer size, albeit smaller
+  than expected. Thanks for posting your experience here - it's all useful info.
+email: 5080aaff59eac4d87182616a8005ba8c

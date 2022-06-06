@@ -1,0 +1,16 @@
+name: Eric Norman
+date: '2008-02-28 20:26:08'
+url: 'http://ejnorman.blogspot.com'
+message: >
+  <p>I don't get it.</p>
+
+  <p>In this scheme, all three of IdP, identity selector, and RP need to speak
+  the information card protocols.  If they do that, then why not just use the
+  regular information card stuff?</p>
+
+  <p>Is there something missing in the information card protocols whereby these
+  password tokens would add value?  If so, what is it?</p>
+
+  <p>This looks to me like it's just adding more code and complexity without
+  adding any value.</p>
+email: 5290a803dd18cd31d955682558c6b49d

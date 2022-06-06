@@ -1,0 +1,22 @@
+name: vebprodigy
+date: '2010-10-01 18:35:58'
+url: ''
+message: >-
+  Hi Pat,
+
+    Thanks..that was a great starting point for me...Please suggest any enhancement that I can do on this code where I can go much deeper into device driver modules domain...
+
+  Also, on command line we have M=`pwd` where M=current directory. What this
+  command option informs?
+
+
+  I am  new to device driver programming. As per another member who commented
+  above, it doesn’t handle though is a detach/rmmod while an I/O is in progress.
+  What does it exactly mean? How do we test it?
+
+
+  Please advice,
+
+
+  Thanks
+email: d2c89a3e1f849fddc8d79882a8365384

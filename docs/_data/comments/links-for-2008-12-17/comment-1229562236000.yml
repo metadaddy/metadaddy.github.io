@@ -1,0 +1,16 @@
+name: Dennis Seah
+date: '2008-12-17 17:03:56'
+url: 'http://dennisseah.wordpress.com'
+message: >
+  <p>to see the opensso website in japanese, you can do this.<br/>
+
+  1. set the preferred locale of your browser to japanese<br/>
+
+  2. visit <a href="https://opensso.dev.java.net"
+  rel="nofollow">https://opensso.dev.java.net</a></p>
+
+  <p>We have javascript in <a href="https://opensso.dev.java.net"
+  rel="nofollow">https://opensso.dev.java.net</a> to redirect the request to <a
+  href="https://opensso.dev.java.net/ja"
+  rel="nofollow">https://opensso.dev.java.net/ja</a> auto-magically :-)</p>
+email: d41d8cd98f00b204e9800998ecf8427e

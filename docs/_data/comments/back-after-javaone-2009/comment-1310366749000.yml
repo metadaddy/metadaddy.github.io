@@ -1,0 +1,24 @@
+name: Mounika
+date: '2011-07-10 23:45:49'
+url: ''
+message: >-
+  Hi, 
+
+  I have gone through the below link 
+
+
+  http://go4idm.blogspot.com/2010/09/securing-rest-web-services-with-oauth.html
+
+  I deployed the  code StockClinet ,StockServer and TokenService
+  applications.When I am trying to generate the security key it is thorwing
+  exceptions.I am unble to get opensso.war and read me file  from
+  http://java.net/projects/opensso/public/use/index.html
+
+
+
+  Could you please suggest me or post me somje sample code to get solutions from
+  this.
+
+
+  Thanks in advance.
+email: c12c46affbcc770e1d7cfe0cf463e740

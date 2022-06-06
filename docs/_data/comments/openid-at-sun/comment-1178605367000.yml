@@ -1,0 +1,30 @@
+name: Andreas &Aring;kre Solberg
+date: '2007-05-07 23:22:47'
+url: 'http://rnd.feide.no'
+message: >
+  <p>Hi Pat!<p>Regarding:
+
+  <blockquote>
+
+  "what could it mean to have an OpenID that says you are an employee of Sun
+  Microsystems (or, for that matter, any company)?"
+
+  </blockquote>
+
+  <p>In my opinion it does not matter whether the OpenID provider that says you
+  are an employee of Sun is the OpenID provider at Sun. For a OpenID consumer it
+  is totally irrelevant whether it is the official Sun OpenID Provider or if it
+  is a free random open registration provider somewhere on the net. And this is
+  where OpenID's goal is totally different from SAML thinking, and this is also
+  where OpenID often is misunderstood.
+
+  <p>That said, what you are gaining, and what is totally awsome for Sun
+  employees is that you will get SSO between internal services and all those
+  random openid consumers. (off course if the openid provider is the same as
+  your saml idp).
+
+  <p>I tried to sketch some of my ideas of what happens, and why, to <a
+  href="http://rnd.feide.no/2007/03/23/openid-and-federations/"
+  rel="nofollow">put up OpenID interfaces to existing SAML IdPs</a>, but I am no
+  good at writing.
+email: 845e7ef0e45c693d3a09d7e7c8001bc4

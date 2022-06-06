@@ -1,0 +1,30 @@
+name: Robin Wilton
+date: '2006-07-03 01:37:06'
+url: 'http://blogs.sun.com/racingsnake'
+message: >
+  <p>[shudder]
+
+  </p>
+
+  <p> I'm not saying that Other Operating Systems would be any friendlier (they
+  would most likely just put a prettier face on the message "Your Disk Is
+  Fried")... but Linux still has a way to go before that kind of disk recovery
+  is usable by a techno-muppet such as I.
+
+  <br />
+
+  <br /> That said, I feel reasonably smug, because I did manage to fix my most
+  recent Linux boot problem. Somehow the display/graphics adapter settings had
+  got corrupted, preventing the graphical desktop from loading. I was still able
+  to log in at a command prompt, and ultimately launch the system configuration
+  tools (YAST, SAX) to re-set things to a valid config.
+
+  </p>
+
+  <p>Another powerful argument (if one were needed) for <i>loose</i> coupling
+  between the OS and the UI/desktop.
+
+  <br />
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

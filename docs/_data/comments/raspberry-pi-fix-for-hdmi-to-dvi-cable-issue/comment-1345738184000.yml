@@ -1,0 +1,24 @@
+name: DavidT
+date: '2012-08-23 09:09:44'
+url: ''
+message: >-
+  I sympathise with all those having RPi to monitor connection problems. I
+  thought that connecting the RS Comp. supplied HDMI-HDMI cable through an
+  HDMI-DVI convertor to the DVI slot on my Dell 1907FP monitor would be easy.
+  The monitor displayed nothing except the "digital test card" flashing. I tried
+  all solutions including adding a "home made" config file to the SD card with
+  all possible combinations of set up. In the end I found a good web site -
+  "www.pinout.ru" which shows the HDMI to DVI cable scheme connections in
+  tabular form. With a circuit tester I found that the the HDMI pin to DVI pin
+  contacts on my set up did not match what they should be. Today I received my
+  "World of Data® - 3m HDMI to DVI Cable - Premium Quality / 1080p (Full HD) /
+  v1.3 / Video / DVI-D (Dual Link) 24+1 Pins / 24k Gold Plated"
+
+  from Amazon. Doing the circuit test again - all pins were as they should be!
+  Raspberry Pi now fully working on my Dell monitor.
+
+  Moral of the story - ensure that you get the right HDMI to DVI cable /
+  adaptor!
+
+  Regards, David.
+email: 781de85cf44bf33569decd601187424e

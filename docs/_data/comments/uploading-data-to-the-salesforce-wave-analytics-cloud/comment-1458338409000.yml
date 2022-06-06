@@ -1,0 +1,11 @@
+name: Terence Wilson
+date: '2016-03-18 15:00:09'
+url: ''
+message: >-
+  Hi Pat, there is a Analytics Cloud Data Integration Best Practice guide by ASG
+  Salesforce, available  on customer success site which has fully worked out
+  examples using both WCS and  REST API approaches to load large data files
+  with  compression and data chunking. I concur that the official products
+  documents did not make it obvious on how to do this hence my reason for coding
+  the examples. Hope you find them useful as well
+email: 5f25899540146f67b9e162a7aa99b1a7

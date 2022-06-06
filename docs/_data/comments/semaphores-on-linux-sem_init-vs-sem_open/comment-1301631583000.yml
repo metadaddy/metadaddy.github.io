@@ -1,0 +1,9 @@
+name: Pat Patterson
+date: '2011-03-31 21:19:43'
+url: ''
+message: >-
+  Hi Nisheeth - shm_open takes a name for the shared memory region, so unrelated
+  processes just need to know the same name. Yes - I think System V IPC message
+  queues can do all this, they just looked quite a bit more complex to deal with
+  when I was working on this.
+email: 5080aaff59eac4d87182616a8005ba8c

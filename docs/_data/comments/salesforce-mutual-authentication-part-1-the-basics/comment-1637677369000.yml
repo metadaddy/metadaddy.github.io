@@ -1,0 +1,5 @@
+name: Mike M
+date: '2021-11-23 06:22:49'
+url: ''
+message: "Hi Pat, a couple other folks have mentioned the “Client certificate error: unable to get local issuer certificate” error on this article.  See screenshot here for the error:  https://www.screencast.com/t/tVsETEHVfee\r\n\r\nI found your article because I searched for that error in Google with quotation marks around it, and this article is the only result.  1 single result!\r\n\r\nThis happens when trying to setup Certificate-Based authentication in Salesforce when using Chrome on a Mac.  It works fine on Chrome on Windows, but not Chrome on a Mac.  It works fine on Safari on a Mac, but not Chrome.  I have tried from multiple Mac computers using multiple versions of MacOS, and the problem is the same -- fine on Safari, broken on Chrome.\r\n\r\nDo you have any tips for me? Thanks!"
+email: 774344892d3b69ad051e851c2f0ee276

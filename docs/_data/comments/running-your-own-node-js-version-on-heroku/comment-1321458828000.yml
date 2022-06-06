@@ -1,0 +1,43 @@
+name: tester
+date: '2011-11-16 07:53:48'
+url: ''
+message: >-
+  I have problem in this line. I am pretty stuck. Could you give me a hand?
+
+
+  heroku create --stack cedar --buildpack
+  http://github.com/metadaddy-sfdc/heroku-buildpack-nodejs.git
+   !   Name must start with a letter and can only contain lowercase letters, numbers, and dashes
+
+
+  Then I added a name here
+
+  heroku create --stack cedar MYAPP --buildpack
+  http://github.com/metadaddy-sfdc/heroku-buildpack-nodejs.git
+
+
+  This just create an blank nodejs app for me. 
+
+
+  But when I compile it, It doesnt show node is in the right version 
+
+  -----&gt; Heroku receiving push
+
+  -----&gt; Node.js app detected
+
+  -----&gt; Fetching Node.js binaries
+
+  -----&gt; Vendoring node 0.4.7
+
+  -----&gt; Installing dependencies with npm 1.0.94
+         express@2.2.0 ./node_modules/express 
+         ├── qs@0.3.2
+         ├── mime@1.2.4
+         └── connect@1.7.3
+         Dependencies installed
+  -----&gt; Discovering process types
+         Procfile declares types -&gt; web
+  -----&gt; Compiled slug size is 3.2MB
+
+  -----&gt; Launching... done, v3
+email: ce1c96ea158675f39e57c91bc50d7c16

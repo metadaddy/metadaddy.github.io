@@ -1,0 +1,20 @@
+name: Vidhya
+date: '2006-12-13 17:02:26'
+url: ''
+message: >
+  Seems like you are creating a Java EE 5 webservice using NB, correct? In the
+  case of Java EE 5 based service, after creating the web service client node
+  you have to also "use the client" node in one of your sevlets/jsp etc.. which
+  will generate a @WebServiceRef annotation which signals the tool that it can
+  enable security. The key is to have the annotation on the client which invokes
+  this service.
+
+  If you used the bundled stock sample from the IDE (or use the zip file that
+  Pat has included) you would be able to invoke the client wizard without this
+  additional step because the samples are j2ee 1.4 based and hence the workflow
+  for client creation is different.
+
+  HTH,
+
+  - Vidhya
+email: d41d8cd98f00b204e9800998ecf8427e

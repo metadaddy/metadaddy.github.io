@@ -1,0 +1,20 @@
+name: Pat
+date: '2021-10-08 13:44:59'
+url: ''
+message: >-
+  Hi Bini - as I mentioned in my reply to Kumar, this area of Salesforce is
+  quite confusing, and not well documented. Mutual Authentication certificates
+  are used by Salesforce to verify clients calling the Salesforce APIs. The
+  client uses its private key in the TLS handshake and Salesforce verifies it
+  against the certificate chain you uploaded.
+
+
+  You are in the opposite situation - you want to load a private key and
+  certificate chain into Salesforce so that when your Apex code does a callout,
+  Salesforce can use the private key in the TLS handshake and ADP can verify it
+  against the certificate it has on record. I believe you need to create a
+  keystore in Java Keystore (JKS) format containing your private key and
+  certificate chain and import it into Salesforce using the <strong>Import from
+  Keystore</strong> button in the <strong>Certificates</strong> section of the
+  Certificate and Key Management page.
+email: 5080aaff59eac4d87182616a8005ba8c

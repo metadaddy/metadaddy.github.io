@@ -1,0 +1,56 @@
+name: mmstud
+date: '2011-11-25 15:23:51'
+url: 'http://www.articlemanager.us/'
+message: >-
+  I do:
+
+
+
+  heroku create --stack cedar --buildpack
+  http://github.com/metadaddy-sfdc/heroku-buildpack-nodejs.git
+
+  Creating afternoon-lightning-2887... done, stack is cedar
+
+  http://afternoon-lightning-2887.herokuapp.com/ |
+  git@heroku.com:afternoon-lightning-2887.git
+
+
+  AND
+
+
+  git push heroku master
+
+  Counting objects: 5, done.
+
+  Delta compression using up to 2 threads.
+
+  Compressing objects: 100% (3/3), done.
+
+  Writing objects: 100% (3/3), 285 bytes, done.
+
+  Total 3 (delta 2), reused 0 (delta 0)
+
+
+  -----&gt; Heroku receiving push
+
+  -----&gt; Node.js app detected
+
+  -----&gt; Fetching Node.js binaries
+
+  -----&gt; Vendoring node 0.4.7
+
+  -----&gt; Installing dependencies with npm 1.0.94
+         
+         Dependencies installed
+  -----&gt; Discovering process types
+         Procfile declares types -&gt; app
+  -----&gt; Compiled slug size is 11.7MB
+
+  -----&gt; Launching... done, v271
+         http://xxx deployed to Heroku
+
+  To git@heroku.com:xxx
+     298a809..837363d  master -&gt; master
+
+  So versions are not updating, any ideas?
+email: 3f06106f04bf2c5bc8d096dbd7a13e41

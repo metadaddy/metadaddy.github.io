@@ -1,0 +1,20 @@
+---
+author: user
+title: RSA Conference Interoperability Roundup - OSIS/XACML
+slug: rsa-conference-interoperability-roundup-osisxacml
+id: 418
+date: '2008-04-16 12:34:42'
+layout: single
+categories:
+  - Links
+---
+
+<span style="margin: 5px; float: right;">[![](http://blog.superpat.com/wp-content/uploads/2009/09/xacml.jpg)](http://www.oasis-open.org/news/oasis-news-2008-04-07.php)</span>
+
+At [RSA](http://www.rsaconference.com/2008/US/home.aspx) this year, as well as the [Project Concordia workshop](http://projectconcordia.org/index.php/Concordia_workshop_RSA_2008_notes) [I covered last week](http://blogs.sun.com/superpat/entry/rsa_conference_2008_concordia_done), there were [OSIS](http://osis.idcommons.net/) and XACML interoperability events.
+
+The information card (aka InfoCard, aka CardSpace) portion of the OSIS event focused on [testing 17 identity provider security token services (IP/STS) against 39 relying parties (RP)](http://osis.idcommons.net/wiki/I3:Cross_Solution_Information_Card_Relying_Party_x_Identity_Provider_Results) plus [specific feature tests](http://osis.idcommons.net/wiki/I3:Sun_OpenSSO#Information_Card_Identity_Provider_FeatureTest_List) (note - right now, a bug in the wiki software means that both the IdP and RP feature results tables are shown under the RP heading). Last time I looked, [OpenSSO](http://opensso.org/) worked with 11 of the identity providers and 19 relying parties. Of the remainder, many (shown as N/A in the table) were not tested due to incompatible policies - for example, it's impossible to test an IP/STS against an RP that only accepts self-issued cards. Some others (shown as Not Tested in OpenSSO's results) are not yet online. Of the outright failures, many on the RP side seem to be due to the assumption that the token MUST be encrypted by the IP/STS. This is somewhat ambiguous in the [specification](http://www.microsoft.com/downloads/details.aspx?DisplayLang=en&FamilyID=b94817fc-3991-4dd0-8e85-b73e626f6764) (section 8.3), which clearly states that self-issued cards SHOULD be encrypted, but leaves the question open for managed cards. I'll let you into a secret - I inadvertently configured the OpenSSO IP/STS to not encrypt tokens; a lucky mistake in that it exposed this nit.
+
+Meanwhile, over on the expo floor, [OpenSSO](http://opensso.org/) was also well represented in the [OASIS](http://www.oasis-open.org/) [XACML](http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=xacml) interop event ([press release](http://www.oasis-open.org/news/oasis-news-2008-04-07.php)). Where the OSIS event focused on basic on-the-wire compatibility, the XACML interop covered quite an elaborate use case from the U.S. Department of Veterans Affairs featuring role-based access control (RBAC), privacy protections, structured and functional roles, consent codes, emergency overrides and filtering of sensitive data. I ducked out of the OSIS interop to go take a look (and say 'Hi' to Bina and Dilli from the OpenSSO team) and was blown away - 7 vendors supplied policy decision points (PDPs), while OpenSSO was also the policy evaluation point (PEP) for the client side of the demo app. Actually, demo app doesn't begin to do it justice - the application showed how a patient could set policy to control access to medical records, down through controls on individual physicians seeing your records to physician + resource (e.g. Dr Bob isn't allowed to see my radiography results) and more. There was even an emergency 'break glass' override included to allow a physician (duly authenticated, of course) to get access to any of your notes via a specific affirmation that an emergency is in progress. Very cool stuff - it seems like XACML is coming of age!
+
+More coverage by [Phil](http://independentidentity.blogspot.com/2008/04/oasis-xacml-interop-at-rsa.html), [Anil](http://anil-identity.blogspot.com/2008/04/summary-review-oasis-xacml.html) and [Craig](http://www.slightlytallerthanaverageman.com/2008/03/31/xacml-interop-at-rsa-2008-isnt-a-repeat-of-burton/)

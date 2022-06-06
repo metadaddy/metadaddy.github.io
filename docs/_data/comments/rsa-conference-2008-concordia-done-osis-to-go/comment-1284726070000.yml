@@ -1,0 +1,8 @@
+name: Secure Federated Identity Deployments &laquo; Superpatterns
+date: '2010-09-17 05:21:10'
+url: 'http://blog.superpat.com/2009/01/31/secure-federated-identity-deployments/'
+message: >-
+  [...] don&#8217;t think there was an interop demo at Catalyst 2008, but at the
+  Concordia interop demos at RSA, we tested a CardSpace/SAML interop scenario,
+  passing an authentication context URI to indicate to [...]
+email: d41d8cd98f00b204e9800998ecf8427e

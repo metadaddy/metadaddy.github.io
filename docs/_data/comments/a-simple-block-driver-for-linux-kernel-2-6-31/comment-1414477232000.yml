@@ -1,0 +1,8 @@
+name: chetan
+date: '2014-10-27 23:20:32'
+url: ''
+message: >-
+  I tried this  code in 2.6.32-38,after insmod it is invoking request function
+  for 12 times to read ,after doing fdisk its not creating sbd0p1 what might be
+  issue n solution
+email: 4927bdd49ab66505b7c9121bc52a4abc

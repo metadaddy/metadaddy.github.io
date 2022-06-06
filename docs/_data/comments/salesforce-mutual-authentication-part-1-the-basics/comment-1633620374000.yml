@@ -1,0 +1,5 @@
+name: Pat
+date: '2021-10-07 08:26:14'
+url: ''
+message: "Hi David - I can totally relate on the relearning side. One of the reasons I write blog entries like this is so I can refer back to them next time. I can't count the number of times I've googled a problem and found the answer written by 2-years-ago-me :-)\r\n\r\nAs far as I know, you have to generate the private key yourself. You submit the corresponding public key to a CA to get a cert chain rooted at one of the root CA certs that Salesforce trusts. That bit is documented at https://help.salesforce.com/s/articleView?id=sf.security_keys_about.htm&type=5\r\n\r\nLooking at the error you're seeing - this seems to come from curl itself rather than the Salesforce side. It may be that the curl you're using isn't happy with the root CA cert it's getting from Salesforce, because it doesn't have the current root cert.  I found this Stack Overflow answer that seems relevant: https://stackoverflow.com/a/31830614/33905\r\n\r\nGood luck!"
+email: 5080aaff59eac4d87182616a8005ba8c

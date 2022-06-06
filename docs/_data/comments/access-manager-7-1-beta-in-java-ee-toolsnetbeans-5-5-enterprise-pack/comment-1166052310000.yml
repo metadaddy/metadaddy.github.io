@@ -1,0 +1,20 @@
+name: Michael
+date: '2006-12-13 15:25:10'
+url: ''
+message: >
+  Using the tutorial, I thought I would develop a Web Service using netbeans and
+  the j2ee bundle to ... I had no problem editing the web service attributes to
+  set the security settings, but when i created a client with a web service
+  reference to this service I could not edit and set the web service setting to
+  enable the WSC to send the corresponding security headers to the WSP.  Instead
+  I got "Project not supported" in both netbeans on OS X and Linux.  So, I can't
+  apparently use netbeans enterprise pack to set the client settings, but must
+  edit the sub-web.xml directly?  It appears the reason why the tutorial worked
+  is because all the stubs were already there and not generated?  Also, if you
+  leverage the "blueprints: Identity_BP1" and start reading into the section
+  about "Configuring WebService Client Security Mechanisms Using the Access
+  Manager Console" you find the tutorial completely off the rails from how the
+  amswer is configured.  So, I don't know what to make of that, because the some
+  4 individual Access Manager 7.1 PDF docs don't cover securing web services in
+  the manner these tutorials do.  Thoughts?
+email: 5b6ada663d675c03221a819f10d00587

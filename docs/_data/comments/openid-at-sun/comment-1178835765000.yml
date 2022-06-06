@@ -1,0 +1,11 @@
+name: Sven
+date: '2007-05-10 15:22:45'
+url: >-
+  http://blog.distributedinformation.com/2007/05/openid-support-for-twiki-coming-soon.html
+message: >
+  Sven Dowideit's working on re-architecting TWiki's authentication and session
+  system to enable better support for external user management - for the
+  upcoming TWiki 4.2.0 release in June, we should see OpenID support - at least
+  for login, and registration - and later, TWiki will be able to be an OpenID
+  providor too..
+email: 96896d468d43e14852f3907df7e1cec9

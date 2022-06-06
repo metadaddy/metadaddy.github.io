@@ -1,0 +1,13 @@
+name: Ron
+date: '2012-07-23 09:51:24'
+url: ''
+message: >-
+  On client-side I have this: git://gist.github.com/3164659.git
+
+
+  On server-side: git://gist.github.com/3164653.git
+
+
+  If I try to write on "standard output" from client-side, it works... I mean I
+  can put the content of my "input file" on standard output.
+email: 068ebc21d8b970be3075a6aaf6c083c6

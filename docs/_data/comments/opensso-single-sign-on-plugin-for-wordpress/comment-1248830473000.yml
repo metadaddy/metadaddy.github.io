@@ -1,0 +1,19 @@
+name: ''
+date: '2009-07-28 18:21:13'
+url: ''
+message: >
+  <p>Pat, a redirect within two seconds will not indicate a loop - at least not
+  for us. We have the 'problem' where our backend application is behind sjsws
+  acting as a URL policy enforcement point.  In CDSSO mode the first access to
+  that application is the POST of LARES, this post is proxied back to the app,
+  but without the session cookie in the request as that cookie is set on
+  response to the LARES.<br/>
+
+  Because the backend app requires the session cookie (it uses j2ee agent -
+  though it could be because it uses SDK) it redirects back to login which
+  imediately redirects back as the user is authenticated, this time the session
+  cookie comes through.<br/>
+
+  I thought there was already an option to stop redirects after a number of
+  redirects - will try find that setting...</p>
+email: d41d8cd98f00b204e9800998ecf8427e

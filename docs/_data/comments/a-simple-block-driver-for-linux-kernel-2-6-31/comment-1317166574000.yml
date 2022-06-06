@@ -1,0 +1,28 @@
+name: Yan X
+date: '2011-09-27 16:36:14'
+url: ''
+message: >-
+  Hi, 
+
+
+  Thanks for sharing your experience.
+
+
+  1. I am trying out my first Block Device and followed your example and it is
+  asking for a filesystem type on mounting the sbd0p1 device:
+
+  yangcomputer:~/exp # mount /dev/sbd0p1 /mnt
+
+  mount: you must specify the filesystem type
+
+
+  2. This example applies to a ramdisk. Do you have any idea how I can implement
+  a similar block device on a real hard disk?   Which part of the code do I need
+  to change?
+
+
+  Thanks,
+
+
+  Yan
+email: f50989bf2c12739f7e7252801e61f39c

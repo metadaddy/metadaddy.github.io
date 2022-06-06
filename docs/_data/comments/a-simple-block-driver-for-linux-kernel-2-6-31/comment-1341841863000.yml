@@ -1,0 +1,15 @@
+name: ayman
+date: '2012-07-09 06:51:03'
+url: ''
+message: >-
+  Thank you for this, great job and it works properly.
+
+  I try to run this driver on two machines, to impliment something like NBD
+  "network block device"
+
+  the problem is that if I am in the method sbd_transfer, "if I try to open a 
+  udp socket the system crashes and blocks completely. If i do this another
+  where there is no problem
+
+  do you have any idea??
+email: 16352f72491fabd653f7ff4ed38a3b02

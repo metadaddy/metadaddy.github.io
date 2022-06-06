@@ -1,0 +1,32 @@
+name: Michael
+date: '2006-11-16 09:23:13'
+url: ''
+message: >
+  JBoss is not listed as a supported container... I suppose since Tomcat is a
+  component there of there is no reason for it not two be supported, right?
+
+  Familiar with DoD’s Service-Oriented Architecture (SOA) Foundation aka NCES,
+  and the past Horizontal Fusion efforts?
+
+  Would there possibly be any interest in your specific group inside of Sun
+  entering into a Cooperative Research and Technology Enhancement (CREATE)
+  agreement with Joint Forces Command centered around the OpenSSO efforts you
+  describe in the development of SAML-based security for a multi-national SOA? 
+  I'm just a scummy DoD contractor.  So, I can't speak for the government, but
+  in investigating the landscape I had an expectation for what has come to pass
+  -- the virtual open sourcing of Sun's entire stack was a logical line of
+  progression.  My thought was to propose a CREATE with specific enphasis on the
+  further development of SAML-support in OpenSSO to the powers that be as a
+  possible option as we have had talks with Sun in terms of SOA related CREATE 
+  related agreements in the most general of terms, just not in the specific
+  areas as OpenSSO as I ws not fully involved at the time.
+
+  Also, how well can one leverage Access Manager or the follow on OpenSSO from
+  outside of NetBeans, say in Eclipse?  Not to be insulting, but as a software
+  engineer myself, I would prefer to allow our team the freedom to float between
+  whatever tool suits their own personal needs.  I take it NetBeans is just
+  populating deployment descriptors and what not for the web service and
+  client-- The reason for my comment elsewhere in your blog.
+
+  Contact me at my provided email address....
+email: 330d8f359311148a6a8aae401d96e5b0

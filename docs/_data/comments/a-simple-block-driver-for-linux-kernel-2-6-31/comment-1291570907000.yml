@@ -1,0 +1,10 @@
+name: more linux development newbie questions about sbull.c
+date: '2010-12-05 09:41:47'
+url: >-
+  http://www.linuxquestions.org/questions/programming-9/more-linux-development-newbie-questions-about-sbull-c-848321/#post4181315
+message: >-
+  [...] code from here did work:
+  http://blog.superpat.com/2010/05/04/...kernel-2-6-31/  It&#039;s an updated
+  version of sbd for the new block layer API. I&#039;ll study it... thank you
+  very much [...]
+email: d41d8cd98f00b204e9800998ecf8427e

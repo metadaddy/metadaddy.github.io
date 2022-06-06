@@ -1,0 +1,36 @@
+name: hank fu
+date: '2016-03-22 07:06:03'
+url: ''
+message: >-
+  I implement my first block device driver for one PCIe card that has utilizing
+  the DMA of this card based on this example from
+  http://opensourceforu.efytimes.com/2012/02/device-drivers-disk-on-ram-block-drivers/.
+  I just replace the memcpy() function in ramdevice_write() and ramdevice_read()
+  with my own DMA version of write()/read() function. My own own DMA version of
+  write()/read() function work well for millions of times. They worked in
+  interrupt mode. Linux crashes after several 'dd' commoands for 128KB data. 
+  rb_transfer() is similar to sbd_transfer(). Before I try this example, may I
+  ask some questions? Is there any special requirement for the function
+  sbd_transfer()? 
+
+
+  a) Can the sbd_transfer() function call spin_lock()?
+
+  b) Can the sbd_transfer() function call wait_event_interruptible_timeout ()?
+
+  c) Can the sbd_transfer() function call vmalloc()/vfree(), kmalloc()/kfree()?
+
+  d) Is it OK when one interrupt is generated during the execution time of the
+  sbd_transfer() function?
+
+  e) Is it OK to call schedule_work() in ISR of the DMA during the execution
+  time of the sbd_transfer() function?
+
+  f) Is it OK to sleep during the execution time of the sbd_transfer() function?
+
+  g) Sometimes irqs_disabled() returns true. Does it mean that no interrupt will
+  be generated?
+
+  h) Is any one example that can handle the request and end the request in
+  different function call?
+email: 6cea312ea0b2b5266712bc6273e8152c

@@ -1,0 +1,31 @@
+name: Pat
+date: '2006-11-13 08:52:39'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>
+
+  Hi Dennis
+
+  </p>
+
+  <p>
+
+  (1) doesn't the OpenSSO web app require many more permissions than merely
+  reading the "user.home" property? I seem to remember, the last time I tried
+  setting granular permissions for a web app (a while ago, admittedly,
+  pre-OpenSSO) I got into a long game of <a
+  href="http://en.wikipedia.org/wiki/Whac-A-Mole"
+  rel="nofollow">'whac-a-mole'</a> trying to find every permission it needed
+  before I gave up and granted everything.
+
+  </p>
+
+  <p>
+
+  (2) I thought about that one, then thought "there must be a reason for this,
+  it feels wrong to just change directory ownership to tomcat 5 or (worse) make
+  it world-writable. The method I described opens the door just enough for it to
+  work.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

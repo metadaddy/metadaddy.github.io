@@ -1,0 +1,24 @@
+name: Superpat
+date: '2006-07-27 16:50:06'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  Yes - escrow is key. The other issue that I think is relevant for the world of
+  federation is that we are generally concerned with signing rather than
+  encryption. Key escrow isn't really useful here, since you can verify a
+  signature 'forever' with the public key and you don't really want the ability
+  for any party to generate signatures with an escrowed key.
+
+  </p>
+
+  <p>
+
+  Having said that, I did identify one possible use case for IBE in my <a
+  href="http://blogs.sun.com/roller/page/superpat?entry=identity_based_encryption"
+  rel="nofollow">previous post</a>, where an attribute provider could encrypt
+  data for consumption by a named, yet otherwise unknown, relying party. Maybe
+  I'll bounce this off some of the Liberty gurus...
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

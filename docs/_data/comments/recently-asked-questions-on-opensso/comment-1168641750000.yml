@@ -1,0 +1,17 @@
+name: Pat
+date: '2007-01-12 14:42:30'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>
+
+  Hi David, addressing your second question first, HADB is part of Sun's
+  Application Server. OpenSSO's session failover feature uses a
+  container-independent session persistence mechanism based on Berkeley DB and
+  Sun's Message Queue.</p><p>On the the first question, I guess you've already
+  read the <a href="http://docs.sun.com/app/docs/doc/819-5899/6n7uuth8k?a=view"
+  rel="nofollow">Implementing Session Failover</a> document. If so, could you
+  post your question to the users@opensso.dev.java.net mailing list (you can <a
+  href="https://opensso.dev.java.net/servlets/ProjectMailingListList"
+  rel="nofollow">sign up here</a>)? The folks there should be able to guide
+  you.</p>
+email: 5080aaff59eac4d87182616a8005ba8c

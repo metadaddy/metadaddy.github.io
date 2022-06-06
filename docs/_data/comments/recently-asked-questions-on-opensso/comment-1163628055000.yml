@@ -1,0 +1,13 @@
+name: Pat
+date: '2006-11-15 14:00:55'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>
+
+  Hi Trung - SAML is there, but it is no longer structured as a separate
+  authentication module. You can get more help by emailing <a
+  href="mailto:users@opensso.dev.java.net"
+  rel="nofollow">users@opensso.dev.java.net</a>.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

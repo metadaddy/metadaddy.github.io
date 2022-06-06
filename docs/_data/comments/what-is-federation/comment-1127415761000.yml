@@ -1,0 +1,43 @@
+name: Superpat
+date: '2005-09-22 12:02:41'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Rohan wrote
+
+  <blockquote>
+
+  ...But I was not aware that this "Dynamic user Creation" feature worked with
+  "Federated Authentication".
+
+  </blockquote>
+
+  I'll need to ask one of the real experts in the AM engineering team for sure,
+  but, as far as I understand, there is no reason why these two bits of
+  functionality (federated SSO and dynamic account creation) should not compose
+  in this manner.
+
+  <blockquote>
+
+  I was also aware of the "bulk" federation, but what i'm not too clear on is if
+  'bulk' federation is possible with accounts only on one side ? and not the
+  other.
+
+  </blockquote>
+
+  Ah - in that case, this is federated provisioning. You need <a
+  href="http://www.sun.com/software/products/identity_mgr_spe/index.xml"
+  rel="nofollow">Identity Manager Service Provider Edition</a>.
+
+  <blockquote>
+
+  BTW: When did Federation Manager come about ?? I'm falling behind.... need to
+  catch up...
+
+  </blockquote>
+
+  Dude - <a
+  href="http://blogs.sun.com/roller/page/superpat?entry=sun_java_system_federation_manager"
+  rel="nofollow">I try to keep people informed.</a> &lt;img
+  src="http://blogs.sun.com/roller/images/smileys/smile.gif" class="smiley"
+  alt=":-)" title=":-)"/&gt;
+email: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,18 @@
+name: Hubert Le Van Gong
+date: '2005-05-27 11:23:02'
+url: 'http://blogs.sun.com/hubertsblog'
+message: >
+  Being one of the author of the specs I can say one of the problem with this
+  article is that it does not sufficiently separates the protocol itself
+  (WSSOMEX) from the profile.<br /> I would tend to agree that a profile that
+  mandates both protocol suites does not do a supremely efficient job but would
+  argue that to start interoperating ones need to understand each other (i.e.
+  finding a common language): this is exactly what the WSSOMEX protocol
+  proposes.
+
+  <br /> <br />
+
+  Cheers,<br />
+
+  Hubert
+email: 86b8249cba730d77e420eee9ad5e639c

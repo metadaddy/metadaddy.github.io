@@ -1,0 +1,10 @@
+name: Pat
+date: '2007-01-10 17:17:15'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  Word from Mr Holroyd:<blockquote>This deployment doesn't do federation, or
+  actually integrate with the CMS yet, just simple SSO and profile sharing
+  accross a single cluster of applications.  OpenSSO provides part of the
+  platform on which some of these things can be built in a later phase of
+  work.</blockquote>
+email: 5080aaff59eac4d87182616a8005ba8c

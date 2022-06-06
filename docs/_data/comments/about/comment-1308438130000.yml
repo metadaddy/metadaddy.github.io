@@ -1,0 +1,22 @@
+name: Dmytro Shevchenko (@Shedal)
+date: '2011-06-18 16:02:10'
+url: ''
+message: >-
+  Hi Pat, sorry for writing right here, but I didn't find a better communication
+  way.
+
+  On this page
+  http://blog.sforce.com/sforce/2011/03/calling-the-rest-api-from-javascript-in-visualforce-pages.html
+  a proxy for JS API calls is described, with a wrapper lib to use it.
+
+  But it doesn't solve my problem, because I don't host my JS app as a
+  VisualForce page. Hence, a call to the proxy would still be cross-domain.
+
+
+  The question is, why not just support CORS and set an HTTP header:
+
+  Access-Control-Allow-Origin: *
+
+  Then cross-domain API calls from JS would work from any domain, in all modern
+  browsers.
+email: 48b0f910c4e0dcd2406e7fa23b3aae2d

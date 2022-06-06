@@ -1,0 +1,65 @@
+name: Arvind Prabhakar
+date: '2006-02-07 17:09:13'
+url: ''
+message: >
+  <p>
+
+  Marty, I am the author of the <a
+  href="https://opensso.dev.java.net/files/documents/3676/19701/architecture.pdf"
+  rel="nofollow">document</a> that you have quoted in your blog, and feel
+  obligated to share my thoughts regarding the three issues that you bring up in
+  your comments.
+
+  </p><p>
+
+  As stated in the <a
+  href="https://opensso.dev.java.net/files/documents/3676/19701/architecture.pdf"
+  rel="nofollow">architecture document</a> (Section 2.3.4), the distribution
+  transparencies are a core architectural concern. This concern is addressed by
+  the service distribution, cluster and client views (Sections 3.3, 3.4, and
+  3.6) which provide location, distribution, replication and concurrency
+  transparencies within the OpenSSO infrastructure.
+
+  </p><p>
+
+  Identity services built on top of this infrastructure are therefore fully
+  distributed and can be sized/scaled to accommodate any practical level of
+  volume and availability as needed for the deployment. This, in other words,
+  implies that there is no one central service that can become a single point of
+  failure. Of course, one could deploy OpenSSO with zero redundancy, in which
+  case all services become single points of failure, but that is not a
+  limitation of the system. That is the limitation of a poorly thought out
+  deployment.
+
+  </p><p>
+
+  On the client side, OpenSSO provides client libraries that you could use
+  within your application, or SSO Agents that could be installed to seamlessly
+  integrate your application platform with OpenSSO. The SSO Agents, defined as
+  'a minimally intrusive transparent software component that can be added to the
+  access path of a web application to allow it to participate in SSO',
+  facilitate the inclusion of OpenSSO services without requiring the hosted
+  applications to be modified. As Pat points out, these SSO Agents are on their
+  way to be released very soon. If you refer back to the architecture document,
+  you would see the mention of SSO Agents in virtually every architectural view,
+  and is hard to miss.
+
+  </p><p>
+
+  Lastly, I wish to emphasize that OpenSSO has a layered architecture with
+  minimal coupling between layers and mature interfaces for inter-layer
+  communication. As such, you could virtually replace or enhance any portion of
+  OpenSSO system with your own extensions and implementations. Incidentally, the
+  use of a domain cookie based single sign-on is just one such implementation.
+  If you compare it with Access Manager, you would note that the later can be
+  configured to provide multiple domain single sign-on capability while using
+  host cookies (yes, I said host cookies and not domain cookies). It even goes
+  as far as providing cookie-less single sign-on using URL rewriting if that is
+  necessary for any deployment. It also provides single sign-on and integration
+  with Java 2 Security framework outside of Web infrastructure. As you can see,
+  this list is endless. If you adopt this solution, the only serious limitation
+  that I would caution against is your imagination. The rest we take care off
+  pretty well...
+
+  </p>
+email: 638f8f7b2d704a4a9f70bbbf57f1a034

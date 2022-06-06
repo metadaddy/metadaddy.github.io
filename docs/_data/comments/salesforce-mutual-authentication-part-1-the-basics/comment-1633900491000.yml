@@ -1,0 +1,15 @@
+name: Pat
+date: '2021-10-10 14:14:51'
+url: ''
+message: >-
+  Hi Leon - all outbound connections from your Salesforce org must be configured
+  in either Remote Site Settings or Named Credentials - see
+  https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_remote_site_settings.htm
+
+
+  Mutual authentication is independent of those settings - you have to configure
+  both.
+
+
+  IP whitelisting is for inbound connections.
+email: 5080aaff59eac4d87182616a8005ba8c

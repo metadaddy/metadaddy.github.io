@@ -1,0 +1,10 @@
+name: pradeep
+date: '2012-08-09 01:19:26'
+url: ''
+message: |-
+  Hi ,
+    I am new to the block device driver . When I was doing the insmod ,I am getting a system hang . If I comment out add_disk () , I could see the driver is inserting .  Why the add_Disk () is causing hang .I am usinh redhat 2.6.18 
+
+  Thanks
+  Pradeep
+email: ce35d44532ebe858ef7a2e7a04aeb750

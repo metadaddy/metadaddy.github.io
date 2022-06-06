@@ -1,0 +1,16 @@
+name: Superpat
+date: '2005-03-09 15:00:56'
+url: ''
+message: >
+  Of course, JCP is also the name of the startup I worked at in the late 90s,
+  acquired by Sun in January 2000. Here's a <a
+  href="http://web.archive.org/web/19980214080226/http://www2.jcp.co.uk/"
+  rel="nofollow">snapshot</a> of the JCP site (courtesy of the <a
+  href="http://www.archive.org/" rel="nofollow">Wayback Machine</a>) from Feb
+  1998, soon after I joined.
+
+  <br />
+
+  I cut my Java teeth implementing ASN.1 decoding and X.509 certs for the Java
+  SSL implementation. Those were the days...
+email: d41d8cd98f00b204e9800998ecf8427e

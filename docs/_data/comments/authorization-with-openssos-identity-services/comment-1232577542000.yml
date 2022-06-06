@@ -1,0 +1,9 @@
+name: shashi
+date: '2009-01-21 14:39:02'
+url: ''
+message: >
+  <p>how do we define authorization policies for webservices? i have webservice
+  &amp; wsclient deployed on diff tomcat instances. my opensso runs on another
+  tomcat instance. i use jax-ws handlers to enforce authentication. how do i
+  enforce authorization?</p>
+email: 5f00e4e768287ef4d9c94f63d8eb0273

@@ -1,0 +1,13 @@
+name: Superpat
+date: '2005-04-01 20:53:18'
+url: ''
+message: >
+  Horoscope is just a tongue-in-cheek example of a service that needs some piece
+  of personal information and doesn't care who you are as long as you are
+  authorized to be there.
+
+  <br />
+
+  A similar example would be a weather service - they would need your location
+  to give you the forecast, but, again, they don't need your actual identity.
+email: d41d8cd98f00b204e9800998ecf8427e

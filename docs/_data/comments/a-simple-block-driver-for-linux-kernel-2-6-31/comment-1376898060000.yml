@@ -1,0 +1,17 @@
+name: hebbo
+date: '2013-08-19 00:41:00'
+url: ''
+message: >-
+  Hello,
+
+
+  Can this driver be used to simulate a swap backing store?
+
+
+  What I am looking for is a bare-bone example of a block device that can
+  simulate a backing store. I will be later on extend this driver to add my own
+  stuff.
+
+
+  Thanks.
+email: 6766ae900e081dbc1ecffa1162f60b3c

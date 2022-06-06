@@ -1,0 +1,23 @@
+name: Superpat
+date: '2006-11-15 09:27:21'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  <p>
+
+  Hi Michael,
+
+  </p>
+
+  <p>
+
+  Correct. Yesterday <a
+  href="http://blogs.sun.com/superpat/entry/announcing_open_federation"
+  rel="nofollow">we announced Open Federation</a> - the long awaited open source
+  federation layer for OpenSSO. Looking at <a
+  href="https://opensso.dev.java.net/public/about/faqcenter/faqopenfederation.html#standards"
+  rel="nofollow">Q2 of the FAQ</a>, it sounds like the functionality you are
+  looking for is WS-I BSP. We'll be adding this in the next few months. It
+  already exists in AM 7.1, so it's a straightforward task to port it across.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

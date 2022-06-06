@@ -1,0 +1,12 @@
+name: Deepak
+date: '2012-05-24 06:03:00'
+url: ''
+message: |-
+  Hi,
+  when i mount this using #sudo mount /dev/sbd0p2
+  i get an error and it is
+  180 days, whichever comes first.  Use tune2fs -c or -i to override.
+  deepak@deepak-Satellite-C665:~/ddd/dp$ sudo mount /dev/sbd0p2
+  mount: can't find /dev/sbd0p2 in /etc/fstab or /etc/mtab
+  i need help
+email: 9f91d53b29e96fb82ad4a1f4dd574192

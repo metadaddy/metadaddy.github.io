@@ -1,0 +1,22 @@
+name: Gregor Melhorn
+date: '2012-01-21 13:54:08'
+url: ''
+message: >-
+  You can save a lot of time by just looking if the heroku team already prepared
+  your node version:
+
+
+  http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.npm
+
+  http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs
+
+
+  will show you the available versions in the official heroku repository. Now
+  just clone the heroku buildpack repo, edit bin/compile and change the version
+  numbers of node and npm accordingly. Commit and push and use this repo as your
+  buildpack.
+
+
+  I was unable to compile it myself but am still able to use node 0.6.8 with
+  this approach.
+email: fba329a96a324d5b0cf178afe0be2ce6

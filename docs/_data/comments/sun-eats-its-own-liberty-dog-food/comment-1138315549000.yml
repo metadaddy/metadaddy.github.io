@@ -1,0 +1,20 @@
+name: Superpat
+date: '2006-01-26 14:45:49'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  Hi Chris,
+
+  </p>
+
+  <p>
+
+  Here's the deal. You have a session on SunWeb. Clicking on a link to BIPAC
+  will use the Liberty ID-FF protocols to single sign-on to BIPAC. As far as
+  you, the end user are concerned, clicking the link brings up a web page at
+  BIPAC that says something like 'Welcome Sun Employee in 95124' with the
+  relevant information for your home zip code. No login at BIPAC required.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

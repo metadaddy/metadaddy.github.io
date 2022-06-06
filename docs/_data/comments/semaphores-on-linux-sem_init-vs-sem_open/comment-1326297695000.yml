@@ -1,0 +1,20 @@
+name: zac
+date: '2012-01-11 08:01:35'
+url: ''
+message: >-
+  Dear Pat,thank u 4 that wonderful post.
+
+  Cud you  plz suggest something 4 thhis problem i am facing:
+
+  I am testing a custom inter-process semaphore implementation where semaphore
+  is called as a function, ie, one function to create sem,another function to
+  take sem and so on.
+
+  I am forking a process and i want the sem to be created in the shared memory.
+
+  I cannot pass the sem_t *sem value to the custom function(it has only one
+  argument,which is semaphore name).
+
+  What can i do to make this function run in the shared memory space?Or how can
+  i get around this problem?
+email: 7b689dcea224d2d88ca2a801e853d732

@@ -1,0 +1,18 @@
+name: Vijay
+date: '2011-02-03 11:50:12'
+url: ''
+message: >-
+  Hi,
+
+  I loved your Java client access to the REST API. I am unable to get it to work
+  with Tomcat7 and eclipse-helios. It keeps failing when i click on the link for
+  /oauth. Could you possible send me your war file or eclipse project file for
+  the war sample so I can play around with it ? I have added a bunch of jars
+  reqd but still doesn't work.
+
+  Just trying to make it work with java.
+
+  TIA,
+
+  Vijay
+email: b27be69c37191b72241c59272b258f86

@@ -1,0 +1,25 @@
+name: Superpat
+date: '2005-10-07 16:40:12'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  Thanks for the comment, Brian. Unfortunately, SAML is by no means unique in
+  this respect - other standards also include the offer of a license. RSA are
+  actually being pretty good in disclosing the license and making it almost
+  trivial to obtain. Have a look at the <a
+  href="http://www.oasis-open.org/committees/wss/ipr.php" rel="nofollow">IPR
+  page for WS-Security</a>. And IETF specs are not immune - as <a
+  href="http://www.ietf.org/rfc/rfc3979.txt" rel="nofollow">RFC 3979</a>
+  explains.
+
+  </p>
+
+  <p>
+
+  Having said that, of course, you are correct - this is a hurdle (albeit pretty
+  low) to SAML implementation. Maybe Sun's recent non-assert covenants will show
+  the way for other vendors...?
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

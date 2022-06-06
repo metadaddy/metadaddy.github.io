@@ -1,0 +1,16 @@
+---
+author: user
+title: Chatting with Radia
+slug: chatting-with-radia
+id: 554
+date: '2007-03-23 23:14:38'
+layout: single
+categories:
+  - General
+---
+
+[<span style="margin: 5px; float: right;">![](http://blog.superpat.com/wp-content/uploads/2013/04/radia.jpg)</span>](http://en.wikipedia.org/wiki/Radia_Perlman) One thing I've been meaning to blog about for weeks is my participation in [Sun's Engineering Enrichment and Development (SEED) mentoring program](http://research.sun.com/spotlight/2004-02-18.SEED.html). [Katy Dickinson](http://katysblog.wordpress.com/) runs SEED - she recently posted this [compendium of articles](http://blogs.sun.com/katysblog/entry/seed_mentoring_publications) - everything you need to know about SEED is there. Anyway - I hit the jackpot with my mentor - [Sun Fellow](http://www.sun.com/smi/Press/sunflash/2006-11/sunflash.20061116.1.xml) [Dr Radia Perlman](http://en.wikipedia.org/wiki/Radia_Perlman). You may know Radia as '[Mother of the Internet](http://www.networkworld.com/community/?q=node/5738)', inventor of the [Spanning Tree](http://en.wikipedia.org/wiki/Spanning_tree_protocol) algorithm and author of [Interconnections: Bridges, Routers, Switches, and Internetworking Protocols](http://www.amazon.com/exec/obidos/ASIN/0201634481/superpatterns-20). SEED participants have to select several potential mentors, writing a few sentences about each one. Here is what I wrote about Radia:
+
+> I started the current arc of my career in 1997, implementing SSL in Java and contributing to a 'clean room' implementation of JCA/JCE. Radia Perlman has been a familiar name to me since that time, given the security aspects of her work. Not only does Radia have DEEP technical knowledge, she combines this with a refreshing willingness to speak her mind. When I received a comment on my blog asking about 'Identity Based Encryption', I fired off an email to Sun's internal security mailing list to find out more. Radia gave a detailed and comprehensive reply, with permission to quote her on my blog. Since security is an essential part of my work, and identity is a key consumer of Radia's work, there is a certain synergy possible in Radia mentoring me.
+
+Our mentoring relationship comprises a phone call every couple of weeks and face-to-face meetings if we ever end up in the same city at the same time. I have to admit, I was pretty intimidated the first time I called Radia - she is [not exactly a shrinking violet](http://blog.superpat.com/2006/07/13/identity-based-encryption-revisited/) - but we seemed to hit it off and have spent several hours - well - chatting, basically. [<span style="float: left;">![](http://images.amazon.com/images/P/0201634481.01._BO2,203,200,-64_AA240_SCLZZZZZZZ_.jpg)</span>](http://www.amazon.com/exec/obidos/ASIN/0201634481/superpatterns-20) Chatting about [her work](http://research.sun.com/minds/2005-0208/), [my work](http://blog.superpat.com/), career progression at Sun and anything else that's on our minds. I get a lot out of it, I hope Radia does too, and it's fun. And, let's face it, that's about 50% of [Sun's unofficial mission statement](http://www.linuxtoday.com/it_management/2007061500826INBZ) :-)

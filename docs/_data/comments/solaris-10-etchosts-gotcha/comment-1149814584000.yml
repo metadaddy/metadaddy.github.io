@@ -1,0 +1,18 @@
+name: Mike Gerdts
+date: '2006-06-08 17:56:24'
+url: ''
+message: >
+  or...
+
+  <pre>
+
+  hosts: files dns
+
+  ipnodes: files
+
+  </pre>
+
+  <p>Should make it so that you can just maintain your localhost entry in
+  /etc/inet/ipnodes (then forget it exists) while using /etc/hosts and DNS like
+  you always have.
+email: 58d5c39a3f2e22e843187534d653edd9

@@ -1,0 +1,8 @@
+name: Sarge
+date: '2015-04-23 16:53:19'
+url: ''
+message: >-
+  Just FYI and for completeness: the commit number in linux-stable git repo that
+  removes blk_fs_request and other macros is
+  33659ebbae262228eef4e0fe990f393d1f0ed941 on August 7, 2010, in 2.6.36-rc1.
+email: d6161c4b308cbf350f83ebae45e18ab9

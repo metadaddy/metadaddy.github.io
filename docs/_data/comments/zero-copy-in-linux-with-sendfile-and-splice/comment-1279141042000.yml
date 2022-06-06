@@ -1,0 +1,9 @@
+name: Semaphores on Linux &#8211; sem_init() vs sem_open() &laquo; Superpatterns
+date: '2010-07-14 13:57:22'
+url: 'http://blog.superpat.com/2010/07/14/semaphores-on-linux-sem_init-vs-sem_open/'
+message: >-
+  [...] readers will know that I&#8217;m working on a Linux server daemon that,
+  amongst other things, moves data back and forth between sockets and files
+  without it appearing in user space, and even &#8216;tees&#8217; that data to a
+  second destination, again without a copy to a user [...]
+email: d41d8cd98f00b204e9800998ecf8427e

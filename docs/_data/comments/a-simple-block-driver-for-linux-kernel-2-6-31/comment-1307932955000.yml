@@ -1,0 +1,60 @@
+name: samb017
+date: '2011-06-12 19:42:35'
+url: ''
+message: >-
+  hi, pat.
+
+
+  I'm trying to compile a block device driver and when i do the make it gives me
+  these errors.   
+
+
+  root@ubuntu:/home/sergio12345/Desktop/practica# make
+
+  make -C /lib/modules/2.6.30-020630-generic/build
+  SUBDIRS=/home/sergio12345/Desktop/practica modules
+
+  make[1]: Entering directory `/usr/src/linux-headers-2.6.30-020630-generic'
+    CC [M]  /home/sergio12345/Desktop/practica/bd.o
+
+  /home/sergio12345/Desktop/practica/bd.c: In function ‘sbd_request’:
+
+  /home/sergio12345/Desktop/practica/bd.c:74: error: implicit declaration of
+  function ‘blk_fetch_request’
+
+  /home/sergio12345/Desktop/practica/bd.c:74: warning: assignment makes pointer
+  from integer without a cast
+
+  /home/sergio12345/Desktop/practica/bd.c:81: error: implicit declaration of
+  function ‘__blk_end_request_all’
+
+  /home/sergio12345/Desktop/practica/bd.c:84: error: implicit declaration of
+  function ‘blk_rq_pos’
+
+  /home/sergio12345/Desktop/practica/bd.c:84: error: implicit declaration of
+  function ‘blk_rq_cur_sectors’
+
+  /home/sergio12345/Desktop/practica/bd.c:86: error: implicit declaration of
+  function ‘__blk_end_request_cur’
+
+  /home/sergio12345/Desktop/practica/bd.c:87: warning: assignment makes pointer
+  from integer without a cast
+
+  /home/sergio12345/Desktop/practica/bd.c: In function ‘sbd_init’:
+
+  /home/sergio12345/Desktop/practica/bd.c:132: error: implicit declaration of
+  function ‘blk_queue_logical_block_size’
+
+  make[2]: *** [/home/sergio12345/Desktop/practica/bd.o] Error 1
+
+  make[1]: *** [_module_/home/sergio12345/Desktop/practica] Error 2
+
+  make[1]: Leaving directory `/usr/src/linux-headers-2.6.30-020630-generic'
+
+  make: *** [default] Error 2
+
+  root@ubuntu:/home/sergio12345/Desktop/practica# 
+
+
+  thanks for ur help.
+email: faab76ac2321323d5f97be0b443ada37

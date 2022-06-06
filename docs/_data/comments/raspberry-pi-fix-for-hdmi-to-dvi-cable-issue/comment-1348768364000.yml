@@ -1,0 +1,144 @@
+name: Akshob
+date: '2012-09-27 10:52:44'
+url: ''
+message: >-
+  Hello Pat,
+
+
+  I am not getting output in my Dell monitor, model number is 'IN 2020M'.
+
+  When I boot my monitor detects, but later goes to sleep mode, saying no DVI-D
+  cable.
+
+
+  the edidparser's output is as follows
+
+
+  Parsing edid.dat...
+
+  HDMI:EDID version 1.3, 0 extensions, screen size 44x25 cm
+
+  HDMI:EDID features - videodef 0x80 standby suspend active off; colour
+  encoding:RGB444|YCbCr422; sRGB is not default colourspace; preferred format is
+  native; does not support GTF
+
+  HDMI:EDID found monitor S/N descriptor tag 0xff
+
+  HDMI:EDID found monitor name descriptor tag 0xfc
+
+  HDMI:EDID monitor name is DELL_IN2020M
+
+  HDMI:EDID found monitor range descriptor tag 0xfd
+
+  HDMI:EDID monitor range offsets: V min=0, V max=0, H min=0, H max=0
+
+  HDMI:EDID monitor range: vertical is 50-76 Hz, horizontal is 30-83 kHz, max
+  pixel clock is 170 MHz
+
+  HDMI:EDID monitor range does not support GTF
+
+  HDMI:EDID found unknown detail timing format: 1600x900p hfp:48 hs:32 hbp:80
+  vfp:3 vs:5 vbp:18 pixel clock:97 MHz
+
+  HDMI:EDID established timing I/II bytes are A5 4B 00
+
+  HDMI:EDID found DMT format: code 4, 640x480p @ 60 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 6, 640x480p @ 75 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 9, 800x600p @ 60 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 11, 800x600p @ 75 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 16, 1024x768p @ 60 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 18, 1024x768p @ 75 Hz in established timing
+  I/II
+
+  HDMI:EDID found DMT format: code 36, 1280x1024p @ 75 Hz in established timing
+  I/II
+
+  HDMI:EDID standard timings block x 8: 0x714F 8180 A9C0 0101 0101 0101 0101
+  0101
+
+  HDMI:EDID found DMT format: code 21, 1152x864p @ 75 Hz (4:3) in standard
+  timing 0
+
+  HDMI:EDID found DMT format: code 35, 1280x1024p @ 60 Hz (5:4) in standard
+  timing 1
+
+  HDMI:EDID found DMT format: code 83, 1600x900p @ 60 Hz (16:9) in standard
+  timing 2
+
+  HDMI:EDID filtering formats with pixel clock &gt; 162 MHz or h. blanking &gt;
+  1023
+
+  HDMI:EDID no known preferred format has been set
+
+  HDMI:EDID filtering preferred group has been changed from Invalid to DMT
+
+  HDMI:EDID best score mode initialised to DMT (4) 640x480p @ 60 Hz with pixel
+  clock 25 MHz (score 18432)
+
+  HDMI:EDID best score mode is now DMT (4) 640x480 @ 60 MHz with pixel clock 25
+  Hz (score 36864)
+
+  HDMI:EDID best score mode is now DMT (6) 640x480 @ 75 MHz with pixel clock 31
+  Hz (score 46080)
+
+  HDMI:EDID best score mode is now DMT (9) 800x600 @ 60 MHz with pixel clock 40
+  Hz (score 57600)
+
+  HDMI:EDID best score mode is now DMT (11) 800x600 @ 75 MHz with pixel clock 49
+  Hz (score 72000)
+
+  HDMI:EDID best score mode is now DMT (16) 1024x768 @ 60 MHz with pixel clock
+  65 Hz (score 94370)
+
+  HDMI:EDID best score mode is now DMT (18) 1024x768 @ 75 MHz with pixel clock
+  78 Hz (score 117964)
+
+  HDMI:EDID best score mode is now DMT (21) 1152x864 @ 75 MHz with pixel clock
+  108 Hz (score 174298)
+
+  HDMI:EDID best score mode is now DMT (35) 1280x1024 @ 60 MHz with pixel clock
+  108 Hz (score 182286)
+
+  HDMI:EDID best score mode is now DMT (36) 1280x1024 @ 75 MHz with pixel clock
+  135 Hz (score 196608)
+
+  HDMI:EDID best score mode is now DMT (83) 1600x900 @ 60 MHz with pixel clock
+  108 Hz (score 197800)
+
+  HDMI:EDID preferred mode is updated to DMT (83) 1600x900p @ 60 Hz with pixel
+  clock 108000000 Hz
+
+  HDMI:EDID has only DVI support and no audio support
+
+  edid_parser exited with code 0
+
+
+  my settings in config.txt
+
+  hdmi_force_hotplug=1
+
+  hdmi_group=2
+
+  hdmi_mode=83
+
+  hdmi_drive=1
+
+
+  I also tried with only hdmi_force_hotplug=1 but no luck.
+
+
+  Please help me out.
+
+
+  Thank you.
+email: a9f5ca9b6b8c44017299a4a7014f7d0b

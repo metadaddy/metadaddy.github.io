@@ -1,0 +1,20 @@
+name: Ron
+date: '2012-07-23 03:42:54'
+url: ''
+message: >-
+  I just can't figure out how to read on server-side in a TCP scenario.
+
+
+  What I'm trying to do is just like this...
+
+
+  On client-side I have a file descriptor (my source), then I do a write on my
+  socket descriptor: it works fine, at least I hope.
+
+
+  On server-side, I'm not able to get any byte from my client. Surely, the main
+  issue is related to the file size on server-side.
+
+
+  Any suggestions ? This is driving me insane.
+email: 068ebc21d8b970be3075a6aaf6c083c6

@@ -1,0 +1,16 @@
+name: Steve Laurie
+date: '2009-03-04 05:06:06'
+url: ''
+message: >
+  <p>To make this easier on you when setting up a new system, in the /etc dir,
+  you'll find a file called nsswitch.dns already configured correctly to set the
+  system up as a DNS client. Simply &quot;cp /etc/nsswitch.dns
+  /etc/nsswitch.conf&quot; and Bob's your Uncle!</p>
+
+  <p>Also, you'll find that the hosts file is really in /etc/inet. It's only
+  linked into the /etc dir for BSD compatibility reasons.</p>
+
+  <p>Cheers,<br/>
+
+  Steve</p>
+email: f4cc7645bbea05bfe3a60eabeaee90d0

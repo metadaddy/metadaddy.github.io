@@ -1,0 +1,20 @@
+name: Superpat
+date: '2005-11-21 15:23:35'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  Hi Paul,
+
+  <br />
+
+  You're correct, of course. It is the RedirectRequest protocol (specified in
+  the Interaction Service Specification) that sends the user to the DoHC. I've
+  fixed the text of the blog entry and the preso itself to make this clear.
+
+  <br />
+
+  Thanks for the catch!
+
+  <br />
+
+  Pat
+email: d41d8cd98f00b204e9800998ecf8427e

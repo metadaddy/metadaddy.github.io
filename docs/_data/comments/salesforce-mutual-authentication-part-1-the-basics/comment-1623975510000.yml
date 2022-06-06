@@ -1,0 +1,19 @@
+name: Pat
+date: '2021-06-17 17:18:30'
+url: ''
+message: >-
+  Hi Vlad... Unfortunately, it's not possible; you have to use a 'real' SSL
+  server cert signed by a CA trusted by Salesforce:
+
+
+  <blockquote>When sending outbound messages, delegated authentication requests
+  or Apex callouts to secure/SSL endpoints (e.g.
+  <code>https://myintegration.acme.com</code>), a Salesforce.com organization
+  (acting as the client) will only trust the target host (that will act as the
+  server) if this presents a certificate signed by a root Certification
+  Authority (CA) [...]. In other words, in this scenario self-signed
+  certificates are not allowed to be used by the target host.</blockquote>
+
+
+  See https://help.salesforce.com/articleView?id=000326722&type=1&mode=1
+email: 5080aaff59eac4d87182616a8005ba8c

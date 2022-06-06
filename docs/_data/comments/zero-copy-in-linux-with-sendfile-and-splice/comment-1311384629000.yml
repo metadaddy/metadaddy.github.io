@@ -1,0 +1,11 @@
+name: Samson Chen
+date: '2011-07-22 18:30:29'
+url: 'http://gigahertz.us/'
+message: >-
+  I had a similar experience. Performance of spilce() is much worse than
+  buffered read/write if the splice size is small. After utilizing it with the
+  pipe size (64K), it is better than read/write. However, it is still far away
+  from my expected zero-copy. LRO seems to be supported by some 10G NICs because
+  of patent issues. I only need OS-based zero-copy on basic Gb/100Mb hardware.
+  (I am using it with a embedded Linux.)
+email: f0e74b3d0b6ce38b2804a02ec8f61fd0

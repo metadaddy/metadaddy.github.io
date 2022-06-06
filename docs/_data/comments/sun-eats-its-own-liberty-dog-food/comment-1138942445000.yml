@@ -1,0 +1,13 @@
+name: Superpat
+date: '2006-02-02 20:54:05'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>Even more scarily, we did the integrated identity management demo for the
+  SunNetwork conference in Beijing in June <b>2004</b>. That was a doozy -
+  Access Manager protecting an enterprise portal in which you could create new
+  accounts in an HR system which Identity Manager then provisioned into
+  Directory Server so that the newly provisioned user could log into the portal
+  and then (still with me?) access a partner website via SAML 1.1. I'll have to
+  see if we can post an annotated version on the web. That's still a killer demo
+  of how the Sun products stack together.</p>
+email: d41d8cd98f00b204e9800998ecf8427e

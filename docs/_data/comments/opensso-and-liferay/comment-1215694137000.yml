@@ -1,0 +1,19 @@
+name: Jonathan
+date: '2008-07-10 05:48:57'
+url: ''
+message: >
+  <p>Hi pat, <br/>
+
+  I use the OPENSSO and I am trying to integrate it to Liferay, but I am having
+  some problems:<br/>
+
+  At the time of login, the page is redirected to OPENSSO and returns to liferay
+  successfully, but returns with guest user and not the user who logged in
+  OPENSSO.<br/>
+
+  You would have some advice?<br/>
+
+  I thank the attention!<br/>
+
+  I am using opensso 4.5 and LifeRay 5.0.1</p>
+email: 3e7586051bdc8c3bf4bb640ae9203448

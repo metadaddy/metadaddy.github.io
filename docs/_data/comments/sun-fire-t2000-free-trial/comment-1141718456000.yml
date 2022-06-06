@@ -1,0 +1,18 @@
+name: Superpat
+date: '2006-03-07 00:00:56'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  Marty - you might find <a
+  href="http://blogs.sun.com/roller/page/DirectoryManager" rel="nofollow">Neil
+  Wilson</a>'s blog entries on this topic useful: <a
+  href="http://blogs.sun.com/roller/page/DirectoryManager?entry=tuning_the_number_of_worker"
+  rel="nofollow">Tuning the Number of Worker Threads</a> and <a
+  href="http://blogs.sun.com/roller/page/DirectoryManager?entry=sun_t2000_vs_dell_68501"
+  rel="nofollow">Sun T2000 vs Dell 6850 Revisited</a>. I know OpenLDAP and Sun
+  Java System Directory Server are different products, but our experiences with
+  the T2000 should help set your expectations.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

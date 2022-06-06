@@ -1,0 +1,5 @@
+name: Sarius
+date: '2021-02-16 12:07:58'
+url: ''
+message: "If you are using a Monitor with VDI and a VDI - HDMI cable the solution is just to uncomment \"hdmi_drive=1\" and change it to 2.\r\n\r\nMy monitor was flickering and it wouldn't show me the raspi Desktop all the time, on random intervals. By changing this it worked 100%."
+email: f841125f4a4730dddc1fda6def896401

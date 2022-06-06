@@ -1,0 +1,42 @@
+name: Mukesh
+date: '2011-07-04 02:47:07'
+url: ''
+message: >-
+  The code snippet didn't came fine in my previous post. Here is the updated
+  one:
+
+
+  int
+
+  vsf_sysutil_recvfile(const int out_fd, const int in_fd,
+                       unsigned int offset, unsigned int count, int pipefd0, int pipefd1)
+  {
+
+      int bytes, bytes_sent, bytes_in_pipe;
+      unsigned int total_bytes_sent = 0;
+
+      while (total_bytes_sent &lt; count) {
+          if ((bytes_sent = splice(in_fd, NULL, pipefd1, NULL,
+                  count - total_bytes_sent,
+                  SPLICE_F_MOVE | SPLICE_F_NONBLOCK))  0) {
+              if ((bytes = splice(pipefd0, NULL, out_fd, &amp;offset, bytes_in_pipe,
+                      SPLICE_F_MOVE)) &lt;= 0) {
+                  if (errno == EINTR || errno == EAGAIN) {
+                      // Interrupted system call/try again
+                      // Just skip to the top of the loop and try again
+                      continue;
+                  }
+                  perror(&quot;splice Write&quot;);
+                  return -1;
+              }
+              bytes_in_pipe -= bytes;
+          }
+          total_bytes_sent += bytes_sent;
+      }
+
+      return total_bytes_sent;
+  }
+
+
+  -Mukesh Kohli
+email: 965aaeec53720e6f06f621303dd70403

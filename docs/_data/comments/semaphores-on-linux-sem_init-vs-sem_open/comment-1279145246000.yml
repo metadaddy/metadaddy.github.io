@@ -1,0 +1,18 @@
+name: Andrea
+date: '2010-07-14 15:07:26'
+url: ''
+message: >-
+  Nice post, thanks.
+
+
+  Another way is to create a region of anonymous memory and set it as shared via
+  mmap():
+
+    sem_t *mutex = mmap(NULL, sizeof(sem_t),
+                                      PROT_READ | PROT_WRITE,
+                                      MAP_ANONYMOUS | MAP_SHARED, 0, 0);
+    if (!mutex) {
+        perror("out of memory\n");
+        exit(1);
+    }
+email: d5e19eec98557aac8763dd3deaa69855

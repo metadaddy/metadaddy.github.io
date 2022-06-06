@@ -1,0 +1,18 @@
+name: Kyuha
+date: '2010-09-18 20:57:31'
+url: ''
+message: >-
+  Pat, I'm trying to build a simple char device driver based on LDD3 book. 
+
+  But I got a problem in compiling.
+
+  When I call "make", it produce nothing.
+
+  I have Ubuntu 9.10 (Lucid Lynx) kernel 2.6.32(standard fresh installed).
+
+  Could you give some advices what should I prepare(maybe kernel tree or linux
+  header, etc) first?
+
+
+  Thanks.
+email: 801d4e619d552c745656fb1ff20897ac

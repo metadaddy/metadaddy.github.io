@@ -1,0 +1,28 @@
+name: Dennis Seah
+date: '2006-11-11 23:56:15'
+url: 'http://blogs.sun.com/justme'
+message: >
+  hi Pat,
+
+  <p>
+
+  I have opensso.war up and running without these problems on tomcat 5.5 on
+  Solaris 10. I have tomcat user as root. :-)
+
+  <p>
+
+  For non-root, setup these before deploying the opensso.war
+
+  <ol>
+
+  <li>set
+
+  <pre>permission java.util.PropertyPermission "user.home", "read";</pre>
+
+  <li>make sure that the tomcat admin user has read and write permission to his
+  home directory.
+
+  </ol>
+
+  thanks
+email: d41d8cd98f00b204e9800998ecf8427e

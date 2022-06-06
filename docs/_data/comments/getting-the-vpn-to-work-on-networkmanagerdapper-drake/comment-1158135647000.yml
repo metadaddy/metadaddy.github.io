@@ -1,0 +1,16 @@
+name: Ed
+date: '2006-09-13 01:20:47'
+url: ''
+message: >
+  I think I solved our problem.  Install resolvconf.
+
+  apt-get install resolv.conf
+
+  I noticed that the /etc/ppp/ip-up.d0dns-up script had a comment that said use
+  resolvconf if it is available.  A quick search on resolvconf shows that it
+  helps manage the resolv.conf entries.
+
+  Now, the resolv.conf doesn't get rewritten.
+
+  :D *Big smile*
+email: 1deb163a5a401a17acb7436b69855cfb

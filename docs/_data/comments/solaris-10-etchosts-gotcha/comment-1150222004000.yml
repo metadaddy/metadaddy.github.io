@@ -1,0 +1,12 @@
+name: Rohan Pinto
+date: '2006-06-13 11:06:44'
+url: 'http://www.rohanpinto.com'
+message: >
+  It would be really nice to know is the same behaviour is seen on linux too...
+  and if so what the workaround could be...
+
+  I seem to have similar issues with the ldap server in certain instances
+  failing to startup due to an error... "Failed to find route to host".. and it
+  looks like the reason is pretty close to yours when you saw errors during your
+  demo setup of federation.
+email: 7f289e57e1d609361b34e92988b6e577

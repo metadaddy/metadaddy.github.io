@@ -1,0 +1,19 @@
+name: Superpat
+date: '2006-06-13 13:46:03'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: >
+  <p>
+
+  Hi Rohan - no, this is Solaris-specific. Linux puts IPv6 information in
+  /etc/hosts.
+
+  </p>
+
+  <p>
+
+  I can't think of anything to help you with "Failed to find route to host"
+  apart from the regular diagnostics - ping the hostname, ping the ip address,
+  traceroute etc etc etc.
+
+  </p>
+email: d41d8cd98f00b204e9800998ecf8427e

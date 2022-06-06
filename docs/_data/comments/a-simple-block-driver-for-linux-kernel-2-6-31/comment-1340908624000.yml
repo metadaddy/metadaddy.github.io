@@ -1,0 +1,13 @@
+name: tej
+date: '2012-06-28 11:37:04'
+url: ''
+message: >-
+  Hi Pat, 
+
+
+  I am not understanding one thing that what difference it makes if we execute
+  blk_fetch_request function inside while loop like LDD3. 
+
+
+  If I do so, fdisk just hang.
+email: cd12363abd4a4cb34929a908ce3f22e8

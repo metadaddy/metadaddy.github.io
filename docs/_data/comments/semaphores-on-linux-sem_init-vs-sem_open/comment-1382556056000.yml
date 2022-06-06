@@ -1,0 +1,55 @@
+name: Shashank
+date: '2013-10-23 12:20:56'
+url: ''
+message: |-
+  Hi Pat,
+  My semaphores are not accessable by other processes. Below is the snippet
+
+  void initStudentStuff(void)
+  {
+
+      CHK(fdnc = open("numCountFile",O_RDWR|O_CREAT|O_TRUNC,S_IRUSR|S_IWUSR));
+      CHK(fdlc = open("lineCountFile",O_RDWR|O_CREAT|O_TRUNC,S_IRUSR|S_IWUSR));
+
+      CHK(lseek(fdnc,0,SEEK_SET));
+      assert(sizeof(numCount) == write(fdnc,&amp;numCount,sizeof(numCount)));
+      CHK(lseek(fdlc,0,SEEK_SET));
+      assert(sizeof(lineCount) == write(fdlc,&amp;lineCount,sizeof(lineCount)));
+
+      sprintf(semName,"/%s%ldsem",COURSEID,(long)getuid());
+      sem = sem_open(semName,O_RDWR|O_CREAT|S_IRUSR|S_IWUSR,1);
+
+  }
+
+  /* In this braindamaged version of placeWidget, the widget builders don't
+     coordinate at all, and merely print a random pattern. You should replace
+     this code with something that fully follows the p3 specification. */
+  void placeWidget(int n)
+  {   
+      CHK(sem_wait(sem));
+      
+      CHK(lseek(fdnc,0,SEEK_SET));
+      assert(sizeof(numCount) == read(fdnc,&amp;numCount,sizeof(numCount)));
+      CHK(lseek(fdlc,0,SEEK_SET));
+      assert(sizeof(lineCount) == read(fdlc,&amp;lineCount,sizeof(lineCount)));
+    
+      printeger(n);
+     // printf ("for pid %d line count = %d , num count = %d\n", n, lineCount, numCount);
+      if (lineCount == numCount)
+      {
+          ++lineCount;
+          numCount = 0;
+          printf("N\n");
+          fflush(stdout);
+      }
+
+      ++numCount;
+
+      CHK(lseek(fdnc,0,SEEK_SET));
+      assert(sizeof(numCount) == write(fdnc,&amp;numCount,sizeof(numCount)));
+      CHK(lseek(fdlc,0,SEEK_SET));
+      assert(sizeof(lineCount) == write(fdlc,&amp;lineCount,sizeof(lineCount)));
+
+      CHK(sem_post(sem));
+  }
+email: f3013e26cff0e70ee850227f17381314

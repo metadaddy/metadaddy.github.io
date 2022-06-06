@@ -1,0 +1,75 @@
+name: Superpat
+date: '2005-05-15 08:25:28'
+url: 'http://blogs.sun.com/superpat'
+message: >
+  Well, loath as I am to rise to the troll's bait, I feel I must respond to
+  '202.157.176.102's point about 'sneaking off'.
+
+  <ul>
+
+  <li>
+
+  <b>Our Customers</b>: Holy crap - Microsoft's going to release a federation
+  product, and it won't support Liberty ID-FF or SAML 2.0. Will you support
+  WS-Federation?
+
+  </li>
+
+  <li>
+
+  <b>Us</b>: A third federation spec? That duplicates the other two?
+
+  </li>
+
+  <li>
+
+  <b>Our Customers</b>: OK - we see your point, but we'll have to make this
+  stuff work together somehow.
+
+  </li>
+
+  <li>
+
+  <b>Us</b>: Hmm - well, we just made peace with MS - let's see what we can do.
+  Hey, MS - are you ready to join Liberty yet?
+
+  </li>
+
+  <li>
+
+  <b>MS</b>: We have no plans to join Liberty.
+
+  </li>
+
+  <li>
+
+  <b>Us</b>: SAML 2.0?
+
+  </li>
+
+  <li>
+
+  <b>MS</b>: Nope. We're committed to WS-Federation and the WS-* stack.
+
+  </li>
+
+  <li>
+
+  <b>Us</b>: OK. How about a way to make our stuff work together, at least.
+
+  </li>
+
+  <li>
+
+  <b>MS</b>: Let's talk about it.
+
+  </li>
+
+  </ul>
+
+  So we did. And the sensitivity of the Sun/MS relationship (and the nature of
+  MS) meant that those talks had to be in secret. The bottom line is that we did
+  this for our customers. They don't want to be hurting, trying to tie this
+  stuff together themselves. We did what it took to get the job done. And if
+  other vendors don't like that, well, I won't lose any sleep over it.
+email: d41d8cd98f00b204e9800998ecf8427e

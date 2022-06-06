@@ -1,0 +1,9 @@
+name: Rajiv
+date: '2014-02-11 16:28:45'
+url: ''
+message: >-
+  Thanks for writing this. Do you know how this compares to mmapping a file, and
+  supplying the resulting buffer to read calls? It should in theory achieve
+  something similar. The socket data goes straight to the shared buffer and we
+  avoid the read/write pair calls.
+email: 2bc8b1ed21554addc6f0fc07c79ee950

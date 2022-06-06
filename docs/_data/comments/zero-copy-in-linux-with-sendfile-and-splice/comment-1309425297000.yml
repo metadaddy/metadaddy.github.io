@@ -1,0 +1,26 @@
+name: Mukesh
+date: '2011-06-30 02:14:57'
+url: ''
+message: >-
+  Hello Pat,
+
+
+  Thanks for your quick response. 
+
+
+  Without zero copy changes I am getting ~25000 K bytes/sec in put performance.
+  After the changes I am getting ~19000 K bytes/sec :-(
+
+
+  One thing I would like to highlight: I had to use below changes for reading
+  the data into the pipe from socket,to make it operational:
+
+
+  MIN(count - total_bytes_sent, 16384)
+
+
+  Where as conventional read and write use the buffer size of around 64K bytes.
+
+
+  -Mukesh
+email: 965aaeec53720e6f06f621303dd70403

@@ -1,0 +1,14 @@
+name: Paul Walker
+date: '2009-02-02 01:28:36'
+url: ''
+message: >
+  <p>Hey Pat, might be worth mentioning that the OpenDS ref int plugin isn't
+  enabled by *default*. </p>
+
+  <p>By default, the referential integrity plug-in is disabled. When you enable
+  the plug-in by using dsconfig, it performs integrity updates on the
+  member,uniquemember attributes immediately after a delete, rename, or move
+  operation. Whenever you delete, rename, or move a user or group entry in the
+  directory, the operation is logged to the referential integrity log file
+  install-dir/logs/referint. </p>
+email: 97f634571c0aa9c89774818d5ae86791

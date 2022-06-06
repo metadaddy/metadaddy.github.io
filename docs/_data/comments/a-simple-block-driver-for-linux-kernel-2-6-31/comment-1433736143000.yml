@@ -1,0 +1,10 @@
+name: >-
+  &raquo; Linux: Reserve fixed RAM memory region as a block device ( with a
+  given start physical address)
+date: '2015-06-07 21:02:23'
+url: >-
+  http://www.itsprite.com/linux-reserve-fixed-ram-memory-region-as-a-block-device-with-a-given-start-physical-address/
+message: >-
+  [&#8230;] A simple block driver for Linux Kernel 2.6.31 (careful: a lot has
+  changed in time) [&#8230;]
+email: d41d8cd98f00b204e9800998ecf8427e

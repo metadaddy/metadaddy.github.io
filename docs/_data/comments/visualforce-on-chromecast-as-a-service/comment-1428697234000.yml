@@ -1,0 +1,35 @@
+name: Jason
+date: '2015-04-10 13:20:34'
+url: ''
+message: >-
+  Hi Pat! Thanks for making such an awesome tool available. 
+
+
+  Unfortunately, while trying to use this service recently, we began getting
+  errors returned from our chrome device. 
+
+
+  [browser] [SEVERE] Error: Uncaught Error: Timeout
+  (chrome-extension://dlioch.../background_script.js @ Line: 86
+
+
+  The weird thing is that we have other TVs displaying this same VF page and I
+  can connect using this app and change the VF page those are displaying, but if
+  the TV is turned off and back on, and the cast essentially stopped, we can no
+  longer cast this app to the TV anymore. 
+
+
+  Did anything change recently on either the sender or receiver? I'm new to the
+  chromecast and how it all works. Any help would greatly be appreciated.
+
+
+  I will mention that casting a tab to any of our chromecast devices still
+  works, but of course that doesn't keep the cast alive 24/7 like it is when
+  using your app.
+
+
+  Thanks!
+
+
+  Jason
+email: 880deee30ad9b94c1df0c0309f8b8a78

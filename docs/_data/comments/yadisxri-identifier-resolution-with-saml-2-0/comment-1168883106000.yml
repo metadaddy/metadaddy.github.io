@@ -1,0 +1,11 @@
+name: Pat
+date: '2007-01-15 09:45:06'
+url: 'http://blog.superpat.com/'
+message: >
+  Hi Chema, the service provider/relying party does indeed need to fetch
+  metadata for each identity provider (just as an OpenID relying party needs to
+  dereference the user's URL or i-name for each login), but it need not keep it
+  persistently - the metadata can just be discarded at the end of the login. The
+  service provider can choose to allow all identity providers or only a given
+  set, just as in 'classic' OpenID.
+email: 5080aaff59eac4d87182616a8005ba8c

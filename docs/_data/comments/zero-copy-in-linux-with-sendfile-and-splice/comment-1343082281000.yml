@@ -1,0 +1,23 @@
+name: Ron
+date: '2012-07-23 15:24:41'
+url: ''
+message: >-
+  It's the same with O_TRUNC !
+
+
+  In my opinion the main issue is on the server, I guess. When I'm going to
+  create the output file, the file size (in byte) is unknown. The client should
+  send "count" informations before the server starts write on the output file.
+
+
+  I'm too tired at the moment and I need to sleep.
+
+
+  BTW, here you'll find the client: https://gist.github.com/3166618
+
+
+  You can try to run it on your linux-box and see if you get such monster file.
+
+
+  Sorry.
+email: 068ebc21d8b970be3075a6aaf6c083c6

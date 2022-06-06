@@ -1,0 +1,8 @@
+name: Damien
+date: '2009-07-27 18:45:43'
+url: ''
+message: >
+  <p>Hi Pat.  Regarding the redirection loop for OpenSSO/wordpress - the same
+  condition exists for the Jira/Confluence plugin (seraph). I suppose the
+  correct behaviour would be to display an error page (customisable)?</p>
+email: d7a8197b013f3808eb25c0c10585108d

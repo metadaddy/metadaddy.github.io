@@ -1,0 +1,31 @@
+name: David Pike
+date: '2016-07-19 16:08:41'
+url: ''
+message: >-
+  I bought a RPi-3 package deal from an ebay seller here in Australia. It came
+  with a very thin HDMI cable, described as being light and flexible so as not
+  to pull your RPi off the desk!
+
+  I connected the RPi to my Polyview 19" monitor via the supplied HDMI cable and
+  an HDMI-DVI-D adapter. No display on the monitor except warnings that the
+  input was out of range. Several different warning messages flashed up at odd
+  times, some saying that there was 0Hz horizontal scan, others saying there
+  were various odd horizontal frequencies.
+
+  I edited the config.txt file many times, trying every combination of settings.
+  Sometimes the monitor would display OK after something had been changed, but
+  next time I booted the RPi up back would come the old blank screen with the
+  "out of range" warnings.
+
+  Eventually I got suspicious of the thin HDMI cable and tried a "normal" thick
+  one. Bingo! that got the monitor displaying reliably. I found that the thin
+  cable had no continuity between any of the shield pins (2, 5, 8 or 11) or the
+  DDC/CEC ground (pin 17) or the connector shells. The standard cable had
+  continuity between each of these.
+
+  Apparently the thin cable has been made thin by leaving out all the shields
+  and other ground connections, probably resulting in severe crosstalk between
+  the signal pairs. No wonder the poor monitor was confused!
+
+  Hope this helps!
+email: dd267ce081cc8b977f36003099b3880e

@@ -1,0 +1,13 @@
+name: Edward
+date: '2009-06-24 11:03:16'
+url: ''
+message: >
+  <p>Cool! Followed the instructions in README successfully.</p>
+
+  <p>Only one small glitch. I saw 500 error when running demo test harness at
+  first. By looking at glassfish log, I figured that there's an unwanted
+  'ssl=off' property in TokenServicePool's 'Additional Properties' tab. Deleting
+  this property solved the issue.</p>
+
+  <p>Hope this can help somebody ;)</p>
+email: d41d8cd98f00b204e9800998ecf8427e

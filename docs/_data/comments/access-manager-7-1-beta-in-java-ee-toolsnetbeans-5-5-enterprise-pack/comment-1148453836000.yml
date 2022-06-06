@@ -1,0 +1,16 @@
+name: Superpat
+date: '2006-05-23 23:57:16'
+url: 'http://blogs.sun.com/roller/page/superpat'
+message: |
+  <p>
+  My handy shell script for running netbeans in a nested X session:
+  </p>
+  <pre>
+  #! /bin/bash
+  # You could use Xnest instead of Xephyr here
+  Xephyr :2 -ac -screen 1024x768 &amp;
+  icewm --display :2 &amp;
+  export DISPLAY=:2
+  ~/netbeans-5.5beta/bin/netbeans &amp;
+  </pre>
+email: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,20 @@
+name: Robert Kelly
+date: '2009-11-12 13:22:44'
+url: ''
+message: >-
+  Hi Pat,
+
+  I had a slight issue with the new feature.
+
+  We have multiple AD Sites and it picked a server in a remote site vs. a local
+  one.
+
+
+  Before the LDAP lookup, a Site lookup should really be performed, probably
+  based on the subnet the server is in and then finding out which LDAP servers
+  are in that site.
+
+  In a domain with multiple Sites, you could end up configuring an AD connection
+  to a server in a remote site over a potentially slow link vs. your local
+  servers.
+email: e2c4fb6af00e7096d57babe95bc12c08

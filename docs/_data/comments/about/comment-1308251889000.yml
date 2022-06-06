@@ -1,0 +1,22 @@
+name: Pat Patterson
+date: '2011-06-16 12:18:09'
+url: ''
+message: >-
+  Hi Jake - re 'questionable' - yeah, I ought to go update my 'About' page. I'll
+  put that on my list for today.
+
+
+  As for PHP 5.1.6... Unfortunately, the default behavior of PHP's SOAP
+  implementation is (in my opinion, but not the PHP folks) broken - see
+  http://eirikhoem.wordpress.com/2008/03/13/array-problems-with-soap-and-php-updated/
+
+
+  A configuration option 'SOAP_SINGLE_ELEMENT_ARRAYS' was introduced in PHP 5.2.
+  Since PHP 5.1.x is no longer supported (indeed, the end-of-life for PHP 5.2.x
+  was announced last December -
+  http://www.php.net/archive/2010.php#id2010-12-16-1) I think your best option
+  is to move to PHP 5.3.
+
+
+  Sorry I can't give you a better fix!
+email: 5080aaff59eac4d87182616a8005ba8c

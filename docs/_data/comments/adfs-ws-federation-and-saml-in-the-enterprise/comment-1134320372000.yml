@@ -1,0 +1,23 @@
+name: James
+date: '2005-12-11 08:59:32'
+url: 'http://duckdown.blogspot.com'
+message: >
+  Another trend that seems to not be acknowledged by many identity bloggers is
+  that enterprises are also interested in consolidating the number of identity
+  stores within their walls and Active Directory makes a great place in which to
+  accomplish such a thing.
+
+  Your comment regarding diverse environments also equally applies to my own
+  employer (Fortune 100). For example, would it be more honest if the community
+  were to leverage existing technologies in some fashion vs SAML everywhere.
+
+  One example may be that you could get IBM RACF to trust Active Directory via
+  Kerberos vs making RACF understand SAML.
+
+  I have no thoughts (at least ones I want to share publicly) on what architects
+  in other enterprises think about. They are sure welcome to spend more money on
+  acquiring products that should otherwise be integrated into existing
+  enterprise products.
+
+  Anyway, a balanced perspective is warranted over strictly rallying for SAML.
+email: 1b34e4c3b93181cbb56b6df77bbedd57
