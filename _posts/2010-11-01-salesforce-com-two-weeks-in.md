@@ -11,7 +11,7 @@ tags:
   - salesforce.com
 ---
 
-[caption id="" align="alignright" width="240" caption="I'm currently reading 'Behind the Cloud'"][![Behind the Cloud](http://images.amazon.com/images/P/0470521163.01._AA240_SCLZZZZZZZ_.jpg "I'm currently reading 'Behind the Cloud'")](http://www.amazon.com/exec/obidos/ASIN/0470521163/superpatterns-20)[/caption]
+[![Behind the Cloud](http://images.amazon.com/images/P/0470521163.01._AA240_SCLZZZZZZZ_.jpg "I'm currently reading 'Behind the Cloud'")](http://www.amazon.com/exec/obidos/ASIN/0470521163/superpatterns-20)
 
 It's the end of my second week at [Salesforce.com](http://www.salesforce.com/), and I seem to have hit the ground running... A day of orientation, a couple of days [working through the Force.com and Chatter developer tutorials](http://wiki.developerforce.com/index.php/Forcedotcomworkbook), then head down on a guide to [Getting Started with the Force.com REST API](http://wiki.developerforce.com/index.php/Getting_Started_with_the_Force.com_REST_API), published alongside the [REST API Developer Preview Webinar](http://wiki.developerforce.com/index.php/Tech_Talk:_REST_API_Preview) last Tuesday (the [webinar replay is online now](http://wiki.developerforce.com/index.php/Tech_Talk:_REST_API_Preview)).
 
