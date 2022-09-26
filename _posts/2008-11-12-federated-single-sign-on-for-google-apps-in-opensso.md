@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right; border-style: solid; border-width: thin;">[![](images/GoogleSSO.png)](http://developers.sun.com/identity/reference/techart/google-apps.html)</div>
+[![](images/GoogleSSO.png)](http://developers.sun.com/identity/reference/techart/google-apps.html){: .align-left}
 
 Hot on the heels of the [OpenSSO Enterprise 8.0 release](http://blogs.sun.com/superpat/entry/opensso_enterprise_8_0_released) comes [Wajih Ahmed](http://blogs.sun.com/wahmed/) and [Marina Sum](http://weblogs.java.net/blog/marinasum/)'s article on configuring [Federated Single Sign-On for Google Apps in OpenSSO](http://developers.sun.com/identity/reference/techart/google-apps.html). With just a few minutes of work, you can be authenticating users in OpenSSO and giving them access to their accounts in [Google Apps](http://www.google.com/apps/intl/en/business/index.html), including Google Mail, Google Documents and Google Calendar. [Take a look at the demo we recorded with Michael Coté a few weeks ago](http://redmonk.com/tv/2008/09/29/demo-opensso-gets-saasy-federated-identity-across-the-firewall-with-google-and-salesforcecom/) to see the end result.
 

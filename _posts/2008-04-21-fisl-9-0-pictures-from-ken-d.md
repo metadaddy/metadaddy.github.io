@@ -9,6 +9,6 @@ categories:
   - General
 ---
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;">[![](http://farm3.static.flickr.com/2117/2431288436_80a6fa6234_m.jpg)](http://www.flickr.com/photos/draks/2431288436/ "photo sharing")</div>
+[![](http://farm3.static.flickr.com/2117/2431288436_80a6fa6234_m.jpg)](http://www.flickr.com/photos/draks/2431288436/ "photo sharing"){: .align-left}
 
 Fellow blogger and [Glassfish](http://glassfish.org/) marketeer [Ken Drachnik](http://blogs.sun.com/draks/) took this appealing (appalling?) photo of me doing a [Steve Ballmer](http://www.crunchgear.com/2007/11/01/microsoft-stabs-at-mandriva-mandriva-responds/) impression at a post-[FISL](http://fisl.softwarelivre.org/9.0/www/) dinner... [More FISL photos from Ken](http://flickr.com/photos/draks/sets/72157604658618457/).

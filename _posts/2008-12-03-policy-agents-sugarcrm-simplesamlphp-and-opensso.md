@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right;">[![](images/SugarCRM_logo.gif)](http://developers.sun.com/identity/reference/techart/index.jsp)</div>
+[![](images/SugarCRM_logo.gif)](http://developers.sun.com/identity/reference/techart/index.jsp){: .align-left}
 
 A couple of great articles from [Sun Developer Network](http://developers.sun.com/) over the past two weeks... First on the roster, Sean Brydon and [Aravindan Ranganathan](http://blogs.sun.com/aravind/) team up with the ever-present [Marina Sum](http://weblogs.java.net/blog/marinasum/) for a short series entitled 'Protecting Applications With Java EE Policy Agents'. [Part 1:Basic Steps](http://developers.sun.com/identity/reference/techart/policyagents.html) provides an excellent grounding in just what a policy agent does, and how to deploy and configure one with [OpenSSO](http://opensso.org/). Download the sample Java EE web application and [work through the example that Sean and Aravindan present](http://developers.sun.com/identity/reference/techart/policyagents.html).
 

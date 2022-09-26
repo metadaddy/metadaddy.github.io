@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right;">[![](images/AWSome.png)](http://web.meetup.com/105/calendar/9143413/)</div>
+[![](images/AWSome.png)](http://web.meetup.com/105/calendar/9143413/){: .align-left}
 
 I just presented [OpenSSO in the Clouds [PDF]](http://blog.superpat.com/OpenSSO_AWSomeAtlanta2008.pdf) at the [December meeting](http://web.meetup.com/105/calendar/9143413/) of [AWSome Atlanta](http://web.meetup.com/105/), a technology meetup to discuss Amazon EC2, S3 and other cloud technology. [John Willis](http://www.johnmwillis.com/), [Michael Coté](http://www.redmonk.com/cote/)'s co-conspirator on the [Redmonk IT Management Podcast](http://www.redmonk.com/cote/topic/podcasts/itmanagementguys/), invited me to speak here after [Daniel](http://blogs.sun.com/raskin/) and I did a [video interview with Coté](http://www.redmonk.com/cote/2008/09/30/saas-and-opensso/) a couple of months ago. A nice bunch of folks here in Atlanta, pretty technical but very focused on the practical aspects of deployment. I promised I'd post my slides, so [here they are](http://blog.superpat.com/OpenSSO_AWSomeAtlanta2008.pdf).
 

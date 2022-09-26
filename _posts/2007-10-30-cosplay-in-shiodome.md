@@ -9,6 +9,6 @@ categories:
   - Links
 ---
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;">[![](http://farm3.static.flickr.com/2194/1806437834_0b495bc0bd_m.jpg)](http://www.flickr.com/photos/superpat/1806437834/ "photo sharing")</div>
+[![](http://farm3.static.flickr.com/2194/1806437834_0b495bc0bd_m.jpg)](http://www.flickr.com/photos/superpat/1806437834/ "photo sharing"){: .align-left}
 
 Stumbled across this motley crew at [Shiodome](http://en.wikipedia.org/wiki/Shiodome) station. [Cosplay](http://en.wikipedia.org/wiki/Cosplay)!

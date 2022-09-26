@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right;">[![](http://www2.sys-con.com/java/readerschoice2004/SOAWorld-2008RCAlogo.jpg)](http://soa.sys-con.com/general/rcvote.htm)</div>
+[![](http://www2.sys-con.com/java/readerschoice2004/SOAWorld-2008RCAlogo.jpg)](http://soa.sys-con.com/general/rcvote.htm){: .align-left}
 
 [SOAWorld](http://soa.sys-con.com/) have extended the closing date for votes in their [Readers' Choice Awards](http://soa.sys-con.com/general/rcvote.htm) until the end of the year - Dec 31st. And IBM DataPower has pulled ahead of [Sun Access Manager/OpenSSO](http://www2.sys-con.com/webservices/readerschoice2004/tiny.cfm?id=77), by [540 votes to 345](http://www2.sys-con.com/webservices/readerschoice2004/frameliveupdate.cfm?BType=10).
 

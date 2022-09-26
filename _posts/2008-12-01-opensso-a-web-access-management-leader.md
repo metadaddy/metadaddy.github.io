@@ -9,7 +9,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right;">[![](images/WAMMQ2008-250.png)](http://mediaproducts.gartner.com/reprints/sunmicrosystems/volume1/article1/article1.html)</div>
+[![](images/WAMMQ2008-250.png)](http://mediaproducts.gartner.com/reprints/sunmicrosystems/volume1/article1/article1.html){: .align-left}
 
 Another year, another [Gartner Magic Quadrant for Web Access Management](http://mediaproducts.gartner.com/reprints/sunmicrosystems/volume1/article1/article1.html). Where [2007 saw Sun Access Manager entering the leader space](http://blogs.sun.com/superpat/entry/i_m_the_leader_i), close to the leader/challenger 'cusp', this year Sun OpenSSO Enterprise is solidly in the magic leader quadrant.
 

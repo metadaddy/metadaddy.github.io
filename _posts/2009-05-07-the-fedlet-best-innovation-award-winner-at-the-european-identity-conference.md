@@ -11,7 +11,7 @@ categories:
   - OpenSSO
 ---
 
-<div style="margin: 5px; float: right; border-style: solid; border-width: thin;">[![](images/IMG_0101_sm.jpg)](http://blog.superpat.com/IMG_0101_lg.jpg)</div>
+[![](images/IMG_0101_sm.jpg)](http://blog.superpat.com/IMG_0101_lg.jpg){: .align-left}
 
 Sitting next to [The Smoking Monkey](http://blogs.sun.com/raskin/) here at [Sun's Open IAM day in Brussels](http://be.sun.com/sunnews/events/2009/openiamdays/index.jsp), I just got word that [the Fedlet](http://tinyurl.com/fedlet) last night won the 'Best Innovation' award at the [European Identity Conference 2009](http://www.id-conf.com/eic2009). [In Kuppinger Cole's words](http://www.id-conf.com/blog/2009/05/07/awards-for-outstanding-identity-management-projects/):
 
