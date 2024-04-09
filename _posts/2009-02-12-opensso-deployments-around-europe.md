@@ -11,7 +11,7 @@ categories:
 
 <span style="margin: 5px; float: right;">[![](images/france.png)](http://opensso.org/)</span>
 
-News from Europe of some interesting [OpenSSO](http://opensso.org/) deployments... First, in France, [Capgemini](http://www.capgemini.com/) has been working with [Valeo](http://www.valeo.com/), a major manufacturer of automotive components, to replace a Lotus collaborative platform with [Google Apps](http://www.google.com/apps/) (plus a set of custom web applications) for over 30,000 employees. If you've been keeping up with [Superpatterns](http://blog.superpat.com/), you'll have guessed what they're using to provide Valeo employees with single sign-on across the whole set of web apps... Yep, OpenSSO. [This French story gives some more detail [PDF]](http://blog.superpat.com/09_01_08_01Info_Valeo.pdf).
+News from Europe of some interesting [OpenSSO](http://opensso.org/) deployments... First, in France, [Capgemini](http://www.capgemini.com/) has been working with [Valeo](http://www.valeo.com/), a major manufacturer of automotive components, to replace a Lotus collaborative platform with [Google Apps](http://www.google.com/apps/) (plus a set of custom web applications) for over 30,000 employees. If you've been keeping up with [Superpatterns](http://blog.superpat.com/), you'll have guessed what they're using to provide Valeo employees with single sign-on across the whole set of web apps... Yep, OpenSSO. [This French story gives some more detail [PDF]](http://blog.superpat.com/images/09_01_08_01Info_Valeo.pdf).
 
 <span style="margin: 5px; float: left;">[![](images/norway.png)](http://opensso.org/)</span>
 
