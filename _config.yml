@@ -61,7 +61,7 @@ comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-    endpoint  : https://metadaddy-staticman.herokuapp.com/v3/entry/github/
+    endpoint  : https://staticman-metadaddy.herokuapp.com/v3/entry/github/
 
 
 # Exclude from processing.

@@ -23,7 +23,7 @@ comments:
   branch: "master"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "New comment by {fields.name}"
+  commitMessage: "New comment by {fields.name} on {options.slug}"
 
   # (*) REQUIRED
   #
@@ -82,3 +82,5 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+
+  allowedOrigins: ["blog.superpat.com"]
