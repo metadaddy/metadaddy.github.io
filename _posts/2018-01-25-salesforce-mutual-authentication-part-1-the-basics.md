@@ -22,7 +22,7 @@ Mutual Authentication is not enabled by default. You must open a support case wi
 
 This was a stumbling block for me for some time. First, despite what the Salesforce documentation ([Configure Your API Client to Use Mutual Authentication](https://help.salesforce.com/articleView?id=security_keys_uploading_mutual_auth_cert_api.htm&type=5)) says, the Salesforce login service does **not** support Mutual Authentication. You **cannot** connect to `login.salesforce.com` on port `8443` as described in the docs. You can, however, send a normal authentication request for a user with Enforce SSL/TLS Mutual Authentication enabled to the default TLS port, `443`. The login service responds with a session ID as for any other login request. Mutual Authentication is enforced when you use the session ID with an API endpoint. Let's try this out. Here's a SOAP login request - add a username/password and save it to `login.xml`:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -38,7 +38,7 @@ This was a stumbling block for me for some time. First, despite what the Salesfo
 
 Now you can send it to the login service with curl:
 
-```
+```shell
 $ curl -s -k https://login.salesforce.com/services/Soap/u/41.0 \
     -H "Content-Type: text/xml; charset=UTF-8" \
     -H "SOAPAction: login" \
@@ -82,7 +82,7 @@ We need to create a PEM file for curl with the signing key, client certificate, 
 
 We'll call the `getUserInfo` API. Here's the SOAP request - add the session ID returned from login and save it as `getuserinfo.xml`:
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?> 
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
  xmlns:urn="urn:partner.soap.sforce.com">
@@ -99,7 +99,7 @@ We'll call the `getUserInfo` API. Here's the SOAP request - add the session ID r
 
 Now we're ready to make a mutually authenticated call to a Salesforce API! You'll need to specify the correct instance, as returned in the login response, in the URL. Note the port number is `8443`:
 
-```
+```shell
 $ curl -s -k https://na30.salesforce.com:8443/services/Soap/u/41.0 \
     -H "Content-Type: text/xml; charset=UTF-8" \
     -H "SOAPAction: example" \
@@ -129,7 +129,7 @@ $ curl -s -k https://na30.salesforce.com:8443/services/Soap/u/41.0 \
 
 Now let's look at a couple of failure modes. What happens when we call the `8443` port, but don't pass a client certificate?
 
-```
+```shell
 $ curl -s -k https://na30.salesforce.com:8443/services/Soap/u/41.0 \
     -H "Content-Type: text/xml; charset=UTF-8" \
     -H "SOAPAction: example" \
@@ -139,7 +139,7 @@ $ curl -s -k https://na30.salesforce.com:8443/services/Soap/u/41.0 \
 
 Note the HTML response, rather than XML! What about calling the regular `443` port with this session ID?
 
-```
+```shell
 $ curl -s -k https://na30.salesforce.com/services/Soap/u/41.0 \
     -H "Content-Type: text/xml; charset=UTF-8" \
     -H "SOAPAction: example" \

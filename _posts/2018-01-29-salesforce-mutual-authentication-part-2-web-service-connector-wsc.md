@@ -16,7 +16,7 @@ tags:
 
 ![Code](images/Code3-150x94.png){: .align-left}In [my last blog entry](salesforce-mutual-authentication-part-1-the-basics) I explained how to enable, configure and test Salesforce's [Mutual Authentication](https://help.salesforce.com/articleView?id=000240864&type=1) feature. This time, I'll share my experience getting Mutual Authentication working with the Java client SDK for Salesforce's SOAP and Bulk APIs: [Web Service Connector](https://github.com/forcedotcom/wsc), aka WSC. [StreamSets Data Collector](https://streamsets.com/products/sdc)'s Salesforce integration accesses the SOAP and Bulk APIs via WSC, so, when I was implementing Mutual Authentication in SDC, I examined WSC to see where I could configure the client key and certificate chain. Although there is no mention of [`SSLContext`](https://docs.oracle.com/javase/8/docs/api/javax/net/ssl/SSLContext.html) or [`SSLSocketFactory`](https://docs.oracle.com/javase/8/docs/api/javax/net/ssl/SSLSocketFactory.html) in the WSC code, it is possible to set a custom [`TransportFactory`](https://github.com/forcedotcom/wsc/blob/af53b297cfd1da3fdaea125fa172984f04b0cded/src/main/java/com/sforce/ws/transport/TransportFactory.java) on the WSC [`ConnectorConfig`](https://github.com/forcedotcom/wsc/blob/af53b297cfd1da3fdaea125fa172984f04b0cded/src/main/java/com/sforce/ws/ConnectorConfig.java) object. The `TransportFactory` is used to create a [`Transport`](https://github.com/forcedotcom/wsc/blob/af53b297cfd1da3fdaea125fa172984f04b0cded/src/main/java/com/sforce/ws/transport/Transport.java), which in turn is responsible for making the HTTPS connection to Salesforce. To enable Mutual Authentication I would need to create an `SSLContext` with the client key and certificate chain. This is straightforward enough:
 
-```
+```java
 // Make a KeyStore from the PKCS-12 file
 KeyStore ks = KeyStore.getInstance("PKCS12");
 try (FileInputStream fis = new FileInputStream(KEYSTORE_PATH)) {
@@ -34,7 +34,7 @@ sslContext.init(kmf.getKeyManagers(), null, null);
 
 Given the `SSLContext`, we can create an `SSLSocketFactory` and set it on the `HttpsURLConnection`. Here's the code we'd use if we were simply using the `java.net` classes directly:
 
-```
+```java
 URL url = new URL(someURL);
 HttpURLConnection conn = (HttpURLConnection)url.openConnection();
 // Check that we did get an HttpsURLConnection before casting to it
@@ -53,7 +53,7 @@ The default `Transport` implementation, [`JdkHttpTransport`](https://github.com/
 
 I followed Steven's advice and created [`ClientSSLTransport`](https://github.com/streamsets/datacollector/blob/4a46b7414ae8407850f360e8f09281950b430a2a/salesforce-lib/src/main/java/com/streamsets/pipeline/lib/salesforce/mutualauth/ClientSSLTransport.java), a clone of `JdkHttpTransport`, and [`ClientSSLTransportFactory`](https://github.com/streamsets/datacollector/blob/4a46b7414ae8407850f360e8f09281950b430a2a/salesforce-lib/src/main/java/com/streamsets/pipeline/lib/salesforce/mutualauth/ClientSSLTransportFactory.java), its factory class. To minimize the amount of copied code, I changed the implementation of `connectRaw()` to call `JdkHttpTransport.createConnection()` and then set the `SSLSocketFactory`:
 
-```
+```java
 private OutputStream connectRaw(String uri, HashMap<String, String> httpHeaders, boolean enableCompression)
 throws IOException {
   url = new URL(uri);
@@ -78,7 +78,7 @@ throws IOException {
 
 With this in place, I wrote a [simple test application](https://github.com/metadaddy/mutual-auth/blob/master/src/main/java/mutualauth/TestWSC.java) to call an API with Mutual Authentication. As I mentioned in the previous blog post, the Salesforce login service does not support Mutual Authentication, so the inital code to authenticate is just the same as the default case:
 
-```
+```java
 // Login as normal to get instance URL and session token
 ConnectorConfig config = new ConnectorConfig();
 config.setAuthEndpoint("https://login.salesforce.com/services/Soap/u/39.0");
@@ -95,14 +95,14 @@ System.out.println("Service EndPoint: "+config.getServiceEndpoint());
 
 Running this bit of code revealed that, not only does the login service not support Mutual Authentication, it returns the default service endpoint:
 
-```
+```java
 Auth EndPoint: https://login.salesforce.com/services/Soap/u/39.0
 Service EndPoint: https://na30.salesforce.com/services/Soap/u/39.0/00D36000000psQd
 ```
 
 Before we can call an API, then, we have to override the service endpoint, changing the port from the default 443 to 8443, as well as setting the `TransportFactory`:
 
-```
+```java
 String serviceEndpoint = config.getServiceEndpoint();
 // Override service endpoint port to 8443
 config.setServiceEndpoint(changePort(serviceEndpoint, 8443));
@@ -122,7 +122,7 @@ private static String changePort(String url, int port) throws URISyntaxException
 
 With this in place, I could call a SOAP API in the normal way:
 
-```
+```java
 System.out.println("Querying for the 5 newest Contacts...");
 
 // query for the 5 newest contacts
@@ -153,7 +153,7 @@ Success!
 
 Now, what about the Bulk API? Running a test app resulted in an error when I tried to create a Bulk API Job. Tracing through the WSC code revealed that when `ConnectorConfig.createTransport()` creates a `Transport` with a custom `TransportFactory`, it does not set the `ConnectorConfig` on the `Transport`:
 
-```
+```java
 public Transport createTransport() throws ConnectionException {
   if(transportFactory != null) {
     return transportFactory.createTransport();
@@ -173,7 +173,7 @@ public Transport createTransport() throws ConnectionException {
 
 `ConnectorConfig.createTransport()` is only used when the WSC Bulk API client is POSTing to the Bulk API, since the POST method is hardcoded into `JdkHttpTransport.connectRaw()` (all SOAP requests use HTTP POST). When the client wants to do a GET, it uses `BulkConnection.doHttpGet()`, which does not use `ConnectorConfig.createTransport()`, instead calling `config.createConnection()`:
 
-```
+```java
 private InputStream doHttpGet(URL url) throws IOException, AsyncApiException {
   HttpURLConnection connection = config.createConnection(url, null);
   connection.setRequestProperty(SESSION_ID, config.getSessionId());
@@ -182,7 +182,7 @@ private InputStream doHttpGet(URL url) throws IOException, AsyncApiException {
 
 The problem here is that `config.createConnection()` ultimately just calls `url.openConnection()` directly, bypassing any custom Transport:
 
-```
+```java
 public HttpURLConnection createConnection(URL url,
 HashMap<String, String> httpHeaders, boolean enableCompression) throws IOException {
 
@@ -198,7 +198,7 @@ HashMap<String, String> httpHeaders, boolean enableCompression) throws IOExcepti
 
 Luckily, `config.createConnection()` is public, so my solution to these problems was to subclass `ConnectorConfig` as [`MutualAuthConnectorConfig`](https://github.com/streamsets/datacollector/blob/69914117f85ed766327d6e3cd1b9083dc2e37bfe/salesforce-lib/src/main/java/com/streamsets/pipeline/lib/salesforce/mutualauth/MutualAuthConnectorConfig.java), providing an `SSLContext` in its constructor, and overriding `createConnection()`:
 
-```
+```java
 public class MutualAuthConnectorConfig extends ConnectorConfig {
   private final SSLContext sc;
 
@@ -220,7 +220,7 @@ public class MutualAuthConnectorConfig extends ConnectorConfig {
 
 If you look at [`ClientSSLTransport`](https://github.com/streamsets/datacollector/blob/4a46b7414ae8407850f360e8f09281950b430a2a/salesforce-lib/src/main/java/com/streamsets/pipeline/lib/salesforce/mutualauth/ClientSSLTransport.java) and [`ClientSSLTransportFactory`](https://github.com/streamsets/datacollector/blob/4a46b7414ae8407850f360e8f09281950b430a2a/salesforce-lib/src/main/java/com/streamsets/pipeline/lib/salesforce/mutualauth/ClientSSLTransportFactory.java), you'll notice that the factory has a two-argument constructor that allows us to pass the `ConnectorConfig`. This ensures that the `Transport` can get the configuration it needs, despite the fact that `ConnectorConfig.createTransport()` neglects to set the config. Now, when creating a `BulkConnection` from a Partner API `ConnectorConfig`, I use my subclassed `ConnectorConfig` class AND set the `TransportFactory` on it, so that the `SSLSocketFactory` is set for both GET and POST:
 
-```
+```java
   ConnectorConfig bulkConfig = new MutualAuthConnectorConfig(sslContext);
   bulkConfig.setTransportFactory(new ClientSSLTransportFactory(sslContext, bulkConfig));
   bulkConfig.setSessionId(partnerConfig.getSessionId()); 
