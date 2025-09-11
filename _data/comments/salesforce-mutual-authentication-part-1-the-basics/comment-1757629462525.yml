@@ -1,0 +1,13 @@
+_id: 10e27620-8f5e-11f0-8a12-7b56c016258f
+message: >-
+  Hi Desain - with regular one-way TLS/SSL, only the server has a certificate,
+  so the client has some assurance of the identity of the server, but the server
+  has no idea who the client is. With mutual authentication, the client also has
+  a certificate that is uses during the TLS/SSL handshake, so the server also
+  knows who the client is, or at least, that the client has possession of the
+  private key corresponding to the certificate.
+name: Pat Patterson
+email: 5080aaff59eac4d87182616a8005ba8c
+url: ''
+hidden: ''
+date: '2025-09-11T22:24:22.522Z'
